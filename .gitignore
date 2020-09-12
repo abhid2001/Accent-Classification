@@ -1,3 +1,9 @@
+# No need to store the mp3 files in GitHub
+Audio/*.mp3
+
+# Vscode stuff
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
