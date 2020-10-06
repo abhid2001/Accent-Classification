@@ -68,6 +68,7 @@ def get_speaker_info(start, stop):
             info['sex'] = str(bio_bar[0].find_all(
                 'li')[3].text.split()[3].strip())
             user_data.append(info)
+            info['']
         except:
             info['filename'] = ''
             info['birthplace'] = ''
@@ -89,7 +90,7 @@ def extract_from_data(langs):
     df = df[df['native_language'].isin(langs)]
     #df1 = df1[df1['native_language'].isin(langs)]
     #final = pd.concat([df, df1], axis=0)
-    df.drop('Unnamed: 0', axis=1, inplace=True)
+    df.drop(['Unnamed: 0','age','age_onset'], axis = 1, inplace = True)
     df.to_csv('Data/final_data.csv')
 
 
@@ -101,7 +102,7 @@ if __name__ == "__main__":
     print(lang_tuple)
     # ('arabic', 194), ('english', 646), ('french', 80), ('german', 42), ('hindi', 34), ('kannada', 9), ('mandarin', 150), ('russian', 81), ('spanish', 228)]
     print('Downloading now...')
-    mp3getter(lang_tuple)
-    get_speaker_info(1, 2941)
+   # mp3getter(lang_tuple)
+    #get_speaker_info(1, 2941)
     extract_from_data(langs)  # Extracted Data stored in final_data.csv
     print("DONE!!")
