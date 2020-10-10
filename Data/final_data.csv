@@ -1,1465 +1,1465 @@
-,speakerid,filename,birthplace,native_language,age,sex,age_onset
-10,11,arabic1,"riyadh, saudi arabia",arabic,3.0,female,5.0
-11,12,arabic10,"cairo, egypt",arabic,3.0,male,5.0
-12,13,arabic11,"monastir, tunisia",arabic,3.0,female,5.0
-13,14,arabic12,"baghdad, iraq",arabic,3.0,male,5.0
-14,15,arabic13,"zabbougha, lebanon",arabic,3.0,male,5.0
-15,16,arabic2,"damascus, syria",arabic,3.0,male,5.0
-16,17,arabic3,"doha, qatar",arabic,3.0,male,5.0
-17,18,arabic4,"sharjah, united arab emirates",arabic,3.0,male,5.0
-18,19,arabic5,"casablanca, morocco",arabic,3.0,female,5.0
-19,20,arabic6,"sanaa, yemen",arabic,3.0,male,5.0
-20,21,arabic7,"casablanca, morocco",arabic,3.0,female,5.0
-21,22,arabic8,"casablanca, morocco",arabic,3.0,male,5.0
-22,23,arabic9,"jerusalem, israel",arabic,3.0,female,5.0
-60,61,english1,"pittsburgh, pennsylvania, usa",english,3.0,male,5.0
-61,62,english10,"davenport, iowa, usa",english,3.0,female,5.0
-62,63,english100,"miami, florida, usa",english,3.0,female,5.0
-63,64,english101,"toronto, ontario, canada",english,3.0,female,5.0
-64,65,english102,"torrington, connecticut, usa",english,3.0,male,5.0
-65,66,english103,"staten island, new york, usa",english,3.0,male,5.0
-66,67,english104,"youngstown, ohio, usa",english,3.0,female,5.0
-67,68,english11,"staffordshire, uk",english,3.0,female,5.0
-68,69,english12,"leicester, uk",english,3.0,female,5.0
-69,70,english13,"henley on thames, oxfordshire, uk",english,3.0,male,5.0
-70,71,english14,"belfast, northern ireland, uk",english,3.0,male,5.0
-71,72,english15,"norton, virginia, usa",english,3.0,female,5.0
-72,73,english16,"wise, virginia, usa",english,3.0,male,5.0
-73,74,english17,"darwin va, virginia, usa",english,3.0,male,5.0
-74,75,english18,"dickenson county, virginia, usa",english,3.0,female,5.0
-75,76,english19,"louisville, kentucky, usa",english,3.0,male,5.0
-76,77,english2,"birmingham, uk",english,3.0,female,5.0
-77,78,english20,"mt. holly, north carolina, usa",english,3.0,female,5.0
-78,79,english21,"boston, massachusetts, usa",english,3.0,female,5.0
-79,80,english22,"panama city, panama",english,3.0,female,5.0
-80,81,english23,"englewood, tennessee, usa",english,3.0,male,5.0
-81,82,english24,"glasgow, scotland, uk",english,3.0,male,5.0
-82,83,english25,"atlanta, georgia, usa",english,3.0,male,5.0
-83,84,english26,"smith island, maryland, usa",english,3.0,male,5.0
-84,85,english27,"smith island, maryland, usa",english,3.0,female,5.0
-85,86,english28,"toronto, ontario, canada",english,3.0,male,5.0
-86,87,english29,"lindsay, ontario, canada",english,3.0,female,5.0
-87,88,english3,"brisbane, australia",english,3.0,female,5.0
-88,89,english30,"st. mary's, ontario, canada",english,3.0,female,5.0
-89,90,english31,"st. augustine, trinidad",english,3.0,female,5.0
-90,91,english32,"fresno, california, usa",english,3.0,female,5.0
-91,92,english33,"san diego, california, usa",english,3.0,male,5.0
-92,93,english34,"ronkonkoma, new york, usa",english,3.0,female,5.0
-93,94,english35,"milwaukee, wisconsin, usa",english,3.0,female,5.0
-94,95,english36,"arcadia, wisconsin, usa",english,3.0,male,5.0
-95,96,english37,"yole, india",english,3.0,female,5.0
-96,97,english38,"littlehampton, uk",english,3.0,male,5.0
-97,98,english39,"new orleans, louisiana, usa",english,3.0,female,5.0
-98,99,english4,"saint anne's bay, jamaica",english,3.0,female,5.0
-99,100,english40,"dudley, uk",english,3.0,male,5.0
-100,101,english41,"wellington, new zealand",english,3.0,male,5.0
-101,102,english42,"nigel, south africa",english,3.0,male,5.0
-102,103,english43,"vancouver, british columbia, canada",english,3.0,male,5.0
-103,104,english44,"winston salem, north carolina, usa",english,3.0,female,5.0
-104,105,english45,"pine bluff, arkansas, usa",english,3.0,male,5.0
-105,106,english46,"creswell, north carolina, usa",english,3.0,male,5.0
-106,107,english47,"plantersville, arkansas, usa",english,3.0,female,5.0
-107,108,english48,"port moresby, national capital district, papua new guinea",english,3.0,male,5.0
-108,109,english49,"castro valley, california, usa",english,3.0,male,5.0
-109,110,english5,"fairfax, virginia, usa",english,3.0,male,5.0
-110,111,english50,"baltic, south dakota, usa",english,3.0,female,5.0
-111,112,english51,"detroit, michigan, usa",english,3.0,male,5.0
-112,113,english52,"calgary, alberta, canada",english,3.0,male,5.0
-113,114,english53,"syracuse, new york, usa",english,3.0,male,5.0
-114,115,english54,"new albany, indiana, usa",english,3.0,female,5.0
-115,116,english55,"st. louis, missouri, usa",english,3.0,female,5.0
-116,117,english56,"londonderry, northern ireland, uk",english,3.0,male,5.0
-117,118,english57,"birmingham 1, uk",english,3.0,male,5.0
-118,119,english58,"southhampton, uk",english,3.0,female,5.0
-119,120,english59,"columbus, ohio, usa",english,3.0,male,5.0
-120,121,english6,"brooklyn, new york, usa",english,3.0,female,5.0
-121,122,english60,"chesapeake, virginia, usa",english,3.0,male,5.0
-122,123,english61,"toronto, ontario, canada",english,3.0,male,5.0
-123,124,english62,"west jordan, utah, usa",english,3.0,male,5.0
-124,125,english63,"lewisville, texas, usa",english,3.0,male,5.0
-125,126,english64,"montreal, quebec, canada",english,3.0,female,5.0
-126,127,english65,"lewistown, pennsylvania, usa",english,3.0,male,5.0
-127,128,english66,"baltimore, maryland, usa",english,3.0,male,5.0
-128,129,english67,"princeton, indiana, usa",english,3.0,male,5.0
-129,130,english68,"new york, new york, usa",english,3.0,male,5.0
-130,131,english69,"adelaide, australia",english,3.0,male,5.0
-131,132,english7,"macon, mississippi, usa",english,3.0,male,5.0
-132,133,english70,"beaumont, texas, usa",english,3.0,male,5.0
-133,134,english71,"west covina, california, usa",english,3.0,male,5.0
-134,135,english72,"kilkenny, ireland",english,3.0,male,5.0
-135,136,english73,"darwin, australia",english,3.0,male,5.0
-136,137,english74,"wichita, kansas, usa",english,3.0,male,5.0
-137,138,english75,"idaho falls, idaho, usa",english,3.0,male,5.0
-138,139,english76,"boston, massachusetts, usa",english,3.0,female,5.0
-139,140,english77,"melbourne, australia",english,3.0,male,5.0
-140,141,english78,"caribou, maine, usa",english,3.0,female,5.0
-141,142,english79,"boston, massachusetts, usa",english,3.0,male,5.0
-142,143,english8,"perth, australia",english,3.0,female,5.0
-143,144,english80,"glasgow, scotland, uk",english,3.0,male,5.0
-144,145,english81,"st. paul, minnesota, usa",english,3.0,male,5.0
-145,146,english82,"chicago, illinois, usa",english,3.0,female,5.0
-146,147,english83,"winnfield, louisiana, usa",english,3.0,female,5.0
-147,148,english84,"sydney, australia",english,3.0,male,5.0
-148,149,english85,"strabane, northern ireland, uk",english,3.0,male,5.0
-149,150,english86,"charleston, south carolina, usa",english,3.0,male,5.0
-150,151,english87,"tamworth, australia",english,3.0,female,5.0
-151,152,english88,"grand rapids, michigan, usa",english,3.0,male,5.0
-152,153,english89,"kingston ma, massachusetts, usa",english,3.0,male,5.0
-153,154,english9,"carthage, texas, usa",english,3.0,female,5.0
-154,155,english90,"pittsburgh, pennsylvania, usa",english,3.0,male,5.0
-155,156,english91,"kingston, jamaica",english,3.0,male,5.0
-156,157,english92,"wisconsin rapids, wisconsin, usa",english,3.0,female,5.0
-157,158,english93,"mamou, louisiana, usa",english,3.0,female,5.0
-158,159,english94,"pensacola, florida, usa",english,3.0,female,5.0
-159,160,english95,"mishawaka, indiana, usa",english,3.0,male,5.0
-160,161,english96,"point pleasant, new jersey, usa",english,3.0,male,5.0
-161,162,english97,"wilmington nc, north carolina, usa",english,3.0,male,5.0
-162,163,english98,"spokane, washington, usa",english,3.0,male,5.0
-163,164,english99,"pittsburgh, pennsylvania, usa",english,3.0,female,5.0
-178,179,french1,"st. laurent d'onay, france",french,3.0,female,5.0
-179,180,french2,"tunis, tunisia",french,3.0,male,5.0
-180,181,french3,"nice, france",french,3.0,female,5.0
-181,182,french4,"abidjan, ivory coast",french,3.0,female,5.0
-182,183,french5,"douala, cameroon",french,3.0,female,5.0
-183,184,french6,"booue, gabon",french,3.0,female,5.0
-184,185,french7,"rimouski, quebec, canada",french,3.0,male,5.0
-185,186,french8,"ghent, belgium",french,3.0,male,5.0
-188,189,german1,"dusseldorf, germany",german,3.0,female,5.0
-189,190,german2,"bemberg, germany",german,3.0,female,5.0
-190,191,german3,"meissen, germany",german,3.0,female,5.0
-191,192,german4,"stuttgart, germany",german,3.0,female,5.0
-192,193,german5,"halle, germany",german,3.0,male,5.0
-193,194,german6,"vienna, austria",german,3.0,male,5.0
-206,207,hindi1,"nagpur, maharashtra, india",hindi,3.0,male,5.0
-227,228,kannada1,"bangalore, india",kannada,3.0,female,5.0
-255,256,mandarin1,"shanxi province, shanxi, china",mandarin,3.0,female,5.0
-256,257,mandarin2,"nanjing, china",mandarin,3.0,female,5.0
-257,258,mandarin3,"jilin city, jilin, china",mandarin,3.0,male,5.0
-258,259,mandarin4,"shanghai, china",mandarin,3.0,female,5.0
-259,260,mandarin5,"beijing, china",mandarin,3.0,female,5.0
-260,261,mandarin6,"le shan, sichuan, china",mandarin,3.0,female,5.0
-261,262,mandarin7,"berkeley, california, usa",mandarin,3.0,male,5.0
-298,299,russian1,"nizhni novgorod, russia",russian,3.0,male,5.0
-299,300,russian10,"moscow, russia",russian,3.0,female,5.0
-300,301,russian11,"ola magadan, russia",russian,3.0,male,5.0
-301,302,russian2,"izmail, ukraine",russian,3.0,female,5.0
-302,303,russian3,"zaporizhzhya, ukraine",russian,3.0,female,5.0
-303,304,russian4,"moscow, russia",russian,3.0,female,5.0
-304,305,russian5,"khabarovsk, russia",russian,3.0,female,5.0
-305,306,russian6,"moscow, russia",russian,3.0,female,5.0
-306,307,russian7,"kiev, ukraine",russian,3.0,female,5.0
-307,308,russian8,"moscow, russia",russian,3.0,male,5.0
-308,309,russian9,"moscow, russia",russian,3.0,male,5.0
-322,323,spanish1,"caracas, venezuela",spanish,3.0,male,5.0
-323,324,spanish10,"san luis de la reina, el salvador",spanish,3.0,male,5.0
-324,325,spanish11,"lima, peru",spanish,3.0,female,5.0
-325,326,spanish12,"oviedo, spain",spanish,3.0,male,5.0
-326,327,spanish13,"duitama, colombia",spanish,3.0,female,5.0
-327,328,spanish14,"pereira, colombia",spanish,3.0,female,5.0
-328,329,spanish15,"san juan, puerto rico",spanish,3.0,male,5.0
-329,330,spanish16,"buenos aires, argentina",spanish,3.0,male,5.0
-330,331,spanish17,"puebla, mexico",spanish,3.0,female,5.0
-331,332,spanish18,"la paz, bolivia",spanish,3.0,male,5.0
-332,333,spanish19,"havana, cuba",spanish,3.0,female,5.0
-333,334,spanish2,"puerto la cruz, venezuela",spanish,3.0,male,5.0
-334,335,spanish20,"managua, nicaragua",spanish,3.0,male,5.0
-335,336,spanish21,"santiago, chile",spanish,3.0,male,5.0
-336,337,spanish22,"madrid, spain",spanish,3.0,female,5.0
-337,338,spanish23,"santiago, chile",spanish,3.0,male,5.0
-338,339,spanish24,"mexico city, mexico",spanish,3.0,male,5.0
-339,340,spanish25,"san jose, costa rica",spanish,3.0,male,5.0
-340,341,spanish26,"burgos, spain",spanish,3.0,male,5.0
-341,342,spanish27,"zaragoza, spain",spanish,3.0,male,5.0
-342,343,spanish28,"san miguel, el salvador",spanish,3.0,female,5.0
-343,344,spanish3,"bogota, colombia",spanish,3.0,female,5.0
-344,345,spanish4,"cabanas, el salvador",spanish,3.0,female,5.0
-345,346,spanish5,"bogota, colombia",spanish,3.0,female,5.0
-346,347,spanish6,"lima, peru",spanish,3.0,male,5.0
-347,348,spanish7,"bogota, colombia",spanish,3.0,female,5.0
-348,349,spanish8,"san salvador, el salvador",spanish,3.0,male,5.0
-349,350,spanish9,"araure, venezuela",spanish,3.0,male,5.0
-406,407,english105,"windsor, ontario, canada",english,3.0,male,5.0
-407,408,english106,"los angeles, california, usa",english,3.0,female,5.0
-409,410,spanish29,"maracaibo, zulia, venezuela",spanish,3.0,male,5.0
-411,412,french9,"lamentin, martinique",french,3.0,male,5.0
-415,416,english107,"chicago, illinois, usa",english,3.0,male,5.0
-418,419,english108,"strabane, northern ireland, uk",english,3.0,male,5.0
-419,420,english109,"concord, new hampshire, usa",english,3.0,female,5.0
-420,421,english110,"great yarmouth, norfolk, uk",english,3.0,male,5.0
-425,426,english111,"bombay, india",english,3.0,male,5.0
-426,427,english112,"st. thomas, us virgin islands",english,3.0,male,5.0
-427,428,arabic14,"amman, jordan",arabic,3.0,male,5.0
-429,430,mandarin8,"jingmen, hubei, china",mandarin,3.0,male,5.0
-436,437,arabic15,"qayrawan, tunisia",arabic,3.0,male,5.0
-438,439,english113,"wrexham, wales, uk",english,3.0,male,5.0
-440,441,spanish30,"buenos aires, argentina",spanish,3.0,male,5.0
-441,442,english114,"birmingham 2, alabama, usa",english,3.0,female,5.0
-442,443,english115,"st. albans, hertfordshire, uk",english,3.0,male,5.0
-443,444,english116,"atlanta, georgia, usa",english,3.0,male,5.0
-444,445,english117,"elmore, alabama, usa",english,3.0,female,5.0
-445,446,english118,"akron, ohio, usa",english,3.0,male,5.0
-448,449,spanish31,"guayaquil, ecuador",spanish,3.0,female,5.0
-449,450,spanish32,"santa cruz, bolivia",spanish,3.0,male,5.0
-450,451,mandarin9,"shanghai, china",mandarin,3.0,male,5.0
-454,455,english119,"saskatoon, saskatchewan, canada",english,3.0,female,5.0
-455,456,english120,"saskatoon, saskatchewan, canada",english,3.0,male,5.0
-459,460,russian12,"st. petersburg, russia",russian,3.0,male,5.0
-464,465,english121,"waconia, minnesota, usa",english,3.0,male,5.0
-466,467,spanish33,"caracas, venezuela",spanish,3.0,male,5.0
-467,468,english122,"kuala lumpur, malaysia",english,3.0,female,5.0
-468,469,english123,"riverside, california, usa",english,3.0,female,5.0
-470,471,arabic16,"meknes, morocco",arabic,3.0,male,5.0
-471,472,russian13,"moscow, russia",russian,3.0,male,5.0
-475,476,spanish34,"cartagena, spain",spanish,3.0,male,5.0
-478,479,spanish35,"mexico city, mexico",spanish,3.0,male,5.0
-479,480,english124,"brooklyn, new york, usa",english,3.0,male,5.0
-484,485,english125,"st. george, queensland, australia",english,3.0,male,5.0
-486,487,english126,"cincinnati, ohio, usa",english,3.0,female,5.0
-488,489,english127,"new britain, connecticut, usa",english,3.0,male,5.0
-489,490,english128,"miami, florida, usa",english,3.0,female,5.0
-490,491,mandarin10,"beijing, china",mandarin,3.0,male,5.0
-491,492,english129,"blackpool, lancashire, uk",english,3.0,male,5.0
-495,496,english130,"port elizabeth, south africa",english,3.0,male,5.0
-496,497,english131,"west palm beach, florida, usa",english,3.0,male,5.0
-498,499,spanish36,"montevideo, uruguay",spanish,3.0,male,5.0
-499,500,french10,"bordeaux, france",french,3.0,male,5.0
-500,501,german7,"berlin, germany",german,3.0,male,5.0
-502,503,english132,"toronto, ontario, canada",english,3.0,female,5.0
-503,504,english133,"norwich, new york, usa",english,3.0,female,5.0
-505,506,english134,"belfast, northern ireland, uk",english,3.0,female,5.0
-506,507,english135,"orange beach, alabama, usa",english,3.0,male,5.0
-507,508,english136,"calgary, alberta, canada",english,3.0,male,5.0
-508,509,english137,"charleston, west virginia, usa",english,3.0,male,5.0
-509,510,english138,"palmer, alaska, usa",english,3.0,female,5.0
-510,511,english139,"providence, rhode island, usa",english,3.0,male,5.0
-511,512,arabic17,"settat, morocco",arabic,3.0,male,5.0
-513,514,french11,"limoges, france",french,3.0,male,5.0
-514,515,english140,"quezon city, philippines",english,3.0,male,5.0
-515,516,english141,"york, uk",english,3.0,male,5.0
-516,517,english142,"avon, new york, usa",english,3.0,male,5.0
-517,518,english143,"minneapolis, minnesota, usa",english,3.0,male,5.0
-518,519,english144,"barneys river, nova scotia, canada",english,3.0,male,5.0
-520,521,english145,"bury st. edmunds, uk",english,3.0,male,5.0
-521,522,english146,"blytheville, arkansas, usa",english,3.0,male,5.0
-522,523,english147,"merced, california, usa",english,3.0,female,5.0
-523,524,french12,"montreal, quebec, canada",french,3.0,female,5.0
-524,525,english148,"sydney, australia",english,3.0,male,5.0
-525,526,english149,"lawrenceville, georgia, usa",english,3.0,male,5.0
-526,527,english150,"brownsville, kentucky, usa",english,3.0,male,5.0
-527,528,english151,"baltimore, maryland, usa",english,3.0,male,5.0
-528,529,english152,"adelaide, australia",english,3.0,male,5.0
-532,533,english153,"brisbane, australia",english,3.0,male,5.0
-533,534,english154,"glace bay, nova scotia, canada",english,3.0,male,5.0
-534,535,english155,"oakland, california, usa",english,3.0,male,5.0
-535,536,english156,"dublin, ireland",english,3.0,male,5.0
-537,538,english157,"fort worth, texas, usa",english,3.0,male,5.0
-538,539,arabic18,"kuwait city, kuwait",arabic,3.0,male,5.0
-539,540,english158,"washington, district of columbia, usa",english,3.0,female,5.0
-540,541,english159,"ottawa, ontario, canada",english,3.0,male,5.0
-541,542,english160,"redwood falls, minnesota, usa",english,3.0,female,5.0
-544,545,german8,"bernburg, germany",german,3.0,male,5.0
-545,546,english161,"wakefield, ohio, usa",english,3.0,female,5.0
-546,547,english163,"fairview park, ohio, usa",english,3.0,male,5.0
-547,548,english162,"delaware, ohio, usa",english,3.0,female,5.0
-548,549,english164,"leeds, uk",english,3.0,male,5.0
-549,550,english165,"detroit, michigan, usa",english,3.0,female,5.0
-550,551,english166,"glenside, pennsylvania, usa",english,3.0,male,5.0
-551,552,english167,"lakeview, michigan, usa",english,3.0,male,5.0
-553,554,english168,"oceanside, california, usa",english,3.0,male,5.0
-554,555,english169,"cleveland, mississippi, usa",english,3.0,male,5.0
-555,556,english170,"belmont, mississippi, usa",english,3.0,female,5.0
-562,563,english171,"st. louis, missouri, usa",english,3.0,male,5.0
-563,564,english172,"kingston, jamaica",english,3.0,male,5.0
-566,567,english173,"libertyville, illinois, usa",english,3.0,male,5.0
-567,568,english174,"kuching, sarawak, malaysia",english,3.0,female,5.0
-571,572,english175,"seattle, washington, usa",english,3.0,male,5.0
-572,573,english176,"elizabeth city, north carolina, usa",english,3.0,female,5.0
-573,574,english177,"new orleans, louisiana, usa",english,3.0,female,5.0
-574,575,spanish37,"tegucigalpa, honduras",spanish,3.0,female,5.0
-575,576,spanish38,"tegucigalpa, honduras",spanish,3.0,male,5.0
-582,583,english178,"wilkes-barre, pennsylvania, usa",english,3.0,male,5.0
-583,584,english179,"huron, south dakota, usa",english,3.0,male,5.0
-584,585,english180,"newport, rhode island, usa",english,3.0,male,5.0
-585,586,english181,"new eagle, pennsylvania, usa",english,3.0,male,5.0
-586,587,hindi2,"hyderabad, india",hindi,3.0,male,5.0
-589,590,english182,"troy, new york, usa",english,3.0,male,5.0
-592,593,hindi3,"jalandhar, india",hindi,3.0,male,5.0
-594,595,english183,"corriverton, guyana",english,3.0,female,5.0
-596,597,english184,"hillsboro, oregon, usa",english,3.0,female,5.0
-603,604,english185,"oxford, uk",english,3.0,male,5.0
-604,605,english186,"gadsden, alabama, usa",english,3.0,female,5.0
-605,606,english187,"algona, iowa, usa",english,3.0,female,5.0
-606,607,mandarin11,"kao-hsiung, taiwan",mandarin,3.0,female,5.0
-608,609,russian14,"pskov, russia",russian,3.0,male,5.0
-610,611,english188,"edinburgh, scotland, uk",english,3.0,male,5.0
-613,614,spanish39,"pamplona, spain",spanish,3.0,male,5.0
-615,616,german9,"wuppertal, germany",german,3.0,male,5.0
-616,617,english189,"grand forks, north dakota, usa",english,3.0,male,5.0
-617,618,english190,"oak park, illinois, usa",english,3.0,male,5.0
-622,623,mandarin12,"singapore, singapore",mandarin,3.0,male,5.0
-624,625,arabic19,"khouribga, morocco",arabic,3.0,male,5.0
-627,628,french13,"bordeaux, france",french,3.0,male,5.0
-628,629,french14,"paris, france",french,3.0,female,5.0
-630,631,english191,"las cruces, new mexico, usa",english,3.0,male,5.0
-632,633,french15,"sens, france",french,3.0,male,5.0
-634,635,german10,"darmstadt, germany",german,3.0,male,5.0
-635,636,english192,"east lansing, michigan, usa",english,3.0,female,5.0
-636,637,english193,"honolulu, hawaii, usa",english,3.0,male,5.0
-637,638,english194,"manchester, england, uk",english,3.0,male,5.0
-638,639,english195,"delavan, wisconsin, usa",english,3.0,female,5.0
-639,640,german11,"frankfurt, germany",german,3.0,female,5.0
-642,643,arabic20,"chtaura, beqa valley, lebanon",arabic,3.0,male,5.0
-643,644,spanish40,"cartago, costa rica",spanish,3.0,male,5.0
-646,647,russian15,"ayaguz, kazakhstan",russian,3.0,female,5.0
-647,648,russian16,"minsk, belarus",russian,3.0,male,5.0
-650,651,german12,"feldkirch, austria",german,3.0,female,5.0
-651,652,german13,"eschen, liechtenstein",german,3.0,female,5.0
-653,654,english196,"suva, fiji",english,3.0,female,5.0
-657,658,french16,"montreal, quebec, canada",french,3.0,female,5.0
-661,662,english197,"iowa city, iowa, usa",english,3.0,male,5.0
-662,663,english198,"washington, district of columbia, usa",english,3.0,male,5.0
-663,664,english199,"bay shore, new york, usa",english,3.0,male,5.0
-666,667,english200,"berkeley, california, usa",english,3.0,female,5.0
-667,668,english201,"warren, michigan, usa",english,3.0,female,5.0
-669,670,arabic21,"beirut, lebanon",arabic,3.0,female,5.0
-670,671,russian17,"pskov, russia",russian,3.0,male,5.0
-672,673,english202,"crisfield, maryland, usa",english,3.0,male,5.0
-673,674,english203,"boston, massachusetts, usa",english,3.0,female,5.0
-674,675,german14,"vienna, austria",german,3.0,female,5.0
-675,676,german15,"innsbruck, austria",german,3.0,male,5.0
-677,678,english204,"chicago, illinois, usa",english,3.0,male,5.0
-678,679,english205,"blue earth, minnesota, usa",english,3.0,female,5.0
-679,680,english206,"hucknall, nottinghamshire, england, uk",english,3.0,female,5.0
-682,683,french17,"fribourg, switzerland",french,3.0,male,5.0
-683,684,english207,"wilkes-barre, pennsylvania, usa",english,3.0,female,5.0
-684,685,mandarin13,"nantou, taiwan",mandarin,3.0,male,5.0
-694,695,english208,"washington, dc, usa",english,3.0,male,5.0
-701,702,english209,"saint johns, antigua and barbuda",english,3.0,female,5.0
-704,705,english210,"trenton, nova scotia, canada",english,3.0,female,5.0
-705,706,spanish41,"bonao, dominican republic",spanish,3.0,male,5.0
-711,712,spanish42,"bogota, colombia",spanish,3.0,female,5.0
-713,714,spanish43,"santiago-dr, dominican republic",spanish,3.0,male,5.0
-714,715,spanish45,"santiago-dr, dominican republic",spanish,3.0,female,5.0
-715,716,spanish44,"la romana, dominican republic",spanish,3.0,female,5.0
-716,717,spanish46,"santo domingo, dominican republic",spanish,3.0,male,5.0
-717,718,spanish47,"santo domingo, dominican republic",spanish,3.0,female,5.0
-718,719,mandarin14,"dalian, liaoning, china",mandarin,3.0,male,5.0
-719,720,english211,"worcester, massachusetts, usa",english,3.0,male,5.0
-728,729,english212,"spartanburg, south carolina, usa",english,3.0,male,5.0
-730,731,spanish48,"bilbao, spain",spanish,3.0,male,5.0
-731,732,spanish49,"tandil, argentina",spanish,3.0,male,5.0
-733,734,english213,"dodge city, kansas, usa",english,3.0,male,5.0
-736,737,english214,"myrtle beach, south carolina, usa",english,3.0,male,5.0
-737,738,english215,"lemington spa, warwickshire, uk",english,3.0,male,5.0
-738,739,english216,"chicago, illinois, usa",english,3.0,female,5.0
-739,740,english217,"harrow, middlesex, uk",english,3.0,male,5.0
-740,741,french18,"washington, dc, usa",french,3.0,male,5.0
-745,746,mandarin15,"tainan, taiwan",mandarin,3.0,female,5.0
-746,747,english218,"abingdon, virginia, usa",english,3.0,female,5.0
-747,748,english219,"oakland, california, usa",english,3.0,female,5.0
-748,749,english220,"anaheim, california, usa",english,3.0,female,5.0
-749,750,mandarin16,"taipei, taiwan",mandarin,3.0,male,5.0
-751,752,spanish50,"santo domingo, dominican republic",spanish,3.0,male,5.0
-752,753,spanish51,"caguas, puerto rico",spanish,3.0,male,5.0
-753,754,english221,"london, uk",english,3.0,male,5.0
-754,755,french19,"grenoble, france",french,3.0,male,5.0
-763,764,english222,"auburn, indiana, usa",english,3.0,female,5.0
-764,765,hindi4,"bhilwara, rajisthan, india",hindi,3.0,female,5.0
-766,767,english223,"erie, pennsylvania, usa",english,3.0,male,5.0
-767,768,english224,"bridgetown, barbados",english,3.0,male,5.0
-770,771,english225,"dundee, scotland, uk",english,3.0,male,5.0
-771,772,english226,"walton-on-thames, surrey, uk",english,3.0,male,5.0
-772,773,english227,"camberley, surrey, uk",english,3.0,female,5.0
-773,774,english228,"glasgow, scotland, uk",english,3.0,female,5.0
-774,775,english229,"burlington, vermont, usa",english,3.0,male,5.0
-775,776,english230,"launceston, tasmania, australia",english,3.0,male,5.0
-776,777,spanish52,"popayan, cauca, colombia",spanish,3.0,female,5.0
-790,791,english231,"tampa, florida, usa",english,3.0,male,5.0
-792,793,english233,"edmonton, alberta, canada",english,3.0,female,5.0
-793,794,english234,"bloomington, indiana, usa",english,3.0,male,5.0
-794,795,english235,"richmond, virginia, usa",english,3.0,female,5.0
-795,796,mandarin17,"wuhan, hubei, china",mandarin,3.0,male,5.0
-796,797,spanish53,"bogota, colombia",spanish,3.0,male,5.0
-797,798,english232,"metairie, louisiana, usa",english,3.0,female,5.0
-798,799,english236,"st. charles, illinois, usa",english,3.0,male,5.0
-799,800,spanish54,"vina del mar, chile",spanish,3.0,male,5.0
-800,801,english237,"jeffersonville, ohio, usa",english,3.0,female,5.0
-801,802,english238,"vancouver, british  columbia, canada",english,3.0,female,5.0
-802,803,english239,"fort kobbe, panama",english,3.0,male,5.0
-803,804,french20,"alma, quebec, canada",french,3.0,male,5.0
-809,810,spanish55,"tandil, argentina",spanish,3.0,male,5.0
-810,811,french21,"amiens, france",french,3.0,male,5.0
-814,815,english240,"guelph, ontario, canada",english,3.0,male,5.0
-816,817,english241,"wanganui, new zealand",english,3.0,female,5.0
-817,818,english242,"laurel, mississippi, usa",english,3.0,female,5.0
-819,820,english243,"fredericton, new brunswick, canada",english,3.0,male,5.0
-820,821,english244,"san francisco, california, usa",english,3.0,male,5.0
-821,822,french22,"ghent, belgium",french,3.0,female,5.0
-822,823,french23,"ghent, belgium",french,3.0,female,5.0
-823,824,english245,"pittsburgh, pennsylvania, usa",english,3.0,male,5.0
-824,825,english246,"los angeles, california, usa",english,3.0,male,5.0
-830,831,russian18,"komsomolsk-on-amur, russia",russian,3.0,male,5.0
-831,832,french24,"mostaganem, algeria",french,3.0,male,5.0
-833,834,russian19,"zhezkazgan, kazakhstan",russian,3.0,male,5.0
-834,835,english247,"prince rupert, british columbia, canada",english,3.0,male,5.0
-837,838,spanish56,"monterrey, mexico",spanish,3.0,male,5.0
-839,840,english248,"philadelphia, pennsylvania, usa",english,3.0,female,5.0
-844,845,hindi5,"hubballi, karnataka, india",hindi,3.0,female,5.0
-849,850,english249,"boston, massachusetts, usa",english,3.0,female,5.0
-851,852,english250,"chester, england, uk",english,3.0,male,5.0
-854,855,english251,"mt. kisco, new york, usa",english,3.0,male,5.0
-855,856,english252,"san jose ca, california, usa",english,3.0,female,5.0
-856,857,english253,"dublin, ireland",english,3.0,male,5.0
-857,858,english254,"eugene, oregon, usa",english,3.0,male,5.0
-858,859,english255,"oamaru, new zealand",english,3.0,female,5.0
-859,860,french25,"st. louis fr, france",french,3.0,male,5.0
-860,861,english256,"laurinburg, north carolina, usa",english,3.0,male,5.0
-862,863,english257,"san diego, california, usa",english,3.0,male,5.0
-865,866,hindi6,"new delhi, india",hindi,3.0,female,5.0
-866,867,hindi7,"allahabad, utter pardesh, india",hindi,3.0,female,5.0
-868,869,english258,"kilkenny, ireland",english,3.0,male,5.0
-869,870,english259,"singapore, singapore",english,3.0,male,5.0
-870,871,english260,"phoenix, arizona, usa",english,3.0,female,5.0
-871,872,mandarin18,"taoyuan, taiwan",mandarin,3.0,female,5.0
-874,875,english261,"forestville, maryland, usa",english,3.0,female,5.0
-875,876,english262,"naylor, maryland, usa",english,3.0,male,5.0
-880,881,german16,"bremen, germany",german,3.0,female,5.0
-881,882,german17,"frankfurt, germany",german,3.0,female,5.0
-883,884,english263,"oak forest, illinois, usa",english,3.0,male,5.0
-885,886,spanish57,"montevideo, uruguay",spanish,3.0,male,5.0
-888,889,english264,"freemont, california, usa",english,3.0,male,5.0
-889,890,english265,"vancouver wa, washington, usa",english,3.0,male,5.0
-892,893,german18,"bad aussee, austria",german,3.0,male,5.0
-898,899,english266,"san diego, california, usa",english,3.0,male,5.0
-899,900,english267,"leeds, uk",english,3.0,male,5.0
-900,901,english268,"leeds, uk",english,3.0,female,5.0
-901,902,english269,"adelaide, australia",english,3.0,female,5.0
-902,903,english270,"cape town, south africa",english,3.0,male,5.0
-903,904,english271,"cape town, south africa",english,3.0,female,5.0
-904,905,english272,"dallas, texas, usa",english,3.0,male,5.0
-905,906,spanish58,"bogota, colombia",spanish,3.0,male,5.0
-906,907,english273,"blue bell, pennsylvania, usa",english,3.0,male,5.0
-907,908,spanish59,"mayaguez, puerto rico",spanish,3.0,female,5.0
-908,909,english274,"sydney, australia",english,3.0,female,5.0
-909,910,hindi8,"imphal, india",hindi,3.0,male,5.0
-910,911,russian20,"kostanai, kazakhstan",russian,3.0,female,5.0
-911,912,english275,"clifton, new jersey, usa",english,3.0,female,5.0
-914,915,spanish60,"santiago-dr, dominican republic",spanish,3.0,female,5.0
-915,916,mandarin19,"qinzhou, guangxi, china",mandarin,3.0,male,5.0
-916,917,french26,"montreal, quebec, canada",french,3.0,female,5.0
-917,918,english276,"chattanooga, tennessee, usa",english,3.0,female,5.0
-918,919,english277,"hudson, new york, usa",english,3.0,female,5.0
-919,920,arabic22,"abu dhabi, united arab emirates",arabic,3.0,female,5.0
-920,921,english278,"augusta, georgia, usa",english,3.0,female,5.0
-921,922,english279,"singapore, singapore",english,3.0,female,5.0
-923,924,spanish61,"azuaga, spain",spanish,3.0,male,5.0
-924,925,spanish62,"buenos aires, argentina",spanish,3.0,female,5.0
-926,927,arabic23,"al mahalla, egypt",arabic,3.0,male,5.0
-927,928,german19,"offenbach, germany",german,3.0,female,5.0
-930,931,mandarin20,"ping tong, taiwan",mandarin,3.0,female,5.0
-931,932,french27,"algiers, algeria",french,3.0,female,5.0
-934,935,english280,"ramsey, isle of man",english,3.0,female,5.0
-935,936,german20,"chur, switzerland",german,3.0,male,5.0
-936,937,english281,"ramsey mn, minnesota, usa",english,3.0,male,5.0
-938,939,english282,"tampa, florida, usa",english,3.0,male,5.0
-950,951,english283,"pelham, new york, usa",english,3.0,male,5.0
-951,952,english284,"gainesville, florida, usa",english,3.0,male,5.0
-953,954,russian21,"moscow, russia",russian,3.0,female,5.0
-956,957,french28,"port-au-prince, haiti",french,3.0,female,5.0
-958,959,spanish63,"la coruna, spain",spanish,3.0,female,5.0
-960,961,english285,"melbourne, australia",english,3.0,male,5.0
-961,962,spanish64,"medellin, colombia",spanish,3.0,male,5.0
-969,970,arabic24,"cairo, egypt",arabic,3.0,male,5.0
-976,977,english286,"beaumont, texas, usa",english,3.0,female,5.0
-980,981,english287,"singapore, singapore",english,3.0,female,5.0
-981,982,english288,"st. louis, missouri, usa",english,3.0,female,5.0
-982,983,english289,"fairfax, virginia, usa",english,3.0,female,5.0
-983,984,mandarin21,"chengdu, sichuan, china",mandarin,3.0,female,5.0
-985,986,english290,"duluth, georgia, usa",english,3.0,male,5.0
-993,994,russian22,"riga, latvia",russian,3.0,male,5.0
-1010,1011,arabic25,"ramun, israel (occupied territory)",arabic,3.0,male,5.0
-1011,1012,arabic26,"amman, jordan",arabic,3.0,female,5.0
-1012,1013,arabic27,"jerusalem, israel",arabic,3.0,male,5.0
-1016,1017,hindi9,"durgapur, west bengal, india",hindi,3.0,male,5.0
-1018,1019,mandarin22,"haikou, hainan, china",mandarin,3.0,female,5.0
-1020,1021,french29,"cannes, france",french,3.0,female,5.0
-1022,1023,french30,"kinshasa, democratic republic of congo",french,3.0,male,5.0
-1025,1026,english291,"belize city, belize",english,3.0,male,5.0
-1043,1044,mandarin23,"kao-hsiung, taiwan",mandarin,3.0,female,5.0
-1050,1051,english292,"kansas city, missouri, usa",english,3.0,male,5.0
-1051,1052,english293,"billings, montana, usa",english,3.0,female,5.0
-1056,1057,russian23,"zaporizhzhya, ukraine",russian,3.0,female,5.0
-1059,1060,english294,"naracoorte, australia",english,3.0,female,5.0
-1061,1062,french31,"paris, france",french,3.0,male,5.0
-1063,1064,german21,"villach, austria",german,3.0,female,5.0
-1066,1067,english295,"airdrie, alberta, canada",english,3.0,male,5.0
-1068,1069,spanish65,"barranquilla, colombia",spanish,3.0,male,5.0
-1069,1070,english296,"edmonton, alberta, canada",english,3.0,female,5.0
-1070,1071,english297,"lindenhurst, new york, usa",english,3.0,male,5.0
-1071,1072,english298,"lismore, new south wales, australia",english,3.0,male,5.0
-1072,1073,russian24,"sochi, russia",russian,3.0,female,5.0
-1074,1075,english299,"windsor, ontario, canada",english,3.0,male,5.0
-1075,1076,english300,"dublin, ireland",english,3.0,male,5.0
-1076,1077,spanish66,"san salvador, el salvador",spanish,3.0,male,5.0
-1077,1078,english301,"toronto, ontario, canada",english,3.0,male,5.0
-1079,1080,french32,"kabinda, democratic republic of congo",french,3.0,male,5.0
-1084,1085,english302,"melbourne, australia",english,3.0,male,5.0
-1085,1086,english303,"anaheim, california, usa",english,3.0,female,5.0
-1087,1088,english304,"clare, ireland",english,3.0,female,5.0
-1088,1089,mandarin24,"shanghai, china",mandarin,3.0,female,5.0
-1091,1092,german22,"elsterwerda, germany",german,3.0,female,5.0
-1092,1093,english306,"london, uk",english,3.0,female,5.0
-1093,1094,english305,"la paz, bolivia",english,3.0,female,5.0
-1095,1096,russian25,"orhei, moldova",russian,3.0,female,5.0
-1096,1097,russian26,"chisinau, moldova",russian,3.0,female,5.0
-1099,1100,english307,"alexandria, va, usa",english,3.0,male,5.0
-1100,1101,english308,"cardiff, wales, uk",english,3.0,male,5.0
-1104,1105,english309,"dunedin, new zealand",english,3.0,female,5.0
-1107,1108,english310,"oxford, uk",english,3.0,female,5.0
-1109,1110,english311,"detroit, michigan, usa",english,3.0,female,5.0
-1110,1111,spanish67,"santa marta, colombia",spanish,3.0,female,5.0
-1112,1113,english312,"edmonton, alberta, canada",english,3.0,female,5.0
-1114,1115,arabic28,"al-ayn, united arab emirates",arabic,3.0,male,5.0
-1115,1116,arabic29,"doha, qatar",arabic,3.0,male,5.0
-1118,1119,english313,"silver spring, maryland, usa",english,3.0,male,5.0
-1119,1120,english314,"memphis, tennessee, usa",english,3.0,female,5.0
-1120,1121,english315,"los angeles, california, usa",english,3.0,male,5.0
-1121,1122,english316,"sacramento, california, usa",english,3.0,male,5.0
-1124,1125,mandarin25,"wuxi, jiangsu, china",mandarin,3.0,female,5.0
-1126,1127,french33,"montreal, quebec, canada",french,3.0,male,5.0
-1131,1132,english317,"burlington, vermont, usa",english,3.0,male,5.0
-1132,1133,arabic30,"riyadh, saudi arabia",arabic,3.0,female,5.0
-1136,1137,english318,"sarnia, ontario, canada",english,3.0,male,5.0
-1137,1138,english319,"grimsby, lincolnshire, uk",english,3.0,male,5.0
-1140,1141,mandarin26,"emei, sichuan, china",mandarin,3.0,female,5.0
-1153,1154,mandarin27,"chengdu, sichuan, china",mandarin,3.0,male,5.0
-1159,1160,french34,"abidjan, ivory coast",french,3.0,male,5.0
-1161,1162,english320,"maryland county, liberia",english,3.0,female,5.0
-1162,1163,english321,"brooklyn, new york, usa",english,3.0,male,5.0
-1171,1172,english322,"yorkton, saskatchewan, canada",english,3.0,male,5.0
-1172,1173,english323,"regina, saskatchewan, canada",english,3.0,female,5.0
-1173,1174,english324,"st. marys, ontario, canada",english,3.0,male,5.0
-1175,1176,english325,"reading, pennsylvania, usa",english,3.0,male,5.0
-1180,1181,arabic31,"baghdad, iraq",arabic,3.0,female,5.0
-1187,1188,english326,"fairborn, ohio, usa",english,3.0,male,5.0
-1188,1189,french35,"toulouse, france",french,3.0,male,5.0
-1190,1191,russian27,"moscow, russia",russian,3.0,male,5.0
-1197,1198,russian28,"minsk, belarus",russian,3.0,female,5.0
-1201,1202,hindi10,"new delhi, india",hindi,3.0,female,5.0
-1202,1203,arabic32,"baghdad, iraq",arabic,3.0,male,5.0
-1203,1204,arabic33,"baghdad, iraq",arabic,3.0,female,5.0
-1204,1205,english327,"dunedin, florida, usa",english,3.0,male,5.0
-1205,1206,english328,"hollywood, florida, usa",english,3.0,female,5.0
-1206,1207,english329,"boise, idaho, usa",english,3.0,female,5.0
-1207,1208,english330,"augusta, georgia, usa",english,3.0,female,5.0
-1208,1209,english331,"perth, australia",english,3.0,female,5.0
-1211,1212,english332,"baltimore, maryland, usa",english,3.0,female,5.0
-1213,1214,english333,"spokane, washington, usa",english,3.0,female,5.0
-1214,1215,english334,"derby, england, uk",english,3.0,female,5.0
-1215,1216,english335,"washington, district of columbia, usa",english,3.0,male,5.0
-1216,1217,english336,"baltimore, maryland, usa",english,3.0,female,5.0
-1217,1218,english337,"jersey city, new jersey, usa",english,3.0,female,5.0
-1218,1219,english338,"sydney, australia",english,3.0,female,5.0
-1219,1220,english339,"chicago, illinois, usa",english,3.0,male,5.0
-1221,1222,english340,"charleston, west virginia, usa",english,3.0,male,5.0
-1223,1224,english341,"new york, new york, usa",english,3.0,female,5.0
-1224,1225,english342,"kansas city, missouri, usa",english,3.0,male,5.0
-1225,1226,english343,"portland, maine, usa",english,3.0,male,5.0
-1226,1227,spanish68,"san fernando, chile",spanish,3.0,male,5.0
-1228,1229,spanish69,"caracas, venezuela",spanish,3.0,female,5.0
-1229,1230,spanish70,"bogota, colombia",spanish,3.0,female,5.0
-1230,1231,spanish71,"rosario, argentina",spanish,3.0,male,5.0
-1231,1232,english344,"lumberton, north carolina, usa",english,3.0,female,5.0
-1232,1233,english345,"kansas city, missouri, usa",english,3.0,male,5.0
-1234,1235,english346,"east hartford, connecticut, usa",english,3.0,male,5.0
-1235,1236,english347,"burnsville, minnesota, usa",english,3.0,female,5.0
-1236,1237,english348,"las pinas, philippines",english,3.0,female,5.0
-1237,1238,spanish72,"miami, florida, usa",spanish,3.0,female,5.0
-1238,1239,english349,"warrenton, virginia, usa",english,3.0,female,5.0
-1239,1240,spanish73,"merida, venezuela",spanish,3.0,male,5.0
-1240,1241,english350,"polesworth, staffordshire, uk",english,3.0,female,5.0
-1241,1242,english351,"carthage, missouri, usa",english,3.0,male,5.0
-1242,1243,english352,"singapore, singapore",english,3.0,male,5.0
-1245,1246,english353,"saskatoon, saskatchewan, canada",english,3.0,male,5.0
-1248,1249,spanish74,"zaragoza, spain",spanish,3.0,male,5.0
-1249,1250,english354,"christchurch, new zealand",english,3.0,female,5.0
-1252,1253,arabic34,"kuwait city, kuwait",arabic,3.0,female,5.0
-1253,1254,russian29,"chisinau, moldova",russian,3.0,male,5.0
-1254,1255,german23,"herdecke, germany",german,3.0,male,5.0
-1255,1256,english355,"los angeles, california, usa",english,3.0,male,5.0
-1256,1257,english356,"morden, manitoba, canada",english,3.0,female,5.0
-1257,1258,english357,"alto, georgia, usa",english,3.0,male,5.0
-1258,1259,english358,"fredericton, new brunswick, canada",english,3.0,male,5.0
-1272,1273,spanish75,"lima, peru",spanish,3.0,female,5.0
-1275,1276,english359,"sackville, new brunswick, canada",english,3.0,male,5.0
-1276,1277,english360,"erie, pennsylvania, usa",english,3.0,female,5.0
-1278,1279,russian30,"stavropol, russia",russian,3.0,male,5.0
-1279,1280,english361,"burnsville, minnesota, usa",english,3.0,female,5.0
-1280,1281,english362,"cork, ireland",english,3.0,male,5.0
-1286,1287,english363,"castle donington, uk",english,3.0,male,5.0
-1287,1288,english364,"sydney, australia",english,3.0,female,5.0
-1289,1290,spanish76,"la paz, bolivia",spanish,3.0,male,5.0
-1291,1292,english365,"oxford, uk",english,3.0,male,5.0
-1292,1293,english366,"bournesmouth, uk",english,3.0,female,5.0
-1293,1294,english367,"birkenhead, uk",english,3.0,female,5.0
-1294,1295,english368,"strattford-on-avon, uk",english,3.0,male,5.0
-1296,1297,english369,"mcminnville, oregon, usa",english,3.0,male,5.0
-1300,1301,spanish77,"jalisco, mexico",spanish,3.0,male,5.0
-1301,1302,english370,"pondicherry, india",english,3.0,male,5.0
-1302,1303,english371,"colorado springs, colorado, usa",english,3.0,female,5.0
-1303,1304,french36,"reims, france",french,3.0,female,5.0
-1305,1306,french37,"strasbourg, france",french,3.0,male,5.0
-1306,1307,english372,"christiansburg, virginia, usa",english,3.0,male,5.0
-1307,1308,english373,"russellville, kentucky, usa",english,3.0,male,5.0
-1309,1310,english374,"milford haven, wales, uk",english,3.0,male,5.0
-1310,1311,russian31,"tallinn, estonia",russian,3.0,male,5.0
-1311,1312,english375,"manchester, connecticut, usa",english,3.0,male,5.0
-1313,1314,russian32,"kiev, ukraine",russian,3.0,female,5.0
-1314,1315,english376,"pasadena, california, usa",english,3.0,male,5.0
-1316,1317,russian33,"karaganda, kazakhstan",russian,3.0,female,5.0
-1318,1319,english377,"trenton, michigan, usa",english,3.0,female,5.0
-1319,1320,english378,"silver spring, maryland, usa",english,3.0,female,5.0
-1320,1321,english379,"summit, new jersey, usa",english,3.0,male,5.0
-1322,1323,english380,"roanoke, virginia, usa",english,3.0,female,5.0
-1323,1324,english381,"pike county, kentucky, usa",english,3.0,male,5.0
-1324,1325,english382,"arlington, virginia, usa",english,3.0,male,5.0
-1325,1326,english383,"washington, district of columbia, usa",english,3.0,female,5.0
-1326,1327,english384,"williamson, west virginia, usa",english,3.0,male,5.0
-1327,1328,english385,"mcveigh, kentucky, usa",english,3.0,female,5.0
-1329,1330,english386,"los angeles, california, usa",english,3.0,female,5.0
-1330,1331,english387,"lancaster, california, usa",english,3.0,female,5.0
-1331,1332,english388,"bluefield, west virginia, usa",english,3.0,female,5.0
-1332,1333,english389,"aldie, virginia, usa",english,3.0,female,5.0
-1333,1334,english390,"milwaukee, wisconsin, usa",english,3.0,male,5.0
-1334,1335,english391,"milton, florida, usa",english,3.0,female,5.0
-1335,1336,english392,"warrenton, virginia, usa",english,3.0,male,5.0
-1336,1337,english393,"washington, district of columbia, usa",english,3.0,female,5.0
-1337,1338,spanish78,"lima, peru",spanish,3.0,female,5.0
-1338,1339,english394,"aiken, south carolina, usa",english,3.0,female,5.0
-1339,1340,english395,"alexandria, virginia, usa",english,3.0,male,5.0
-1340,1341,english396,"orange, virginia, usa",english,3.0,female,5.0
-1341,1342,english397,"wadesboro, north carolina, usa",english,3.0,female,5.0
-1342,1343,english398,"salisbury, north carolina, usa",english,3.0,female,5.0
-1343,1344,spanish79,"lamas, peru",spanish,3.0,female,5.0
-1344,1345,english399,"la grange, georgia, usa",english,3.0,female,5.0
-1345,1346,spanish80,"bogota, colombia",spanish,3.0,female,5.0
-1346,1347,spanish81,"san juan, puerto rico",spanish,3.0,female,5.0
-1347,1348,english400,"shanklin, isle of wight, uk",english,3.0,female,5.0
-1348,1349,english401,"lucerne, switzerland",english,3.0,male,5.0
-1349,1350,english402,"canberra, australia",english,3.0,female,5.0
-1350,1351,english403,"sydney, australia",english,3.0,female,5.0
-1351,1352,english404,"windsor, australia",english,3.0,male,5.0
-1352,1353,english405,"geelong, australia",english,3.0,female,5.0
-1357,1358,english406,"pensacola, florida, usa",english,3.0,female,5.0
-1359,1360,english407,"windsor, ontario, canada",english,3.0,male,5.0
-1360,1361,english408,"lynwood, california, usa",english,3.0,male,5.0
-1361,1362,english409,"maitland, australia",english,3.0,female,5.0
-1362,1363,english410,"hamilton, new zealand",english,3.0,male,5.0
-1370,1371,english411,"washington, district of columbia, usa",english,3.0,female,5.0
-1371,1372,english412,"washington, district of columbia, usa",english,3.0,female,5.0
-1372,1373,english413,"manchester, england, uk",english,3.0,female,5.0
-1373,1374,english414,"woonsocket, rhode island, usa",english,3.0,female,5.0
-1374,1375,english415,"woonsocket, rhode island, usa",english,3.0,male,5.0
-1376,1377,english416,"sydney, australia",english,3.0,male,5.0
-1379,1380,english417,"cardiff, wales, uk",english,3.0,female,5.0
-1382,1383,german24,"niedersachsen, germany",german,3.0,male,5.0
-1383,1384,english418,"arlington, virginia",english,3.0,male,5.0
-1384,1385,english419,"youngstown, ohio, usa",english,3.0,male,5.0
-1386,1387,english420,"auckland, new zealand",english,3.0,male,5.0
-1387,1388,english421,"landstuhl, germany",english,3.0,male,5.0
-1389,1390,english422,"rochester, new york, usa",english,3.0,male,5.0
-1390,1391,arabic35,"jiddah, saudi arabia",arabic,3.0,male,5.0
-1391,1392,arabic36,"jiddah, saudi arabia",arabic,3.0,male,5.0
-1392,1393,arabic37,"jiddah, saudi arabia",arabic,3.0,male,5.0
-1393,1394,arabic38,"shady grove, maryland, usa",arabic,3.0,female,5.0
-1394,1395,english423,"baltimore, maryland, usa",english,3.0,female,5.0
-1395,1396,spanish82,"la paz, bolivia",spanish,3.0,male,5.0
-1396,1397,spanish83,"la paz, bolivia",spanish,3.0,male,5.0
-1397,1398,spanish84,"buenos aires, argentina",spanish,3.0,female,5.0
-1398,1399,spanish85,"buenos aires, argentina",spanish,3.0,female,5.0
-1399,1400,spanish86,"buenos aires, argentina",spanish,3.0,male,5.0
-1400,1401,spanish87,"la paz, bolivia",spanish,3.0,male,5.0
-1401,1402,spanish88,"la paz, bolivia",spanish,3.0,male,5.0
-1404,1405,arabic39,"jiddah, saudi arabia",arabic,3.0,male,5.0
-1406,1407,russian34,"vladivostok, russia",russian,3.0,male,5.0
-1408,1409,english424,"danville, virginia, usa",english,3.0,male,5.0
-1409,1410,english425,"danville, virginia, usa",english,3.0,male,5.0
-1410,1411,english426,"florence, south carolina, usa",english,3.0,female,5.0
-1411,1412,english427,"hanover, pennsylvania, usa",english,3.0,female,5.0
-1412,1413,english428,"kingstree, south carolina, usa",english,3.0,female,5.0
-1415,1416,english429,"philadelphia, pennsylvania, usa",english,3.0,female,5.0
-1418,1419,english430,"melbourne, australia",english,3.0,female,5.0
-1419,1420,arabic40,"jiddah, saudi arabia",arabic,3.0,male,5.0
-1420,1421,arabic41,"riyadh, saudi arabia",arabic,3.0,male,5.0
-1421,1422,arabic42,"jiddah, saudi arabia",arabic,3.0,male,5.0
-1422,1423,english431,"green bay, wisconsin, usa",english,3.0,female,5.0
-1423,1424,french38,"montreal, quebec, canada",french,3.0,male,5.0
-1424,1425,spanish89,"monterrey, mexico",spanish,3.0,male,5.0
-1425,1426,arabic43,"beirut, lebanon",arabic,3.0,female,5.0
-1426,1427,french39,"pezenas, france",french,3.0,male,5.0
-1427,1428,english432,"dublin, ireland",english,3.0,female,5.0
-1428,1429,french40,"rouen, france",french,3.0,female,5.0
-1429,1430,english433,"gladwin, michigan, usa",english,3.0,female,5.0
-1430,1431,spanish90,"caracas, venezuela",spanish,3.0,female,5.0
-1432,1433,spanish91,"caracas, venezuela",spanish,3.0,female,5.0
-1434,1435,spanish92,"cardenas, cuba",spanish,3.0,male,5.0
-1435,1436,spanish93,"santa rosa, honduras",spanish,3.0,female,5.0
-1436,1437,hindi11,"chandigarh, india",hindi,3.0,male,5.0
-1438,1439,spanish94,"bogota, colombia",spanish,3.0,male,5.0
-1439,1440,hindi12,"allahabad, india",hindi,3.0,female,5.0
-1442,1443,german25,"geislingen, germany",german,3.0,female,5.0
-1443,1444,spanish95,"juarez, mexico",spanish,3.0,female,5.0
-1446,1447,mandarin28,"shanghai, china",mandarin,3.0,male,5.0
-1448,1449,spanish96,"arequipa, peru",spanish,3.0,female,5.0
-1449,1450,spanish97,"bogota, colombia",spanish,3.0,female,5.0
-1450,1451,spanish98,"veracruz, mexico",spanish,3.0,male,5.0
-1451,1452,german26,"stuttgart, germany",german,3.0,female,5.0
-1454,1455,arabic44,"jiddah, saudi arabia",arabic,3.0,female,5.0
-1455,1456,arabic45,"fort collins, colorado, usa",arabic,3.0,female,5.0
-1456,1457,arabic46,"jiddah, saudi arabia",arabic,3.0,male,5.0
-1457,1458,arabic47,"jiddah, saudi arabia",arabic,3.0,male,5.0
-1458,1459,arabic48,"mecca, saudi arabia",arabic,3.0,male,5.0
-1459,1460,arabic49,"medina, saudi arabia",arabic,3.0,male,5.0
-1460,1461,arabic50,"jiddah, saudi arabia",arabic,3.0,male,5.0
-1466,1467,russian35,"dresden, germany",russian,3.0,male,5.0
-1468,1469,english434,"kansas city, kansas, usa",english,3.0,male,5.0
-1470,1471,english435,"palm springs, california, usa",english,3.0,female,5.0
-1473,1474,french41,"la massana, andorra",french,3.0,male,5.0
-1474,1475,english436,"freeport, the bahamas",english,3.0,female,5.0
-1476,1477,english437,"cleveland, ohio, usa",english,3.0,male,5.0
-1485,1486,arabic51,"jiddah, saudi arabia",arabic,3.0,male,5.0
-1486,1487,arabic52,"jiddah, saudi arabia",arabic,3.0,female,5.0
-1489,1490,mandarin29,"lanzhou, gansu, china",mandarin,3.0,male,5.0
-1490,1491,mandarin30,"taipei, taiwan",mandarin,3.0,male,5.0
-1491,1492,english438,"houston, texas, usa",english,3.0,female,5.0
-1492,1493,english439,"richmond, british columbia, canada",english,3.0,female,5.0
-1493,1494,german27,"bielefeld, germany",german,3.0,male,5.0
-1501,1502,english440,"glasgow, scotland, uk",english,3.0,female,5.0
-1505,1506,spanish99,"lima, peru",spanish,3.0,female,5.0
-1507,1508,spanish100,"iquitos, peru",spanish,3.0,female,5.0
-1508,1509,french42,"kinshasa, democratic republic of congo",french,3.0,female,5.0
-1517,1518,russian36,"moscow, russia",russian,3.0,male,5.0
-1518,1519,mandarin31,"wenzhou, zhejiang, china",mandarin,3.0,female,5.0
-1522,1523,russian37,"st. petersburg, russia",russian,3.0,male,5.0
-1523,1524,english441,"oquawka, illinois, usa",english,3.0,female,5.0
-1524,1525,german28,"vienna, austria",german,3.0,female,5.0
-1525,1526,arabic53,"rabat, morocco",arabic,3.0,male,5.0
-1526,1527,mandarin32,"taipei, taiwan",mandarin,3.0,female,5.0
-1527,1528,english442,"salisbury mills, new york, usa",english,3.0,male,5.0
-1529,1530,english443,"fort collins, colorado, usa",english,3.0,male,5.0
-1530,1531,english444,"anniston, alabama, usa",english,3.0,male,5.0
-1531,1532,english445,"san francisco, california, usa",english,3.0,male,5.0
-1532,1533,english446,"moorhead, minnesota, usa",english,3.0,female,5.0
-1533,1534,english447,"hartford, connecticut, usa",english,3.0,male,5.0
-1534,1535,french43,"paris, france",french,3.0,male,5.0
-1535,1536,english448,"isle of arran, scotland, uk",english,3.0,male,5.0
-1537,1538,english449,"barton, vermont, usa",english,3.0,male,5.0
-1540,1541,mandarin33,"beijing, china",mandarin,3.0,male,5.0
-1543,1544,english450,"windsor, uk",english,3.0,male,5.0
-1544,1545,french44,"la chaux-de-fonds, switzerland",french,3.0,female,5.0
-1545,1546,english451,"hazlehurst, georgia, usa",english,3.0,male,5.0
-1546,1547,english452,"newcastle, australia",english,3.0,male,5.0
-1547,1548,english453,"chicago, illinois, usa",english,3.0,female,5.0
-1549,1550,english454,"raleigh, north carolina, usa",english,3.0,female,5.0
-1551,1552,english455,"washington, dc, usa",english,3.0,female,5.0
-1553,1554,english456,"lancashire, leyland, uk",english,3.0,female,5.0
-1554,1555,english457,"syracuse, new york, usa",english,3.0,male,5.0
-1558,1559,english458,"reno, nevada, usa",english,3.0,female,5.0
-1559,1560,english459,"charlotte, north carolina, usa",english,3.0,male,5.0
-1560,1561,english460,"rutland, england, uk",english,3.0,female,5.0
-1562,1563,english461,"poughkeepsie, new york, usa",english,3.0,female,5.0
-1563,1564,english462,"paducah, kentucky, usa",english,3.0,male,5.0
-1564,1565,arabic54,"baghdad, iraq",arabic,3.0,male,5.0
-1566,1567,french45,"montreal, quebec, canada",french,3.0,male,5.0
-1568,1569,arabic55,"beirut, lebanon",arabic,3.0,male,5.0
-1570,1571,english463,"brooklyn, new york, usa",english,3.0,female,5.0
-1573,1574,spanish101,"la union, el salvador",spanish,3.0,female,5.0
-1574,1575,spanish102,"cochabamba, bolivia",spanish,3.0,male,5.0
-1577,1578,mandarin34,"shi jia zhuang, hebei, china",mandarin,3.0,female,5.0
-1578,1579,mandarin35,"yantai, shandong, china",mandarin,3.0,female,5.0
-1579,1580,mandarin36,"beijing, china",mandarin,3.0,female,5.0
-1580,1581,mandarin37,"huhot, nei meng gu, china",mandarin,3.0,female,5.0
-1581,1582,mandarin38,"changsha, hunan, china",mandarin,3.0,female,5.0
-1582,1583,mandarin39,"tie ling, liaoning, china",mandarin,3.0,female,5.0
-1583,1584,spanish103,"san miguel, el salvador",spanish,3.0,male,5.0
-1599,1600,spanish104,"san miguel, el salvador",spanish,3.0,female,5.0
-1612,1613,spanish105,"jerez de la frontera, spain",spanish,3.0,female,5.0
-1613,1614,mandarin40,"chengdu, sichuan, china",mandarin,3.0,male,5.0
-1614,1615,mandarin41,"songyuan, jilin, china",mandarin,3.0,female,5.0
-1615,1616,mandarin42,"yanbian, jilin, china",mandarin,3.0,female,5.0
-1616,1617,mandarin43,"datong, shanxi, china",mandarin,3.0,female,5.0
-1617,1618,english464,"ottawa, ontario, canada",english,3.0,male,5.0
-1618,1619,german29,"coburg, germany",german,3.0,female,5.0
-1620,1621,spanish106,"lima, peru",spanish,3.0,male,5.0
-1621,1622,spanish107,"san salvador, el salvador",spanish,3.0,male,5.0
-1628,1629,spanish108,"medellin, colombia",spanish,3.0,male,5.0
-1629,1630,mandarin44,"hangzhou, zhejiang, china",mandarin,3.0,male,5.0
-1630,1631,mandarin45,"beijing, china",mandarin,3.0,female,5.0
-1632,1633,hindi13,"jaipur, india",hindi,3.0,female,5.0
-1634,1635,english465,"aylesbury, buckinghamshire, uk",english,3.0,male,5.0
-1635,1636,mandarin46,"jilin city, jilin, china",mandarin,3.0,female,5.0
-1636,1637,english466,"portland, maine, usa",english,3.0,male,5.0
-1638,1639,english467,"pozzuoli, italy",english,3.0,male,5.0
-1639,1640,english468,"myrtle beach, south carolina, usa",english,3.0,male,5.0
-1640,1641,english469,"knoxville, tennessee, usa",english,3.0,male,5.0
-1641,1642,english470,"leighton buzzard, uk",english,3.0,male,5.0
-1642,1643,french46,"chatenay malabry, france",french,3.0,male,5.0
-1643,1644,mandarin47,"beijing, china",mandarin,3.0,female,5.0
-1644,1645,mandarin48,"pingdingshan, henan, china",mandarin,3.0,male,5.0
-1647,1648,english471,"calgary, alberta, canada",english,3.0,female,5.0
-1648,1649,english472,"rota, spain",english,3.0,male,5.0
-1649,1650,english473,"nottingham, uk",english,3.0,male,5.0
-1655,1656,english474,"rochester, minnesota, usa",english,3.0,female,5.0
-1656,1657,english475,"ogden, utah, usa",english,3.0,female,5.0
-1657,1658,english476,"manchester, new hampshire, usa",english,3.0,female,5.0
-1658,1659,english477,"san diego, california, usa",english,3.0,female,5.0
-1659,1660,spanish109,"maracay, venezuela",spanish,3.0,male,5.0
-1660,1661,english478,"sydney, nova scotia, canada",english,3.0,male,5.0
-1661,1662,french47,"landerneau, brittany, france",french,3.0,female,5.0
-1663,1664,english479,"new york, new york, usa",english,3.0,female,5.0
-1664,1665,english480,"winston-salem, north carolina, usa",english,3.0,male,5.0
-1665,1666,english481,"stringtown, oklahoma, usa",english,3.0,female,5.0
-1666,1667,english482,"yeadon, pennsylvania, usa",english,3.0,female,5.0
-1667,1668,english483,"boston, massachusetts, usa",english,3.0,male,5.0
-1671,1672,english484,"dublin, ireland",english,3.0,male,5.0
-1673,1674,english485,"cromwell, connecticut, usa",english,3.0,male,5.0
-1676,1677,arabic56,"ain defla, algeria",arabic,3.0,male,5.0
-1679,1680,spanish110,"caracas, venezuela",spanish,3.0,male,5.0
-1680,1681,german30,"radstadt, austria",german,3.0,female,5.0
-1682,1683,english486,"corentyne, guyana",english,3.0,female,5.0
-1684,1685,german31,"datteln, germany",german,3.0,female,5.0
-1687,1688,english487,"london, uk",english,3.0,female,5.0
-1688,1689,spanish111,"santiago, chile",spanish,3.0,male,5.0
-1691,1692,english488,"irvine, scotland, uk",english,3.0,female,5.0
-1692,1693,spanish112,"la paz, bolivia",spanish,3.0,male,5.0
-1693,1694,english489,"kingston, jamaica",english,3.0,female,5.0
-1694,1695,spanish113,"cochabamba, bolivia",spanish,3.0,male,5.0
-1696,1697,hindi14,"new delhi, india",hindi,3.0,male,5.0
-1698,1699,arabic57,"beirut, lebanon",arabic,3.0,female,5.0
-1699,1700,arabic58,"baghdad, iraq",arabic,3.0,male,5.0
-1700,1701,french48,"douala, cameroon",french,3.0,female,5.0
-1701,1702,arabic59,"irbid, jordan",arabic,3.0,male,5.0
-1706,1707,german32,"niedersachsen, germany",german,3.0,female,5.0
-1707,1708,russian38,"gomel, belarus",russian,3.0,male,5.0
-1708,1709,english490,"auckland, new zealand",english,3.0,male,5.0
-1710,1711,arabic60,"cairo, egypt",arabic,3.0,male,5.0
-1712,1713,english491,"westmoreland, jamaica",english,3.0,female,5.0
-1715,1716,english492,"omaha, nebraska, usa",english,3.0,female,5.0
-1717,1718,english493,"miami, florida, usa",english,3.0,male,5.0
-1718,1719,english494,"findlay, ohio, usa",english,3.0,male,5.0
-1719,1720,english495,"kirkland, washington, usa",english,3.0,male,5.0
-1723,1724,english496,"london, england, uk",english,3.0,male,5.0
-1725,1726,english497,"cleveland, ohio, usa",english,3.0,male,5.0
-1726,1727,english498,"prince george, british columbia, canada",english,3.0,male,5.0
-1727,1728,english499,"st. paul, minnesota, usa",english,3.0,female,5.0
-1728,1729,french49,"paris, france",french,3.0,male,5.0
-1731,1732,spanish114,"seville, spain",spanish,3.0,female,5.0
-1732,1733,english500,"albury, new south wales, australia",english,3.0,male,5.0
-1733,1734,english501,"pittsburgh, pennsylvania, usa",english,3.0,female,5.0
-1734,1735,english502,"farmington hills, michigan, usa",english,3.0,female,5.0
-1735,1736,mandarin49,"shanghai, china",mandarin,3.0,male,5.0
-1738,1739,english503,"benin city, nigeria",english,3.0,female,5.0
-1743,1744,spanish115,"la paz, bolivia",spanish,3.0,female,5.0
-1746,1747,spanish116,"bogota, colombia",spanish,3.0,male,5.0
-1749,1750,russian39,"brooklyn, new york, usa",russian,3.0,female,5.0
-1750,1751,french50,"paris, france",french,3.0,female,5.0
-1752,1753,arabic61,"manama, bahrain",arabic,3.0,male,5.0
-1764,1765,french51,"liege, wallonia, belgium",french,3.0,male,5.0
-1767,1768,arabic62,"ad dammam, saudi arabia",arabic,3.0,male,5.0
-1768,1769,arabic63,"bani walid, libya",arabic,3.0,female,5.0
-1773,1774,russian40,"bishkek, kyrgyzstan",russian,3.0,female,5.0
-1776,1777,arabic64,"riyadh, saudi arabia",arabic,3.0,male,5.0
-1777,1778,arabic65,"samail, oman",arabic,3.0,female,5.0
-1783,1784,arabic66,"medina, saudi arabia",arabic,3.0,male,5.0
-1784,1785,arabic67,"nasriah, iraq",arabic,3.0,male,5.0
-1785,1786,english504,"west palm beach, florida, usa",english,3.0,male,5.0
-1787,1788,mandarin50,"hsinchu, taiwan",mandarin,3.0,male,5.0
-1791,1792,mandarin51,"tianjin, hebei, china",mandarin,3.0,male,5.0
-1792,1793,mandarin52,"shaoxing, zhejiang, china",mandarin,3.0,female,5.0
-1793,1794,hindi15,"new delhi, india",hindi,3.0,female,5.0
-1796,1797,spanish117,"madrid, spain",spanish,3.0,male,5.0
-1797,1798,english505,"beirut, lebanon",english,3.0,female,5.0
-1798,1799,english506,"new orleans, louisiana, usa",english,3.0,female,5.0
-1799,1800,english507,"accra, ghana",english,3.0,male,5.0
-1800,1801,english508,"winfield, illinois, usa",english,3.0,female,5.0
-1801,1802,english509,"coudersport, pennsylvania, usa",english,3.0,female,5.0
-1802,1803,english510,"philadelphia, pennsylvania, usa",english,3.0,female,5.0
-1804,1805,arabic68,"london, uk",arabic,3.0,male,5.0
-1805,1806,spanish118,"monterrey, mexico",spanish,3.0,female,5.0
-1806,1807,spanish119,"madrid, spain",spanish,3.0,female,5.0
-1809,1810,arabic69,"kerma, sudan",arabic,3.0,female,5.0
-1812,1813,french52,"lisbon, portugal",french,3.0,female,5.0
-1816,1817,mandarin53,"ningbo, zhejiang, china",mandarin,3.0,female,5.0
-1817,1818,english511,"montgomery, alabama, usa",english,3.0,female,5.0
-1818,1819,english512,"salina, kansas, usa",english,3.0,female,5.0
-1822,1823,spanish120,"bogota, colombia",spanish,3.0,female,5.0
-1825,1826,spanish121,"pasaquina, el salvador",spanish,3.0,male,5.0
-1826,1827,arabic70,"casablanca, morocco",arabic,3.0,male,5.0
-1827,1828,arabic71,"kuwait city, kuwait",arabic,3.0,female,5.0
-1829,1830,french53,"creteil, france",french,3.0,female,5.0
-1830,1831,spanish122,"toluca, mexico",spanish,3.0,female,5.0
-1831,1832,arabic72,"baghdad, iraq",arabic,3.0,female,5.0
-1833,1834,spanish123,"ilbague, colombia",spanish,3.0,female,5.0
-1834,1835,spanish124,"santa cruz, bolivia",spanish,3.0,male,5.0
-1839,1840,spanish125,"lima, peru",spanish,3.0,male,5.0
-1840,1841,arabic73,"nazareth, israel",arabic,3.0,female,5.0
-1843,1844,russian41,"nizhni novgorod, russia",russian,3.0,female,5.0
-1845,1846,french54,"vichy, france",french,3.0,female,5.0
-1852,1853,spanish126,"colon, panama",spanish,3.0,female,5.0
-1855,1856,english513,"bocas del toro, panama",english,3.0,female,5.0
-1859,1860,spanish127,"san salvador, el salvador",spanish,3.0,male,5.0
-1868,1869,spanish128,"lima, peru",spanish,3.0,female,5.0
-1869,1870,arabic74,"alexandria, egypt",arabic,3.0,male,5.0
-1871,1872,english514,"youngstown, ohio, usa",english,3.0,male,5.0
-1872,1873,english515,"youngstown, ohio, usa",english,3.0,female,5.0
-1873,1874,spanish129,"havana, cuba",spanish,3.0,female,5.0
-1874,1875,english516,"dripping springs, texas, usa",english,3.0,female,5.0
-1875,1876,english517,"colorado springs, colorado, usa",english,3.0,male,5.0
-1876,1877,german33,"stuttgart, germany",german,3.0,male,5.0
-1877,1878,english518,"kells, meath, ireland",english,3.0,male,5.0
-1878,1879,german34,"bochum, germany",german,3.0,male,5.0
-1881,1882,english519,"karachi, pakistan",english,3.0,female,5.0
-1883,1884,english520,"st. paul, minnesota, usa",english,3.0,female,5.0
-1884,1885,arabic75,"riyadh, saudi arabia",arabic,3.0,female,5.0
-1885,1886,english521,"bethesda, maryland, usa",english,3.0,female,5.0
-1886,1887,english522,"bethpage, new york, usa",english,3.0,female,5.0
-1887,1888,english523,"madison, wisconsin, usa",english,3.0,female,5.0
-1888,1889,french55,"settat, morocco",french,3.0,female,5.0
-1889,1890,english524,"downers grove, illinois, usa",english,3.0,male,5.0
-1890,1891,spanish130,"guayaquil, ecuador",spanish,3.0,male,5.0
-1891,1892,arabic76,"jiddah, saudi arabia",arabic,3.0,male,5.0
-1892,1893,english525,"albion, new york, usa",english,3.0,female,5.0
-1893,1894,arabic77,"ad dammam, saudi arabia",arabic,3.0,female,5.0
-1894,1895,english526,"woodbridge, virginia, usa",english,3.0,male,5.0
-1896,1897,arabic78,"washington, district of columbia, usa",arabic,3.0,female,5.0
-1897,1898,french56,"douala, cameroon",french,3.0,female,5.0
-1898,1899,arabic79,"medina, saudi arabia",arabic,3.0,female,5.0
-1899,1900,mandarin54,"chengdu, sichuan, china",mandarin,3.0,female,5.0
-1900,1901,arabic80,"najran, saudi arabia",arabic,3.0,male,5.0
-1902,1903,spanish131,"havana, cuba",spanish,3.0,male,5.0
-1903,1904,spanish132,"rio piedras, puerto rico",spanish,3.0,female,5.0
-1906,1907,english527,"wynnewood, pennsylvania, usa",english,3.0,female,5.0
-1907,1908,english528,"green bay, wisconsin, usa",english,3.0,female,5.0
-1908,1909,mandarin55,"loudi, hunan, china",mandarin,3.0,female,5.0
-1909,1910,mandarin56,"baoding, hebei, china",mandarin,3.0,female,5.0
-1913,1914,arabic81,"riyadh, saudi arabia",arabic,3.0,male,5.0
-1915,1916,spanish133,"cochabamba, bolivia",spanish,3.0,male,5.0
-1916,1917,arabic82,"damascus, syria",arabic,3.0,male,5.0
-1919,1920,arabic83,"riyadh, saudi arabia",arabic,3.0,male,5.0
-1920,1921,spanish134,"la union, el salvador",spanish,3.0,female,5.0
-1922,1923,spanish135,"santiago de cuba, cuba",spanish,3.0,female,5.0
-1923,1924,russian42,"moscow, russia",russian,3.0,female,5.0
-1924,1925,english529,"burlington, vermont, usa",english,3.0,female,5.0
-1925,1926,english530,"detroit, michigan, usa",english,3.0,female,5.0
-1926,1927,arabic84,"medina, saudi arabia",arabic,3.0,female,5.0
-1927,1928,english531,"nokesville, virginia, usa",english,3.0,female,5.0
-1930,1931,french57,"dakar, senegal",french,3.0,male,5.0
-1931,1932,russian43,"st. petersburg, russia",russian,3.0,female,5.0
-1932,1933,english532,"bristol, connecticut, usa",english,3.0,female,5.0
-1933,1934,english533,"fairfax, virginia, usa",english,3.0,female,5.0
-1936,1937,french58,"douala, cameroon",french,3.0,female,5.0
-1937,1938,french59,"paris, france",french,3.0,female,5.0
-1944,1945,french60,"paris, france",french,3.0,female,5.0
-1946,1947,russian44,"penza, russia",russian,3.0,female,5.0
-1948,1949,spanish136,"santiago, chile",spanish,3.0,male,5.0
-1950,1951,english534,"mineola, new york, usa",english,3.0,female,5.0
-1954,1955,english535,"plymouth, massachusetts, usa",english,3.0,female,5.0
-1955,1956,english536,"richmond, virginia, usa",english,3.0,female,5.0
-1956,1957,english537,"woodbridge, virginia, usa",english,3.0,female,5.0
-1957,1958,english538,"lyndhurst, virginia, usa",english,3.0,female,5.0
-1958,1959,english539,"orange county, california, usa",english,3.0,female,5.0
-1959,1960,english540,"arlington, virginia, usa",english,3.0,female,5.0
-1960,1961,english541,"fort lauderdale, florida, usa",english,3.0,female,5.0
-1961,1962,english542,"toronto, ontario, canada",english,3.0,male,5.0
-1962,1963,arabic85,"ad dammam, saudi arabia",arabic,3.0,female,5.0
-1963,1964,arabic86,"cairo, egypt",arabic,3.0,male,5.0
-1965,1966,hindi16,"new delhi, india",hindi,3.0,male,5.0
-1968,1969,english543,"vancouver, british columbia, canada",english,3.0,female,5.0
-1969,1970,english544,"hanover, new hampshire, usa",english,3.0,male,5.0
-1971,1972,german35,"ingolstadt, germany",german,3.0,female,5.0
-1978,1979,spanish137,"santa ana, el salvador",spanish,3.0,female,5.0
-1979,1980,spanish138,"san miguel, el salvador",spanish,3.0,female,5.0
-1980,1981,spanish139,"guatemala city, guatemala",spanish,3.0,male,5.0
-1984,1985,spanish140,"cochabamba, bolivia",spanish,3.0,female,5.0
-1987,1988,hindi17,"new delhi, india",hindi,3.0,female,5.0
-1989,1990,mandarin57,"shanghai, china",mandarin,3.0,male,5.0
-1993,1994,german36,"hamburg, germany",german,3.0,female,5.0
-1994,1995,english545,"tangier island, virginia, usa",english,3.0,male,5.0
-1995,1996,english546,"tangier island, virginia, usa",english,3.0,female,5.0
-1996,1997,english547,"tangier island, virginia, usa",english,3.0,male,5.0
-1997,1998,french61,"rawalpindi, pakistan",french,3.0,female,5.0
-1999,2000,mandarin58,"superior, colorado, usa",mandarin,3.0,male,5.0
-2002,2003,english548,"dublin, ireland",english,3.0,male,5.0
-2004,2005,arabic87,"kuwait city, kuwait",arabic,3.0,female,5.0
-2007,2008,arabic88,"beirut, lebanon",arabic,3.0,female,5.0
-2008,2009,spanish141,"la union, el salvador",spanish,3.0,male,5.0
-2011,2012,english549,"exminister, uk",english,3.0,female,5.0
-2015,2016,spanish142,"san salvador, el salvador",spanish,3.0,female,5.0
-2018,2019,mandarin59,"kunming, yunnan, china",mandarin,3.0,female,5.0
-2021,2022,arabic89,"baghdad, iraq",arabic,3.0,female,5.0
-2025,2026,spanish143,"oviedo, spain",spanish,3.0,male,5.0
-2026,2027,russian45,"st. petersburg, russia",russian,3.0,female,5.0
-2027,2028,english550,"fredericksburg, virginia, usa",english,3.0,male,5.0
-2028,2029,english551,"king george, virginia, usa",english,3.0,female,5.0
-2029,2030,french62,"paris, france",french,3.0,female,5.0
-2035,2036,arabic90,"tripoli, libya",arabic,3.0,female,5.0
-2042,2043,english552,"bethesda, maryland, usa",english,3.0,female,5.0
-2045,2046,english553,"nashville, tennessee, usa",english,3.0,male,5.0
-2046,2047,english554,"hoffman estates, illinois, usa",english,3.0,female,5.0
-2048,2049,english555,"brooklyn, new york, usa",english,3.0,male,5.0
-2049,2050,english556,"brooklyn, new york, usa",english,3.0,female,5.0
-2050,2051,spanish144,"florencia, zacatecas, mexico",spanish,3.0,female,5.0
-2051,2052,spanish145,"florencia, zacatecas, mexico",spanish,3.0,female,5.0
-2052,2053,english557,"sharjah, united arab emirates",english,3.0,female,5.0
-2054,2055,english558,"queens, new york, usa",english,3.0,male,5.0
-2055,2056,english559,"reston, virginia, usa",english,3.0,female,5.0
-2056,2057,spanish146,"las palmas, oaxaca, mexico",spanish,3.0,male,5.0
-2058,2059,english560,"hartford, connecticut, usa",english,3.0,female,5.0
-2059,2060,english561,"yorktown, virginia, usa",english,3.0,female,5.0
-2060,2061,english562,"florence, south carolina, usa",english,3.0,female,5.0
-2073,2074,english563,"manassas, virginia, usa",english,3.0,male,5.0
-2076,2077,english564,"casper, wyoming, usa",english,3.0,male,5.0
-2077,2078,spanish147,"puerto_cabezas, nicaragua",spanish,3.0,male,5.0
-2078,2079,spanish148,"la ceiba, honduras",spanish,3.0,male,5.0
-2079,2080,english565,"portland, oregon, usa",english,3.0,female,5.0
-2080,2081,english566,"derby, england, uk",english,3.0,male,5.0
-2085,2086,arabic91,"riyadh, saudi arabia",arabic,3.0,female,5.0
-2086,2087,arabic92,"baghdad, iraq",arabic,3.0,male,5.0
-2090,2091,spanish149,"bilwi, puerto cabezas, nicaragua",spanish,3.0,male,5.0
-2093,2094,spanish150,"bilwi, puerto cabezas, nicaragua",spanish,3.0,male,5.0
-2095,2096,spanish151,"bilwas karma, rio coco, nicaragua",spanish,3.0,female,5.0
-2099,2100,spanish152,"barcelona, spain",spanish,3.0,male,5.0
-2100,2101,english567,"new york, new york, usa",english,3.0,male,5.0
-2102,2103,english568,"quincy, florida, usa",english,3.0,female,5.0
-2103,2104,english569,"sydney, australia",english,3.0,male,5.0
-2104,2105,russian46,"perm, russia",russian,3.0,female,5.0
-2105,2106,english570,"parma, ohio, usa",english,3.0,female,5.0
-2106,2107,russian47,"saransk, russia",russian,3.0,female,5.0
-2108,2109,mandarin60,"guiyang, guizhou, china",mandarin,3.0,female,5.0
-2110,2111,french63,"ouagadougou, burkina faso",french,3.0,male,5.0
-2111,2112,arabic93,"baghdad, iraq",arabic,3.0,female,5.0
-2112,2113,english571,"washington, dc, usa",english,3.0,male,5.0
-2113,2114,arabic94,"abu dhabi, united arab emirates",arabic,3.0,female,5.0
-2115,2116,mandarin61,"shangrao, jiangxi, china",mandarin,3.0,female,5.0
-2116,2117,mandarin62,"shanghai, china",mandarin,3.0,male,5.0
-2117,2118,spanish153,"bogota, colombia",spanish,3.0,male,5.0
-2118,2119,mandarin63,"jiaozuo, henan, china",mandarin,3.0,male,5.0
-2120,2121,english572,"fort worth, texas, usa",english,3.0,male,5.0
-2123,2124,english573,"painesville, ohio, usa",english,3.0,male,5.0
-2124,2125,hindi18,"new delhi, india",hindi,3.0,female,5.0
-2126,2127,spanish154,"montevideo, uruguay",spanish,3.0,male,5.0
-2128,2129,mandarin64,"fuzhou, fujian, china",mandarin,3.0,female,5.0
-2129,2130,spanish155,"lima, peru",spanish,3.0,male,5.0
-2136,2137,russian48,"fergana, uzbekistan",russian,3.0,female,5.0
-2141,2142,spanish156,"montevideo, uruguay",spanish,3.0,female,5.0
-2142,2143,arabic95,"kuwait city, kuwait",arabic,3.0,female,5.0
-2143,2144,spanish157,"mexico city, mexico",spanish,3.0,female,5.0
-2147,2148,spanish158,"santurce, puerto rico",spanish,3.0,female,5.0
-2148,2149,spanish159,"san salvador, el salvador",spanish,3.0,male,5.0
-2149,2150,spanish160,"bogota, colombia",spanish,3.0,male,5.0
-2152,2153,arabic96,"riyadh, saudi arabia",arabic,3.0,male,5.0
-2153,2154,arabic97,"sharjah, united arab emirates",arabic,3.0,female,5.0
-2154,2155,arabic98,"ras al khaimah, united arab emirates",arabic,3.0,female,5.0
-2155,2156,spanish161,"leon, nicaragua",spanish,3.0,female,5.0
-2156,2157,arabic99,"ad dammam, saudi arabia",arabic,3.0,female,5.0
-2158,2159,arabic100,"beirut, lebanon",arabic,3.0,female,5.0
-2159,2160,arabic101,"doha, qatar",arabic,3.0,male,5.0
-2160,2161,arabic102,"jiddah, saudi arabia",arabic,3.0,male,5.0
-2161,2162,english574,"toronto, ontario, canada",english,3.0,female,5.0
-2164,2165,english575,"great falls, virginia, usa",english,3.0,male,5.0
-2166,2167,english576,"washington, dc, usa",english,3.0,female,5.0
-2168,2169,spanish162,"mexico city, mexico",spanish,3.0,male,5.0
-2169,2170,english577,"san leandro, california, usa",english,3.0,female,5.0
-2170,2171,english578,"salford, lancashire, uk",english,3.0,male,5.0
-2171,2172,english579,"adelaide, australia",english,3.0,male,5.0
-2172,2173,mandarin65,"tianjin, hebei, china",mandarin,3.0,female,5.0
-2184,2185,english580,"rochester, new york, usa",english,3.0,male,5.0
-2185,2186,english581,"guelph, ontario, canada",english,3.0,female,5.0
-2186,2187,english582,"dundee, scotland, uk",english,3.0,male,5.0
-2194,2195,english583,"london, england, uk",english,3.0,male,5.0
-2195,2196,arabic103,"baghdad, iraq",arabic,3.0,male,5.0
-2196,2197,english584,"monterey, california, usa",english,3.0,male,5.0
-2199,2200,arabic104,"riyadh, saudi arabia",arabic,3.0,female,5.0
-2200,2201,arabic105,"riyadh, saudi arabia",arabic,3.0,female,5.0
-2201,2202,arabic106,"riyadh, saudi arabia",arabic,3.0,male,5.0
-2202,2203,arabic107,"riyadh, saudi arabia",arabic,3.0,male,5.0
-2203,2204,arabic108,"riyadh, saudi arabia",arabic,3.0,female,5.0
-2204,2205,arabic109,"riyadh, saudi arabia",arabic,3.0,female,5.0
-2205,2206,hindi19,"irving, texas, usa",hindi,3.0,male,5.0
-2206,2207,english585,"dumfries, virginia, usa",english,3.0,female,5.0
-2208,2209,hindi20,"hazaribagh, jharkhand, india",hindi,3.0,male,5.0
-2211,2212,spanish163,"asuncion, paraguay",spanish,3.0,male,5.0
-2215,2216,arabic110,"riyadh, saudi arabia",arabic,3.0,male,5.0
-2216,2217,arabic111,"riyadh, saudi arabia",arabic,3.0,female,5.0
-2217,2218,arabic112,"riyadh, saudi arabia",arabic,3.0,female,5.0
-2218,2219,arabic113,"riyadh, saudi arabia",arabic,3.0,female,5.0
-2219,2220,arabic114,"amman, jordan",arabic,3.0,female,5.0
-2220,2221,english586,"chesterfield, virginia, usa",english,3.0,female,5.0
-2221,2222,arabic115,"damascus, syria",arabic,3.0,female,5.0
-2223,2224,russian49,"novosibirsk, russia",russian,3.0,female,5.0
-2224,2225,english587,"philadelphia, pennsylvania, usa",english,3.0,female,5.0
-2229,2230,spanish164,"zacatecas, mexico",spanish,3.0,female,5.0
-2230,2231,russian50,"st. petersburg, russia",russian,3.0,female,5.0
-2234,2235,spanish165,"mayaguez, puerto rico",spanish,3.0,male,5.0
-2235,2236,hindi21,"faridabad, haryana, india",hindi,3.0,male,5.0
-2236,2237,kannada2,"bangalore, india",kannada,3.0,male,5.0
-2237,2238,spanish166,"santo domingo, dominican republic",spanish,3.0,female,5.0
-2238,2239,spanish167,"lima, peru",spanish,3.0,female,5.0
-2239,2240,spanish168,"pasto, colombia",spanish,3.0,male,5.0
-2241,2242,hindi22,"meerut, uttar pradesh, india",hindi,3.0,male,5.0
-2242,2243,arabic116,"al ras, saudi arabia",arabic,3.0,female,5.0
-2249,2250,spanish169,"ponce, puerto rico",spanish,3.0,female,5.0
-2251,2252,mandarin66,"shanghai, china",mandarin,3.0,female,5.0
-2252,2253,arabic117,"al ras, saudi arabia",arabic,3.0,male,5.0
-2253,2254,arabic118,"riyadh, saudi arabia",arabic,3.0,male,5.0
-2255,2256,arabic119,"jiddah, saudi arabia",arabic,3.0,male,5.0
-2256,2257,arabic120,"riyadh, saudi arabia",arabic,3.0,male,5.0
-2257,2258,arabic121,"riyadh, saudi arabia",arabic,3.0,male,5.0
-2258,2259,spanish170,"cochabamba, bolivia",spanish,3.0,male,5.0
-2259,2260,spanish171,"guayaquil, ecuador",spanish,3.0,female,5.0
-2267,2268,arabic122,"sabt alalaya, saudi arabia",arabic,3.0,male,5.0
-2272,2273,russian51,"baku, azerbaijan",russian,3.0,female,5.0
-2273,2274,mandarin67,"nanjing, china",mandarin,3.0,male,5.0
-2278,2279,spanish172,"la union, el salvador",spanish,3.0,male,5.0
-2280,2281,mandarin68,"dongyang, zhejiang, china",mandarin,3.0,male,5.0
-2281,2282,mandarin69,"taizhou, jiangsu, china",mandarin,3.0,male,5.0
-2285,2286,kannada3,"hassan, karnataka, india",kannada,3.0,male,5.0
-2286,2287,kannada4,"detroit, michigan, usa",kannada,3.0,female,5.0
-2287,2288,spanish173,"ambato, ecuador",spanish,3.0,female,5.0
-2290,2291,mandarin70,"shanghai, china",mandarin,3.0,female,5.0
-2293,2294,mandarin71,"chengdu, sichuan, china",mandarin,3.0,female,5.0
-2297,2298,spanish174,"falcon, venezuela",spanish,3.0,female,5.0
-2299,2300,spanish175,"rio piedras, puerto rico",spanish,3.0,female,5.0
-2302,2303,hindi23,"raj nagar, rajasthan, india",hindi,3.0,male,5.0
-2303,2304,arabic123,"riyadh, saudi arabia",arabic,3.0,male,5.0
-2305,2306,mandarin72,"taichung, taiwan",mandarin,3.0,female,5.0
-2309,2310,arabic124,"geulmim, morocco",arabic,3.0,male,5.0
-2310,2311,arabic125,"beersheba, israel",arabic,3.0,male,5.0
-2311,2312,arabic126,"beersheba, israel",arabic,3.0,male,5.0
-2312,2313,arabic127,"tarshiha-maalot, israel",arabic,3.0,female,5.0
-2316,2317,spanish176,"panama city, panama",spanish,3.0,male,5.0
-2318,2319,mandarin73,"chengdu, sichuan, china",mandarin,3.0,female,5.0
-2320,2321,arabic128,"riyadh, saudi arabia",arabic,3.0,male,5.0
-2322,2323,mandarin74,"shenzhen, china",mandarin,3.0,male,5.0
-2327,2328,spanish177,"sonsonate, el salvador",spanish,3.0,female,5.0
-2330,2331,arabic129,"ramallah, palestine",arabic,3.0,male,5.0
-2331,2332,mandarin75,"taipei, taiwan",mandarin,3.0,male,5.0
-2334,2335,spanish178,"chalatenango, el salvador",spanish,3.0,female,5.0
-2335,2336,spanish179,"san miguel, el salvador",spanish,3.0,female,5.0
-2337,2338,spanish180,"cochabamba, bolivia",spanish,3.0,male,5.0
-2343,2344,arabic130,"unizah, saudi arabia",arabic,3.0,male,5.0
-2344,2345,arabic131,"riyadh, saudi arabia",arabic,3.0,male,5.0
-2347,2348,mandarin76,"zhengzhou, henan, china",mandarin,3.0,male,5.0
-2349,2350,kannada5,"hubballi, karnataka, india",kannada,3.0,male,5.0
-2350,2351,kannada6,"karwar, karnataka, india",kannada,3.0,male,5.0
-2351,2352,hindi24,"jamshedpur, jharkhand, india",hindi,3.0,female,5.0
-2352,2353,hindi25,"pune, maharashtra, india",hindi,3.0,male,5.0
-2353,2354,hindi26,"kolkata, west bengal, india",hindi,3.0,male,5.0
-2354,2355,mandarin77,"jingjiang, jiangsu, china",mandarin,3.0,female,5.0
-2355,2356,hindi27,"surat, gujarat, india",hindi,3.0,male,5.0
-2357,2358,kannada7,"bangalore, karnataka, india",kannada,3.0,female,5.0
-2359,2360,mandarin78,"ganzhou, jiangxi, china",mandarin,3.0,female,5.0
-2360,2361,english588,"fairfax, virginia, usa",english,3.0,female,5.0
-2361,2362,english589,"gloucester, uk",english,3.0,male,5.0
-2362,2363,kannada8,"bangalore, karnataka, india",kannada,3.0,male,5.0
-2363,2364,spanish181,"lima, peru",spanish,3.0,female,5.0
-2364,2365,mandarin79,"johor bahru, malaysia",mandarin,3.0,female,5.0
-2365,2366,hindi28,"patna, india",hindi,3.0,male,5.0
-2366,2367,spanish182,"trujillo, peru",spanish,3.0,male,5.0
-2368,2369,russian52,"saky, ukraine",russian,3.0,male,5.0
-2369,2370,spanish183,"bogota, colombia",spanish,3.0,female,5.0
-2370,2371,spanish184,"lima, peru",spanish,3.0,male,5.0
-2371,2372,spanish185,"san salvador, el salvadore",spanish,3.0,female,5.0
-2372,2373,spanish186,"tegucigalpa, honduras",spanish,3.0,male,5.0
-2373,2374,english590,"lakeland, florida, usa",english,3.0,female,5.0
-2374,2375,english591,"colorado springs, colorado, usa",english,3.0,female,5.0
-2375,2376,english592,"miami, florida, usa",english,3.0,female,5.0
-2376,2377,english593,"boston, massachusetts, usa",english,3.0,female,5.0
-2377,2378,english594,"richmond, virginia, usa",english,3.0,female,5.0
-2378,2379,english595,"leesburg, virginia, usa",english,3.0,female,5.0
-2379,2380,english596,"baltimore, maryland, usa",english,3.0,female,5.0
-2380,2381,english597,"fairfax, virginia, usa",english,3.0,male,5.0
-2381,2382,english598,"mitchell, south dakota, usa",english,3.0,male,5.0
-2382,2383,english599,"alexandria, virginia, usa",english,3.0,female,5.0
-2384,2385,english600,"portland, oregon, usa",english,3.0,female,5.0
-2386,2387,arabic132,"cairo, egypt",arabic,3.0,female,5.0
-2392,2393,spanish187,"santurce, puerto rico",spanish,3.0,female,5.0
-2393,2394,french64,"abidjan, ivory coast",french,3.0,female,5.0
-2395,2396,spanish188,"panama city, panama",spanish,3.0,female,5.0
-2396,2397,spanish189,"santa clara, san vicente, el salvador",spanish,3.0,male,5.0
-2398,2399,arabic133,"abha, saudi arabia",arabic,3.0,female,5.0
-2400,2401,spanish190,"bogota, colombia",spanish,3.0,male,5.0
-2403,2404,english601,"fairfax, virginia, usa",english,3.0,male,5.0
-2404,2405,english602,"new york, new york, usa",english,3.0,female,5.0
-2406,2407,arabic134,"abha, saudi arabia",arabic,3.0,female,5.0
-2409,2410,arabic135,"riyadh, saudi arabia",arabic,3.0,female,5.0
-2410,2411,arabic136,"cardiff, wales, uk",arabic,3.0,female,5.0
-2412,2413,mandarin80,"xi'an, shanxi, china",mandarin,3.0,male,5.0
-2413,2414,mandarin81,"suzhou, jiangsu, china",mandarin,3.0,female,5.0
-2417,2418,mandarin82,"wuhai, china",mandarin,3.0,female,5.0
-2418,2419,mandarin83,"zhengzhou, henan, china",mandarin,3.0,female,5.0
-2419,2420,mandarin84,"zhengzhou, henan, china",mandarin,3.0,female,5.0
-2420,2421,mandarin85,"changsha, hunan, china",mandarin,3.0,female,5.0
-2422,2423,mandarin86,"shenyang, liaoning, china",mandarin,3.0,female,5.0
-2424,2425,arabic137,"al-ayn, united arab emirates",arabic,3.0,male,5.0
-2425,2426,arabic138,"riyadh, saudi arabia",arabic,3.0,male,5.0
-2426,2427,arabic139,"khartoum, sudan",arabic,3.0,male,5.0
-2427,2428,english603,"los angeles, california, usa",english,3.0,male,5.0
-2432,2433,arabic140,"taif, saudi arabia",arabic,3.0,female,5.0
-2433,2434,spanish191,"bogota, colombia",spanish,3.0,female,5.0
-2434,2435,mandarin87,"lanzhou, gansu, china",mandarin,3.0,female,5.0
-2436,2437,arabic141,"cairo, egypt",arabic,3.0,male,5.0
-2437,2438,english604,"brisbane, queensland, australia",english,3.0,female,5.0
-2438,2439,english605,"cairns, queensland, australia",english,3.0,male,5.0
-2439,2440,english606,"southport, australia",english,3.0,female,5.0
-2440,2441,english607,"narrabri, new south wales, australia",english,3.0,female,5.0
-2441,2442,english608,"brisbane, queensland, australia",english,3.0,male,5.0
-2442,2443,english609,"narrandera, new south wales, australia",english,3.0,female,5.0
-2443,2444,english610,"townsville, queensland, australia",english,3.0,female,5.0
-2444,2445,english611,"brisbane, queensland, australia",english,3.0,male,5.0
-2446,2447,mandarin88,"anqing, anhui, china",mandarin,3.0,male,5.0
-2447,2448,mandarin89,"taiyuan, shanxi, china",mandarin,3.0,male,5.0
-2451,2452,arabic142,"almajmaah, saudi arabia",arabic,3.0,male,5.0
-2457,2458,kannada9,"bangalore, karnataka, india",kannada,3.0,male,5.0
-2458,2459,hindi29,"chennai, tamil nadu, india",hindi,3.0,male,5.0
-2460,2461,mandarin90,"chengdu, sichuan, china",mandarin,3.0,male,5.0
-2462,2463,mandarin91,"tongcheng, anhui, china",mandarin,3.0,male,5.0
-2463,2464,french65,"lome, togo",french,3.0,female,5.0
-2465,2466,spanish192,"cordoba, argentina",spanish,3.0,male,5.0
-2466,2467,spanish193,"david, panama",spanish,3.0,female,5.0
-2468,2469,mandarin92,"huai'an, jiangsu, china",mandarin,3.0,female,5.0
-2469,2470,arabic143,"medina, saudi arabia",arabic,3.0,female,5.0
-2470,2471,spanish194,"cochabamba, bolivia",spanish,3.0,male,5.0
-2472,2473,french66,"belfort, france",french,3.0,female,5.0
-2473,2474,mandarin93,"xi'an, shanxi, china",mandarin,3.0,female,5.0
-2474,2475,spanish195,"guatemala city, guatemala",spanish,3.0,female,5.0
-2476,2477,mandarin94,"baotou, inner mongolia, china",mandarin,3.0,male,5.0
-2477,2478,hindi30,"ludhiana, india",hindi,3.0,female,5.0
-2478,2479,arabic144,"laayoune, morocco",arabic,3.0,male,5.0
-2481,2482,spanish196,"san cristobal, dominican republic",spanish,3.0,female,5.0
-2482,2483,mandarin95,"yangxin, hubei, china",mandarin,3.0,female,5.0
-2487,2488,arabic145,"riyadh, saudi arabia",arabic,3.0,female,5.0
-2490,2491,spanish197,"madrid, spain",spanish,3.0,female,5.0
-2493,2494,mandarin96,"qingdao, shandong, china",mandarin,3.0,female,5.0
-2495,2496,spanish198,"tejupilco, mexico",spanish,3.0,female,5.0
-2496,2497,french67,"aix-en-provence, france",french,3.0,female,5.0
-2506,2507,spanish199,"san juan, puerto rico",spanish,3.0,male,5.0
-2507,2508,arabic146,"amman, jordan",arabic,3.0,male,5.0
-2520,2521,spanish200,"bogota, colombia",spanish,3.0,female,5.0
-2522,2523,mandarin97,"jiujiang, jiangxi, china",mandarin,3.0,female,5.0
-2523,2524,mandarin98,"nanchang, jiangxi, china",mandarin,3.0,female,5.0
-2528,2529,mandarin99,"nanchang, jiangxi, china",mandarin,3.0,female,5.0
-2529,2530,mandarin100,"wuhan, hubei, china",mandarin,3.0,female,5.0
-2530,2531,mandarin101,"jiujiang, jiangxi, china",mandarin,3.0,female,5.0
-2531,2532,mandarin102,"huanggang, hubei, china",mandarin,3.0,female,5.0
-2532,2533,english612,"middlesbrough, england, uk",english,3.0,male,5.0
-2535,2536,french68,"bordeaux, france",french,3.0,female,5.0
-2536,2537,french69,"rennes, france",french,3.0,female,5.0
-2537,2538,mandarin103,"le shan, sichuan, china",mandarin,3.0,female,5.0
-2538,2539,mandarin104,"beijing, china",mandarin,3.0,female,5.0
-2539,2540,mandarin105,"tongliao, inner mongolia, china",mandarin,3.0,female,5.0
-2541,2542,mandarin106,"xi'an, shanxi, china",mandarin,3.0,female,5.0
-2543,2544,arabic147,"baha, saudi arabia",arabic,3.0,female,5.0
-2545,2546,russian53,"st. petersburg, russia",russian,3.0,female,5.0
-2549,2550,arabic148,"taif, saudi arabia",arabic,3.0,female,5.0
-2553,2554,mandarin107,"taiyuan, shanxi, china",mandarin,3.0,female,5.0
-2556,2557,mandarin108,"nanning, guangxi, china",mandarin,3.0,female,5.0
-2558,2559,mandarin109,"xi'an, shanxi, china",mandarin,3.0,female,5.0
-2559,2560,mandarin110,"panjin, liaoning, china",mandarin,3.0,female,5.0
-2561,2562,mandarin111,"beijing, china",mandarin,3.0,female,5.0
-2563,2564,mandarin112,"tianjin, china",mandarin,3.0,male,5.0
-2565,2566,mandarin113,"hohhot, inner mongolia, china",mandarin,3.0,male,5.0
-2569,2570,english613,"melbourne, australia",english,3.0,male,5.0
-2573,2574,german37,"hamburg, germany",german,3.0,female,5.0
-2583,2584,arabic149,"riyadh, saudi arabia",arabic,3.0,female,5.0
-2585,2586,spanish201,"mexico city, mexico",spanish,3.0,male,5.0
-2587,2588,spanish202,"mexico city, mexico",spanish,3.0,female,5.0
-2589,2590,spanish203,"usulutan, el salvador",spanish,3.0,female,5.0
-2590,2591,german38,"kaiserslautern, germany",german,3.0,female,5.0
-2591,2592,arabic150,"riyadh, saudi arabia",arabic,3.0,female,5.0
-2592,2593,russian54,"novosibirsk, russia",russian,3.0,female,5.0
-2597,2598,arabic151,"riyadh, saudi arabia",arabic,3.0,female,5.0
-2598,2599,mandarin114,"beijing, china",mandarin,3.0,female,5.0
-2601,2602,spanish204,"almeria, spain",spanish,3.0,male,5.0
-2605,2606,english614,"pensacola, florida, usa",english,3.0,female,5.0
-2606,2607,arabic152,"riyadh, saudi arabia",arabic,3.0,female,5.0
-2608,2609,hindi31,"rajkot, gujarat, india",hindi,3.0,female,5.0
-2612,2613,english615,"dublin, ireland",english,3.0,male,5.0
-2613,2614,spanish205,"cerete, colombia",spanish,3.0,male,5.0
-2614,2615,spanish206,"santiago, chile",spanish,3.0,female,5.0
-2616,2617,russian55,"poltava, ukraine",russian,3.0,female,5.0
-2618,2619,english616,"fort wayne, indiana, usa",english,3.0,male,5.0
-2619,2620,russian56,"moscow, russia",russian,3.0,female,5.0
-2620,2621,russian57,"moscow, russia",russian,3.0,male,5.0
-2621,2622,russian58,"moscow, russia",russian,3.0,male,5.0
-2622,2623,russian59,"moscow, russia",russian,3.0,female,5.0
-2623,2624,russian60,"moscow, russia",russian,3.0,male,5.0
-2624,2625,russian61,"belgorod, russia",russian,3.0,female,5.0
-2625,2626,russian62,"moscow, russia",russian,3.0,female,5.0
-2626,2627,russian63,"moscow, russia",russian,3.0,male,5.0
-2627,2628,russian64,"moscow, russia",russian,3.0,female,5.0
-2628,2629,russian65,"kiev, ukraine",russian,3.0,male,5.0
-2629,2630,english617,"kingston, jamaica",english,3.0,female,5.0
-2630,2631,russian66,"kandalaksha, murmanskaya, russia",russian,3.0,female,5.0
-2631,2632,russian67,"kirov, kirovskaya, russia",russian,3.0,male,5.0
-2632,2633,russian68,"moscow, russia",russian,3.0,male,5.0
-2633,2634,russian69,"moscow, russia",russian,3.0,female,5.0
-2634,2635,russian70,"moscow, russia",russian,3.0,male,5.0
-2635,2636,russian71,"moscow, russia",russian,3.0,male,5.0
-2638,2639,russian72,"moscow, russia",russian,3.0,female,5.0
-2640,2641,russian73,"moscow, russia",russian,3.0,female,5.0
-2641,2642,russian74,"st. petersburg, russia",russian,3.0,female,5.0
-2643,2644,russian75,"savasleyka, russia",russian,3.0,female,5.0
-2658,2659,russian76,"krasnoyarsk, russia",russian,3.0,female,5.0
-2673,2674,english618,"fullerton, california, usa",english,3.0,male,5.0
-2674,2675,mandarin115,"urumqi, xinjiang, china",mandarin,3.0,male,5.0
-2675,2676,arabic153,"kuwait city, kuwait",arabic,3.0,male,5.0
-2676,2677,mandarin116,"baotou, inner mongolia, china",mandarin,3.0,male,5.0
-2677,2678,mandarin117,"changchun, jilin, china",mandarin,3.0,male,5.0
-2678,2679,mandarin118,"xi'an, shanxi, china",mandarin,3.0,female,5.0
-2683,2684,spanish207,"ica, peru",spanish,3.0,female,5.0
-2691,2692,spanish208,"santo domingo, dominican republic",spanish,3.0,male,5.0
-2692,2693,arabic154,"baha, saudi arabia",arabic,3.0,male,5.0
-2698,2699,mandarin119,"changchun, jilin, china",mandarin,3.0,female,5.0
-2699,2700,mandarin120,"chengde, hebei, china",mandarin,3.0,male,5.0
-2702,2703,hindi32,"new delhi, india",hindi,3.0,female,5.0
-2704,2705,spanish209,"lima, peru",spanish,3.0,female,5.0
-2707,2708,mandarin121,"huangshan, anhui, china",mandarin,3.0,female,5.0
-2710,2711,mandarin122,"xi'an, shanxi, china",mandarin,3.0,male,5.0
-2713,2714,mandarin123,"chengdu, sichuan, china",mandarin,3.0,male,5.0
-2715,2716,mandarin124,"chongqing, china",mandarin,3.0,female,5.0
-2716,2717,russian77,"novokuznetsk, russia",russian,3.0,female,5.0
-2718,2719,mandarin125,"changchun, jilin, china",mandarin,3.0,female,5.0
-2719,2720,arabic155,"buraydah, saudi arabia",arabic,3.0,male,5.0
-2721,2722,russian78,"rostov na donu, russia",russian,3.0,female,5.0
-2723,2724,english619,"jackson, tennessee, usa",english,3.0,male,5.0
-2724,2725,french70,"harare, zimbabwe",french,3.0,female,5.0
-2725,2726,mandarin126,"yulin, shanxi, china",mandarin,3.0,male,5.0
-2728,2729,spanish210,"cordoba, argentina",spanish,3.0,female,5.0
-2729,2730,arabic156,"cairo, egypt",arabic,3.0,female,5.0
-2733,2734,arabic157,"sanaa, yemen",arabic,3.0,female,5.0
-2734,2735,english620,"glasgow, scotland, uk",english,3.0,male,5.0
-2738,2739,russian79,"krasnodar, russia",russian,3.0,female,5.0
-2739,2740,french71,"kinshasa, democratic republic of congo",french,3.0,female,5.0
-2740,2741,arabic158,"jakarta, indonesia",arabic,3.0,male,5.0
-2741,2742,arabic159,"medina, saudi arabia",arabic,3.0,male,5.0
-2742,2743,arabic160,"amman, jordan",arabic,3.0,female,5.0
-2747,2748,mandarin127,"shenyang, liaoning, china",mandarin,3.0,male,5.0
-2748,2749,arabic161,"minya, egypt",arabic,3.0,female,5.0
-2749,2750,arabic162,"buraydah, saudi arabia",arabic,3.0,male,5.0
-2751,2752,arabic163,"bouznika, morocco",arabic,3.0,female,5.0
-2752,2753,german39,"clausthal-zellerfeld, germany",german,3.0,male,5.0
-2753,2754,french72,"douala, cameroon",french,3.0,female,5.0
-2757,2758,french73,"beaumont-le-roger, france",french,3.0,male,5.0
-2759,2760,spanish211,"la paz, bolivia",spanish,3.0,female,5.0
-2760,2761,spanish212,"la union, el salvador",spanish,3.0,female,5.0
-2763,2764,hindi33,"hyderabad, india",hindi,3.0,female,5.0
-2764,2765,arabic164,"sale, morocco",arabic,3.0,female,5.0
-2768,2769,spanish213,"loja, ecuador",spanish,3.0,male,5.0
-2769,2770,spanish214,"neiva, colombia",spanish,3.0,female,5.0
-2770,2771,arabic165,"beirut, lebanon",arabic,3.0,female,5.0
-2771,2772,mandarin128,"cixi, zhejiang, china",mandarin,3.0,female,5.0
-2772,2773,mandarin129,"luoyang, henan, china",mandarin,3.0,female,5.0
-2778,2779,german40,"leipzig, germany",german,3.0,female,5.0
-2779,2780,arabic166,"buraydah, saudi arabia",arabic,3.0,male,5.0
-2781,2782,french74,"montreal, quebec, canada",french,3.0,female,5.0
-2782,2783,french75,"montreal, quebec, canada",french,3.0,male,5.0
-2783,2784,french76,"shawinigan, quebec, canada",french,3.0,male,5.0
-2784,2785,french77,"montreal, quebec, canada",french,3.0,male,5.0
-2785,2786,french78,"trois-rivieres, quebec, canada",french,3.0,male,5.0
-2786,2787,french79,"coaticook, quebec, canada",french,3.0,female,5.0
-2787,2788,arabic167,"alkharj, saudi arabia",arabic,3.0,male,5.0
-2790,2791,spanish215,"cochabamba, bolivia",spanish,3.0,female,5.0
-2792,2793,english621,"pittsburgh, pennsylvania, usa",english,3.0,female,5.0
-2793,2794,arabic168,"jiddah, saudi arabia",arabic,3.0,female,5.0
-2797,2798,mandarin130,"weifang, shandong, china",mandarin,3.0,female,5.0
-2798,2799,english622,"st. paul, minnesota, usa",english,3.0,female,5.0
-2800,2801,spanish216,"caracas, venezuela",spanish,3.0,female,5.0
-2802,2803,english623,"fort wayne, indiana, usa",english,3.0,male,5.0
-2803,2804,english624,"washington, district of columbia, usa",english,3.0,male,5.0
-2804,2805,english625,"minneapolis, minnesota, usa",english,3.0,male,5.0
-2805,2806,english626,"hammond, indiana, usa",english,3.0,female,5.0
-2808,2809,arabic169,"tripoli, libya",arabic,3.0,female,5.0
-2810,2811,arabic170,"vienna, virginia, usa",arabic,3.0,female,5.0
-2813,2814,french80,"abidjan, ivory coast",french,3.0,female,5.0
-2826,2827,spanish217,"bogota, colombia",spanish,3.0,female,5.0
-2828,2829,spanish218,"danli, honduras",spanish,3.0,female,5.0
-2831,2832,arabic171,"medina, saudi arabia",arabic,3.0,male,5.0
-2832,2833,german41,"wurzburg, germany",german,3.0,male,5.0
-2834,2835,spanish219,"santa ana, el salvador",spanish,3.0,female,5.0
-2835,2836,mandarin131,"shenzhen, guangdong, china",mandarin,3.0,male,5.0
-2836,2837,mandarin132,"dangyang, hubei, china",mandarin,3.0,female,5.0
-2841,2842,arabic172,"montgomery, alabama, usa",arabic,3.0,male,5.0
-2843,2844,spanish220,"guadalajara, jalisco, mexico",spanish,3.0,male,5.0
-2844,2845,german42,"munich, germany",german,3.0,female,5.0
-2846,2847,english627,"sydney, australia",english,3.0,female,5.0
-2854,2855,english628,"pittsburgh, pennsylvania, usa",english,3.0,male,5.0
-2857,2858,arabic173,"tyre, lebanon",arabic,3.0,female,5.0
-2860,2861,spanish221,"bogota, colombia",spanish,3.0,female,5.0
-2863,2864,arabic174,"riyadh, saudi arabia",arabic,3.0,female,5.0
-2864,2865,spanish222,"villalba, puerto rico",spanish,3.0,female,5.0
-2866,2867,spanish223,"santa rosa, texas, usa",spanish,3.0,female,5.0
-2867,2868,arabic175,"jiddah, saudi arabia",arabic,3.0,male,5.0
-2869,2870,russian80,"mykolayiv, ukraine",russian,3.0,female,5.0
-2872,2873,arabic176,"jiddah, saudi arabia",arabic,3.0,male,5.0
-2875,2876,mandarin133,"beijing, china",mandarin,3.0,female,5.0
-2876,2877,mandarin134,"luoyang, henan, china",mandarin,3.0,male,5.0
-2877,2878,mandarin135,"langfang, hebei, china",mandarin,3.0,male,5.0
-2878,2879,mandarin136,"shenyang, liaoning, china",mandarin,3.0,female,5.0
-2879,2880,mandarin137,"xi'an, shanxi, china",mandarin,3.0,female,5.0
-2880,2881,mandarin138,"chongqing, china",mandarin,3.0,female,5.0
-2881,2882,mandarin139,"kunming, yunnan, china",mandarin,3.0,male,5.0
-2882,2883,mandarin140,"xuzhou, jiangsu, china",mandarin,3.0,male,5.0
-2883,2884,mandarin141,"beijing, china",mandarin,3.0,female,5.0
-2884,2885,mandarin142,"chengdu, sichuan, china",mandarin,3.0,female,5.0
-2885,2886,mandarin143,"fuyang, anhui, china",mandarin,3.0,female,5.0
-2886,2887,mandarin144,"wuhu, anhui, china",mandarin,3.0,male,5.0
-2887,2888,mandarin145,"qingdao, shandong, china",mandarin,3.0,female,5.0
-2888,2889,arabic177,"riyadh, saudi arabia",arabic,3.0,male,5.0
-2889,2890,mandarin146,"xi'an, shanxi, china",mandarin,3.0,female,5.0
-2890,2891,mandarin147,"nanyang, henan, china",mandarin,3.0,female,5.0
-2891,2892,mandarin148,"nanyang, henan, china",mandarin,3.0,female,5.0
-2892,2893,mandarin149,"fuzhou, fujian, china",mandarin,3.0,female,5.0
-2893,2894,english629,"south riding, virginia, usa",english,3.0,female,5.0
-2894,2895,english630,"woodbridge, virginia, usa",english,3.0,female,5.0
-2895,2896,english631,"harrisonburg, virginia, usa",english,3.0,female,5.0
-2896,2897,english632,"falls church, virginia, usa",english,3.0,female,5.0
-2897,2898,english633,"washington, district of columbia, usa",english,3.0,female,5.0
-2898,2899,arabic178,"jiddah, saudi arabia",arabic,3.0,male,5.0
-2899,2900,arabic179,"riyadh, saudi arabia",arabic,3.0,male,5.0
-2900,2901,arabic180,"riyadh, saudi arabia",arabic,3.0,male,5.0
-2901,2902,arabic181,"riyadh, saudi arabia",arabic,3.0,male,5.0
-2902,2903,arabic182,"riyadh, saudi arabia",arabic,3.0,female,5.0
-2903,2904,arabic183,"riyadh, saudi arabia",arabic,3.0,female,5.0
-2904,2905,arabic184,"riyadh, saudi arabia",arabic,3.0,male,5.0
-2905,2906,arabic185,"riyadh, saudi arabia",arabic,3.0,male,5.0
-2906,2907,arabic186,"riyadh, saudi arabia",arabic,3.0,female,5.0
-2907,2908,arabic187,"riyadh, saudi arabia",arabic,3.0,female,5.0
-2908,2909,arabic188,"riyadh, saudi arabia",arabic,3.0,male,5.0
-2909,2910,arabic189,"riyadh, saudi arabia",arabic,3.0,female,5.0
-2910,2911,arabic190,"riyadh, saudi arabia",arabic,3.0,female,5.0
-2911,2912,arabic191,"riyadh, saudi arabia",arabic,3.0,female,5.0
-2912,2913,arabic192,"riyadh, saudi arabia",arabic,3.0,female,5.0
-2913,2914,arabic193,"riyadh, saudi arabia",arabic,3.0,male,5.0
-2914,2915,arabic194,"riyadh, saudi arabia",arabic,3.0,male,5.0
-2915,2916,english634,"alexandria, virginia, usa",english,3.0,male,5.0
-2916,2917,english635,"vienna, virginia, usa",english,3.0,female,5.0
-2917,2918,english636,"washington, dc, usa",english,3.0,female,5.0
-2918,2919,english637,"knoxville, tennessee, usa",english,3.0,female,5.0
-0,2920,english638,"new york, new york, usa",english,3.0,male,5.0
-1,2921,english639,"hopkinsville, kentucky, usa",english,3.0,male,5.0
-2,2922,english640,"aurora, colorado, usa",english,3.0,female,5.0
-3,2923,english641,"fairfax, virginia, usa",english,3.0,female,5.0
-4,2924,english642,"woodbridge, virginia, usa",english,3.0,female,5.0
-5,2925,english643,"culpeper, virginia, usa",english,3.0,female,5.0
-6,2926,english644,"watertown, new york, usa",english,3.0,female,5.0
-7,2927,spanish224,"la serena, chile",spanish,3.0,female,5.0
-11,2931,russian81,"kiev, ukraine",russian,3.0,male,5.0
-12,2932,english645,"hollister, california, usa",english,3.0,male,5.0
-13,2933,spanish225,"durango, mexico",spanish,3.0,male,5.0
-14,2934,spanish226,"los mochis, sinaloa, mexico",spanish,3.0,male,5.0
-15,2935,spanish227,"durango, durango, mexico",spanish,3.0,female,5.0
-16,2936,mandarin150,"taiyuan, shanxi, china",mandarin,3.0,female,5.0
-17,2937,hindi34,"pune, india",hindi,3.0,male,5.0
-18,2938,spanish228,"piura, peru",spanish,3.0,female,5.0
-19,2939,english646,"hazleton, pennsylvania, usa",english,3.0,male,5.0
+,speakerid,filename,birthplace,native_language,sex
+10,11,arabic1,"riyadh, saudi arabia",arabic,female
+11,12,arabic10,"cairo, egypt",arabic,male
+12,13,arabic11,"monastir, tunisia",arabic,female
+13,14,arabic12,"baghdad, iraq",arabic,male
+14,15,arabic13,"zabbougha, lebanon",arabic,male
+15,16,arabic2,"damascus, syria",arabic,male
+16,17,arabic3,"doha, qatar",arabic,male
+17,18,arabic4,"sharjah, united arab emirates",arabic,male
+18,19,arabic5,"casablanca, morocco",arabic,female
+19,20,arabic6,"sanaa, yemen",arabic,male
+20,21,arabic7,"casablanca, morocco",arabic,female
+21,22,arabic8,"casablanca, morocco",arabic,male
+22,23,arabic9,"jerusalem, israel",arabic,female
+60,61,english1,"pittsburgh, pennsylvania, usa",english,male
+61,62,english10,"davenport, iowa, usa",english,female
+62,63,english100,"miami, florida, usa",english,female
+63,64,english101,"toronto, ontario, canada",english,female
+64,65,english102,"torrington, connecticut, usa",english,male
+65,66,english103,"staten island, new york, usa",english,male
+66,67,english104,"youngstown, ohio, usa",english,female
+67,68,english11,"staffordshire, uk",english,female
+68,69,english12,"leicester, uk",english,female
+69,70,english13,"henley on thames, oxfordshire, uk",english,male
+70,71,english14,"belfast, northern ireland, uk",english,male
+71,72,english15,"norton, virginia, usa",english,female
+72,73,english16,"wise, virginia, usa",english,male
+73,74,english17,"darwin va, virginia, usa",english,male
+74,75,english18,"dickenson county, virginia, usa",english,female
+75,76,english19,"louisville, kentucky, usa",english,male
+76,77,english2,"birmingham, uk",english,female
+77,78,english20,"mt. holly, north carolina, usa",english,female
+78,79,english21,"boston, massachusetts, usa",english,female
+79,80,english22,"panama city, panama",english,female
+80,81,english23,"englewood, tennessee, usa",english,male
+81,82,english24,"glasgow, scotland, uk",english,male
+82,83,english25,"atlanta, georgia, usa",english,male
+83,84,english26,"smith island, maryland, usa",english,male
+84,85,english27,"smith island, maryland, usa",english,female
+85,86,english28,"toronto, ontario, canada",english,male
+86,87,english29,"lindsay, ontario, canada",english,female
+87,88,english3,"brisbane, australia",english,female
+88,89,english30,"st. mary's, ontario, canada",english,female
+89,90,english31,"st. augustine, trinidad",english,female
+90,91,english32,"fresno, california, usa",english,female
+91,92,english33,"san diego, california, usa",english,male
+92,93,english34,"ronkonkoma, new york, usa",english,female
+93,94,english35,"milwaukee, wisconsin, usa",english,female
+94,95,english36,"arcadia, wisconsin, usa",english,male
+95,96,english37,"yole, india",english,female
+96,97,english38,"littlehampton, uk",english,male
+97,98,english39,"new orleans, louisiana, usa",english,female
+98,99,english4,"saint anne's bay, jamaica",english,female
+99,100,english40,"dudley, uk",english,male
+100,101,english41,"wellington, new zealand",english,male
+101,102,english42,"nigel, south africa",english,male
+102,103,english43,"vancouver, british columbia, canada",english,male
+103,104,english44,"winston salem, north carolina, usa",english,female
+104,105,english45,"pine bluff, arkansas, usa",english,male
+105,106,english46,"creswell, north carolina, usa",english,male
+106,107,english47,"plantersville, arkansas, usa",english,female
+107,108,english48,"port moresby, national capital district, papua new guinea",english,male
+108,109,english49,"castro valley, california, usa",english,male
+109,110,english5,"fairfax, virginia, usa",english,male
+110,111,english50,"baltic, south dakota, usa",english,female
+111,112,english51,"detroit, michigan, usa",english,male
+112,113,english52,"calgary, alberta, canada",english,male
+113,114,english53,"syracuse, new york, usa",english,male
+114,115,english54,"new albany, indiana, usa",english,female
+115,116,english55,"st. louis, missouri, usa",english,female
+116,117,english56,"londonderry, northern ireland, uk",english,male
+117,118,english57,"birmingham 1, uk",english,male
+118,119,english58,"southhampton, uk",english,female
+119,120,english59,"columbus, ohio, usa",english,male
+120,121,english6,"brooklyn, new york, usa",english,female
+121,122,english60,"chesapeake, virginia, usa",english,male
+122,123,english61,"toronto, ontario, canada",english,male
+123,124,english62,"west jordan, utah, usa",english,male
+124,125,english63,"lewisville, texas, usa",english,male
+125,126,english64,"montreal, quebec, canada",english,female
+126,127,english65,"lewistown, pennsylvania, usa",english,male
+127,128,english66,"baltimore, maryland, usa",english,male
+128,129,english67,"princeton, indiana, usa",english,male
+129,130,english68,"new york, new york, usa",english,male
+130,131,english69,"adelaide, australia",english,male
+131,132,english7,"macon, mississippi, usa",english,male
+132,133,english70,"beaumont, texas, usa",english,male
+133,134,english71,"west covina, california, usa",english,male
+134,135,english72,"kilkenny, ireland",english,male
+135,136,english73,"darwin, australia",english,male
+136,137,english74,"wichita, kansas, usa",english,male
+137,138,english75,"idaho falls, idaho, usa",english,male
+138,139,english76,"boston, massachusetts, usa",english,female
+139,140,english77,"melbourne, australia",english,male
+140,141,english78,"caribou, maine, usa",english,female
+141,142,english79,"boston, massachusetts, usa",english,male
+142,143,english8,"perth, australia",english,female
+143,144,english80,"glasgow, scotland, uk",english,male
+144,145,english81,"st. paul, minnesota, usa",english,male
+145,146,english82,"chicago, illinois, usa",english,female
+146,147,english83,"winnfield, louisiana, usa",english,female
+147,148,english84,"sydney, australia",english,male
+148,149,english85,"strabane, northern ireland, uk",english,male
+149,150,english86,"charleston, south carolina, usa",english,male
+150,151,english87,"tamworth, australia",english,female
+151,152,english88,"grand rapids, michigan, usa",english,male
+152,153,english89,"kingston ma, massachusetts, usa",english,male
+153,154,english9,"carthage, texas, usa",english,female
+154,155,english90,"pittsburgh, pennsylvania, usa",english,male
+155,156,english91,"kingston, jamaica",english,male
+156,157,english92,"wisconsin rapids, wisconsin, usa",english,female
+157,158,english93,"mamou, louisiana, usa",english,female
+158,159,english94,"pensacola, florida, usa",english,female
+159,160,english95,"mishawaka, indiana, usa",english,male
+160,161,english96,"point pleasant, new jersey, usa",english,male
+161,162,english97,"wilmington nc, north carolina, usa",english,male
+162,163,english98,"spokane, washington, usa",english,male
+163,164,english99,"pittsburgh, pennsylvania, usa",english,female
+178,179,french1,"st. laurent d'onay, france",french,female
+179,180,french2,"tunis, tunisia",french,male
+180,181,french3,"nice, france",french,female
+181,182,french4,"abidjan, ivory coast",french,female
+182,183,french5,"douala, cameroon",french,female
+183,184,french6,"booue, gabon",french,female
+184,185,french7,"rimouski, quebec, canada",french,male
+185,186,french8,"ghent, belgium",french,male
+188,189,german1,"dusseldorf, germany",german,female
+189,190,german2,"bemberg, germany",german,female
+190,191,german3,"meissen, germany",german,female
+191,192,german4,"stuttgart, germany",german,female
+192,193,german5,"halle, germany",german,male
+193,194,german6,"vienna, austria",german,male
+206,207,hindi1,"nagpur, maharashtra, india",hindi,male
+227,228,kannada1,"bangalore, india",kannada,female
+255,256,mandarin1,"shanxi province, shanxi, china",mandarin,female
+256,257,mandarin2,"nanjing, china",mandarin,female
+257,258,mandarin3,"jilin city, jilin, china",mandarin,male
+258,259,mandarin4,"shanghai, china",mandarin,female
+259,260,mandarin5,"beijing, china",mandarin,female
+260,261,mandarin6,"le shan, sichuan, china",mandarin,female
+261,262,mandarin7,"berkeley, california, usa",mandarin,male
+298,299,russian1,"nizhni novgorod, russia",russian,male
+299,300,russian10,"moscow, russia",russian,female
+300,301,russian11,"ola magadan, russia",russian,male
+301,302,russian2,"izmail, ukraine",russian,female
+302,303,russian3,"zaporizhzhya, ukraine",russian,female
+303,304,russian4,"moscow, russia",russian,female
+304,305,russian5,"khabarovsk, russia",russian,female
+305,306,russian6,"moscow, russia",russian,female
+306,307,russian7,"kiev, ukraine",russian,female
+307,308,russian8,"moscow, russia",russian,male
+308,309,russian9,"moscow, russia",russian,male
+322,323,spanish1,"caracas, venezuela",spanish,male
+323,324,spanish10,"san luis de la reina, el salvador",spanish,male
+324,325,spanish11,"lima, peru",spanish,female
+325,326,spanish12,"oviedo, spain",spanish,male
+326,327,spanish13,"duitama, colombia",spanish,female
+327,328,spanish14,"pereira, colombia",spanish,female
+328,329,spanish15,"san juan, puerto rico",spanish,male
+329,330,spanish16,"buenos aires, argentina",spanish,male
+330,331,spanish17,"puebla, mexico",spanish,female
+331,332,spanish18,"la paz, bolivia",spanish,male
+332,333,spanish19,"havana, cuba",spanish,female
+333,334,spanish2,"puerto la cruz, venezuela",spanish,male
+334,335,spanish20,"managua, nicaragua",spanish,male
+335,336,spanish21,"santiago, chile",spanish,male
+336,337,spanish22,"madrid, spain",spanish,female
+337,338,spanish23,"santiago, chile",spanish,male
+338,339,spanish24,"mexico city, mexico",spanish,male
+339,340,spanish25,"san jose, costa rica",spanish,male
+340,341,spanish26,"burgos, spain",spanish,male
+341,342,spanish27,"zaragoza, spain",spanish,male
+342,343,spanish28,"san miguel, el salvador",spanish,female
+343,344,spanish3,"bogota, colombia",spanish,female
+344,345,spanish4,"cabanas, el salvador",spanish,female
+345,346,spanish5,"bogota, colombia",spanish,female
+346,347,spanish6,"lima, peru",spanish,male
+347,348,spanish7,"bogota, colombia",spanish,female
+348,349,spanish8,"san salvador, el salvador",spanish,male
+349,350,spanish9,"araure, venezuela",spanish,male
+406,407,english105,"windsor, ontario, canada",english,male
+407,408,english106,"los angeles, california, usa",english,female
+409,410,spanish29,"maracaibo, zulia, venezuela",spanish,male
+411,412,french9,"lamentin, martinique",french,male
+415,416,english107,"chicago, illinois, usa",english,male
+418,419,english108,"strabane, northern ireland, uk",english,male
+419,420,english109,"concord, new hampshire, usa",english,female
+420,421,english110,"great yarmouth, norfolk, uk",english,male
+425,426,english111,"bombay, india",english,male
+426,427,english112,"st. thomas, us virgin islands",english,male
+427,428,arabic14,"amman, jordan",arabic,male
+429,430,mandarin8,"jingmen, hubei, china",mandarin,male
+436,437,arabic15,"qayrawan, tunisia",arabic,male
+438,439,english113,"wrexham, wales, uk",english,male
+440,441,spanish30,"buenos aires, argentina",spanish,male
+441,442,english114,"birmingham 2, alabama, usa",english,female
+442,443,english115,"st. albans, hertfordshire, uk",english,male
+443,444,english116,"atlanta, georgia, usa",english,male
+444,445,english117,"elmore, alabama, usa",english,female
+445,446,english118,"akron, ohio, usa",english,male
+448,449,spanish31,"guayaquil, ecuador",spanish,female
+449,450,spanish32,"santa cruz, bolivia",spanish,male
+450,451,mandarin9,"shanghai, china",mandarin,male
+454,455,english119,"saskatoon, saskatchewan, canada",english,female
+455,456,english120,"saskatoon, saskatchewan, canada",english,male
+459,460,russian12,"st. petersburg, russia",russian,male
+464,465,english121,"waconia, minnesota, usa",english,male
+466,467,spanish33,"caracas, venezuela",spanish,male
+467,468,english122,"kuala lumpur, malaysia",english,female
+468,469,english123,"riverside, california, usa",english,female
+470,471,arabic16,"meknes, morocco",arabic,male
+471,472,russian13,"moscow, russia",russian,male
+475,476,spanish34,"cartagena, spain",spanish,male
+478,479,spanish35,"mexico city, mexico",spanish,male
+479,480,english124,"brooklyn, new york, usa",english,male
+484,485,english125,"st. george, queensland, australia",english,male
+486,487,english126,"cincinnati, ohio, usa",english,female
+488,489,english127,"new britain, connecticut, usa",english,male
+489,490,english128,"miami, florida, usa",english,female
+490,491,mandarin10,"beijing, china",mandarin,male
+491,492,english129,"blackpool, lancashire, uk",english,male
+495,496,english130,"port elizabeth, south africa",english,male
+496,497,english131,"west palm beach, florida, usa",english,male
+498,499,spanish36,"montevideo, uruguay",spanish,male
+499,500,french10,"bordeaux, france",french,male
+500,501,german7,"berlin, germany",german,male
+502,503,english132,"toronto, ontario, canada",english,female
+503,504,english133,"norwich, new york, usa",english,female
+505,506,english134,"belfast, northern ireland, uk",english,female
+506,507,english135,"orange beach, alabama, usa",english,male
+507,508,english136,"calgary, alberta, canada",english,male
+508,509,english137,"charleston, west virginia, usa",english,male
+509,510,english138,"palmer, alaska, usa",english,female
+510,511,english139,"providence, rhode island, usa",english,male
+511,512,arabic17,"settat, morocco",arabic,male
+513,514,french11,"limoges, france",french,male
+514,515,english140,"quezon city, philippines",english,male
+515,516,english141,"york, uk",english,male
+516,517,english142,"avon, new york, usa",english,male
+517,518,english143,"minneapolis, minnesota, usa",english,male
+518,519,english144,"barneys river, nova scotia, canada",english,male
+520,521,english145,"bury st. edmunds, uk",english,male
+521,522,english146,"blytheville, arkansas, usa",english,male
+522,523,english147,"merced, california, usa",english,female
+523,524,french12,"montreal, quebec, canada",french,female
+524,525,english148,"sydney, australia",english,male
+525,526,english149,"lawrenceville, georgia, usa",english,male
+526,527,english150,"brownsville, kentucky, usa",english,male
+527,528,english151,"baltimore, maryland, usa",english,male
+528,529,english152,"adelaide, australia",english,male
+532,533,english153,"brisbane, australia",english,male
+533,534,english154,"glace bay, nova scotia, canada",english,male
+534,535,english155,"oakland, california, usa",english,male
+535,536,english156,"dublin, ireland",english,male
+537,538,english157,"fort worth, texas, usa",english,male
+538,539,arabic18,"kuwait city, kuwait",arabic,male
+539,540,english158,"washington, district of columbia, usa",english,female
+540,541,english159,"ottawa, ontario, canada",english,male
+541,542,english160,"redwood falls, minnesota, usa",english,female
+544,545,german8,"bernburg, germany",german,male
+545,546,english161,"wakefield, ohio, usa",english,female
+546,547,english163,"fairview park, ohio, usa",english,male
+547,548,english162,"delaware, ohio, usa",english,female
+548,549,english164,"leeds, uk",english,male
+549,550,english165,"detroit, michigan, usa",english,female
+550,551,english166,"glenside, pennsylvania, usa",english,male
+551,552,english167,"lakeview, michigan, usa",english,male
+553,554,english168,"oceanside, california, usa",english,male
+554,555,english169,"cleveland, mississippi, usa",english,male
+555,556,english170,"belmont, mississippi, usa",english,female
+562,563,english171,"st. louis, missouri, usa",english,male
+563,564,english172,"kingston, jamaica",english,male
+566,567,english173,"libertyville, illinois, usa",english,male
+567,568,english174,"kuching, sarawak, malaysia",english,female
+571,572,english175,"seattle, washington, usa",english,male
+572,573,english176,"elizabeth city, north carolina, usa",english,female
+573,574,english177,"new orleans, louisiana, usa",english,female
+574,575,spanish37,"tegucigalpa, honduras",spanish,female
+575,576,spanish38,"tegucigalpa, honduras",spanish,male
+582,583,english178,"wilkes-barre, pennsylvania, usa",english,male
+583,584,english179,"huron, south dakota, usa",english,male
+584,585,english180,"newport, rhode island, usa",english,male
+585,586,english181,"new eagle, pennsylvania, usa",english,male
+586,587,hindi2,"hyderabad, india",hindi,male
+589,590,english182,"troy, new york, usa",english,male
+592,593,hindi3,"jalandhar, india",hindi,male
+594,595,english183,"corriverton, guyana",english,female
+596,597,english184,"hillsboro, oregon, usa",english,female
+603,604,english185,"oxford, uk",english,male
+604,605,english186,"gadsden, alabama, usa",english,female
+605,606,english187,"algona, iowa, usa",english,female
+606,607,mandarin11,"kao-hsiung, taiwan",mandarin,female
+608,609,russian14,"pskov, russia",russian,male
+610,611,english188,"edinburgh, scotland, uk",english,male
+613,614,spanish39,"pamplona, spain",spanish,male
+615,616,german9,"wuppertal, germany",german,male
+616,617,english189,"grand forks, north dakota, usa",english,male
+617,618,english190,"oak park, illinois, usa",english,male
+622,623,mandarin12,"singapore, singapore",mandarin,male
+624,625,arabic19,"khouribga, morocco",arabic,male
+627,628,french13,"bordeaux, france",french,male
+628,629,french14,"paris, france",french,female
+630,631,english191,"las cruces, new mexico, usa",english,male
+632,633,french15,"sens, france",french,male
+634,635,german10,"darmstadt, germany",german,male
+635,636,english192,"east lansing, michigan, usa",english,female
+636,637,english193,"honolulu, hawaii, usa",english,male
+637,638,english194,"manchester, england, uk",english,male
+638,639,english195,"delavan, wisconsin, usa",english,female
+639,640,german11,"frankfurt, germany",german,female
+642,643,arabic20,"chtaura, beqa valley, lebanon",arabic,male
+643,644,spanish40,"cartago, costa rica",spanish,male
+646,647,russian15,"ayaguz, kazakhstan",russian,female
+647,648,russian16,"minsk, belarus",russian,male
+650,651,german12,"feldkirch, austria",german,female
+651,652,german13,"eschen, liechtenstein",german,female
+653,654,english196,"suva, fiji",english,female
+657,658,french16,"montreal, quebec, canada",french,female
+661,662,english197,"iowa city, iowa, usa",english,male
+662,663,english198,"washington, district of columbia, usa",english,male
+663,664,english199,"bay shore, new york, usa",english,male
+666,667,english200,"berkeley, california, usa",english,female
+667,668,english201,"warren, michigan, usa",english,female
+669,670,arabic21,"beirut, lebanon",arabic,female
+670,671,russian17,"pskov, russia",russian,male
+672,673,english202,"crisfield, maryland, usa",english,male
+673,674,english203,"boston, massachusetts, usa",english,female
+674,675,german14,"vienna, austria",german,female
+675,676,german15,"innsbruck, austria",german,male
+677,678,english204,"chicago, illinois, usa",english,male
+678,679,english205,"blue earth, minnesota, usa",english,female
+679,680,english206,"hucknall, nottinghamshire, england, uk",english,female
+682,683,french17,"fribourg, switzerland",french,male
+683,684,english207,"wilkes-barre, pennsylvania, usa",english,female
+684,685,mandarin13,"nantou, taiwan",mandarin,male
+694,695,english208,"washington, dc, usa",english,male
+701,702,english209,"saint johns, antigua and barbuda",english,female
+704,705,english210,"trenton, nova scotia, canada",english,female
+705,706,spanish41,"bonao, dominican republic",spanish,male
+711,712,spanish42,"bogota, colombia",spanish,female
+713,714,spanish43,"santiago-dr, dominican republic",spanish,male
+714,715,spanish45,"santiago-dr, dominican republic",spanish,female
+715,716,spanish44,"la romana, dominican republic",spanish,female
+716,717,spanish46,"santo domingo, dominican republic",spanish,male
+717,718,spanish47,"santo domingo, dominican republic",spanish,female
+718,719,mandarin14,"dalian, liaoning, china",mandarin,male
+719,720,english211,"worcester, massachusetts, usa",english,male
+728,729,english212,"spartanburg, south carolina, usa",english,male
+730,731,spanish48,"bilbao, spain",spanish,male
+731,732,spanish49,"tandil, argentina",spanish,male
+733,734,english213,"dodge city, kansas, usa",english,male
+736,737,english214,"myrtle beach, south carolina, usa",english,male
+737,738,english215,"lemington spa, warwickshire, uk",english,male
+738,739,english216,"chicago, illinois, usa",english,female
+739,740,english217,"harrow, middlesex, uk",english,male
+740,741,french18,"washington, dc, usa",french,male
+745,746,mandarin15,"tainan, taiwan",mandarin,female
+746,747,english218,"abingdon, virginia, usa",english,female
+747,748,english219,"oakland, california, usa",english,female
+748,749,english220,"anaheim, california, usa",english,female
+749,750,mandarin16,"taipei, taiwan",mandarin,male
+751,752,spanish50,"santo domingo, dominican republic",spanish,male
+752,753,spanish51,"caguas, puerto rico",spanish,male
+753,754,english221,"london, uk",english,male
+754,755,french19,"grenoble, france",french,male
+763,764,english222,"auburn, indiana, usa",english,female
+764,765,hindi4,"bhilwara, rajisthan, india",hindi,female
+766,767,english223,"erie, pennsylvania, usa",english,male
+767,768,english224,"bridgetown, barbados",english,male
+770,771,english225,"dundee, scotland, uk",english,male
+771,772,english226,"walton-on-thames, surrey, uk",english,male
+772,773,english227,"camberley, surrey, uk",english,female
+773,774,english228,"glasgow, scotland, uk",english,female
+774,775,english229,"burlington, vermont, usa",english,male
+775,776,english230,"launceston, tasmania, australia",english,male
+776,777,spanish52,"popayan, cauca, colombia",spanish,female
+790,791,english231,"tampa, florida, usa",english,male
+792,793,english233,"edmonton, alberta, canada",english,female
+793,794,english234,"bloomington, indiana, usa",english,male
+794,795,english235,"richmond, virginia, usa",english,female
+795,796,mandarin17,"wuhan, hubei, china",mandarin,male
+796,797,spanish53,"bogota, colombia",spanish,male
+797,798,english232,"metairie, louisiana, usa",english,female
+798,799,english236,"st. charles, illinois, usa",english,male
+799,800,spanish54,"vina del mar, chile",spanish,male
+800,801,english237,"jeffersonville, ohio, usa",english,female
+801,802,english238,"vancouver, british  columbia, canada",english,female
+802,803,english239,"fort kobbe, panama",english,male
+803,804,french20,"alma, quebec, canada",french,male
+809,810,spanish55,"tandil, argentina",spanish,male
+810,811,french21,"amiens, france",french,male
+814,815,english240,"guelph, ontario, canada",english,male
+816,817,english241,"wanganui, new zealand",english,female
+817,818,english242,"laurel, mississippi, usa",english,female
+819,820,english243,"fredericton, new brunswick, canada",english,male
+820,821,english244,"san francisco, california, usa",english,male
+821,822,french22,"ghent, belgium",french,female
+822,823,french23,"ghent, belgium",french,female
+823,824,english245,"pittsburgh, pennsylvania, usa",english,male
+824,825,english246,"los angeles, california, usa",english,male
+830,831,russian18,"komsomolsk-on-amur, russia",russian,male
+831,832,french24,"mostaganem, algeria",french,male
+833,834,russian19,"zhezkazgan, kazakhstan",russian,male
+834,835,english247,"prince rupert, british columbia, canada",english,male
+837,838,spanish56,"monterrey, mexico",spanish,male
+839,840,english248,"philadelphia, pennsylvania, usa",english,female
+844,845,hindi5,"hubballi, karnataka, india",hindi,female
+849,850,english249,"boston, massachusetts, usa",english,female
+851,852,english250,"chester, england, uk",english,male
+854,855,english251,"mt. kisco, new york, usa",english,male
+855,856,english252,"san jose ca, california, usa",english,female
+856,857,english253,"dublin, ireland",english,male
+857,858,english254,"eugene, oregon, usa",english,male
+858,859,english255,"oamaru, new zealand",english,female
+859,860,french25,"st. louis fr, france",french,male
+860,861,english256,"laurinburg, north carolina, usa",english,male
+862,863,english257,"san diego, california, usa",english,male
+865,866,hindi6,"new delhi, india",hindi,female
+866,867,hindi7,"allahabad, utter pardesh, india",hindi,female
+868,869,english258,"kilkenny, ireland",english,male
+869,870,english259,"singapore, singapore",english,male
+870,871,english260,"phoenix, arizona, usa",english,female
+871,872,mandarin18,"taoyuan, taiwan",mandarin,female
+874,875,english261,"forestville, maryland, usa",english,female
+875,876,english262,"naylor, maryland, usa",english,male
+880,881,german16,"bremen, germany",german,female
+881,882,german17,"frankfurt, germany",german,female
+883,884,english263,"oak forest, illinois, usa",english,male
+885,886,spanish57,"montevideo, uruguay",spanish,male
+888,889,english264,"freemont, california, usa",english,male
+889,890,english265,"vancouver wa, washington, usa",english,male
+892,893,german18,"bad aussee, austria",german,male
+898,899,english266,"san diego, california, usa",english,male
+899,900,english267,"leeds, uk",english,male
+900,901,english268,"leeds, uk",english,female
+901,902,english269,"adelaide, australia",english,female
+902,903,english270,"cape town, south africa",english,male
+903,904,english271,"cape town, south africa",english,female
+904,905,english272,"dallas, texas, usa",english,male
+905,906,spanish58,"bogota, colombia",spanish,male
+906,907,english273,"blue bell, pennsylvania, usa",english,male
+907,908,spanish59,"mayaguez, puerto rico",spanish,female
+908,909,english274,"sydney, australia",english,female
+909,910,hindi8,"imphal, india",hindi,male
+910,911,russian20,"kostanai, kazakhstan",russian,female
+911,912,english275,"clifton, new jersey, usa",english,female
+914,915,spanish60,"santiago-dr, dominican republic",spanish,female
+915,916,mandarin19,"qinzhou, guangxi, china",mandarin,male
+916,917,french26,"montreal, quebec, canada",french,female
+917,918,english276,"chattanooga, tennessee, usa",english,female
+918,919,english277,"hudson, new york, usa",english,female
+919,920,arabic22,"abu dhabi, united arab emirates",arabic,female
+920,921,english278,"augusta, georgia, usa",english,female
+921,922,english279,"singapore, singapore",english,female
+923,924,spanish61,"azuaga, spain",spanish,male
+924,925,spanish62,"buenos aires, argentina",spanish,female
+926,927,arabic23,"al mahalla, egypt",arabic,male
+927,928,german19,"offenbach, germany",german,female
+930,931,mandarin20,"ping tong, taiwan",mandarin,female
+931,932,french27,"algiers, algeria",french,female
+934,935,english280,"ramsey, isle of man",english,female
+935,936,german20,"chur, switzerland",german,male
+936,937,english281,"ramsey mn, minnesota, usa",english,male
+938,939,english282,"tampa, florida, usa",english,male
+950,951,english283,"pelham, new york, usa",english,male
+951,952,english284,"gainesville, florida, usa",english,male
+953,954,russian21,"moscow, russia",russian,female
+956,957,french28,"port-au-prince, haiti",french,female
+958,959,spanish63,"la coruna, spain",spanish,female
+960,961,english285,"melbourne, australia",english,male
+961,962,spanish64,"medellin, colombia",spanish,male
+969,970,arabic24,"cairo, egypt",arabic,male
+976,977,english286,"beaumont, texas, usa",english,female
+980,981,english287,"singapore, singapore",english,female
+981,982,english288,"st. louis, missouri, usa",english,female
+982,983,english289,"fairfax, virginia, usa",english,female
+983,984,mandarin21,"chengdu, sichuan, china",mandarin,female
+985,986,english290,"duluth, georgia, usa",english,male
+993,994,russian22,"riga, latvia",russian,male
+1010,1011,arabic25,"ramun, israel (occupied territory)",arabic,male
+1011,1012,arabic26,"amman, jordan",arabic,female
+1012,1013,arabic27,"jerusalem, israel",arabic,male
+1016,1017,hindi9,"durgapur, west bengal, india",hindi,male
+1018,1019,mandarin22,"haikou, hainan, china",mandarin,female
+1020,1021,french29,"cannes, france",french,female
+1022,1023,french30,"kinshasa, democratic republic of congo",french,male
+1025,1026,english291,"belize city, belize",english,male
+1043,1044,mandarin23,"kao-hsiung, taiwan",mandarin,female
+1050,1051,english292,"kansas city, missouri, usa",english,male
+1051,1052,english293,"billings, montana, usa",english,female
+1056,1057,russian23,"zaporizhzhya, ukraine",russian,female
+1059,1060,english294,"naracoorte, australia",english,female
+1061,1062,french31,"paris, france",french,male
+1063,1064,german21,"villach, austria",german,female
+1066,1067,english295,"airdrie, alberta, canada",english,male
+1068,1069,spanish65,"barranquilla, colombia",spanish,male
+1069,1070,english296,"edmonton, alberta, canada",english,female
+1070,1071,english297,"lindenhurst, new york, usa",english,male
+1071,1072,english298,"lismore, new south wales, australia",english,male
+1072,1073,russian24,"sochi, russia",russian,female
+1074,1075,english299,"windsor, ontario, canada",english,male
+1075,1076,english300,"dublin, ireland",english,male
+1076,1077,spanish66,"san salvador, el salvador",spanish,male
+1077,1078,english301,"toronto, ontario, canada",english,male
+1079,1080,french32,"kabinda, democratic republic of congo",french,male
+1084,1085,english302,"melbourne, australia",english,male
+1085,1086,english303,"anaheim, california, usa",english,female
+1087,1088,english304,"clare, ireland",english,female
+1088,1089,mandarin24,"shanghai, china",mandarin,female
+1091,1092,german22,"elsterwerda, germany",german,female
+1092,1093,english306,"london, uk",english,female
+1093,1094,english305,"la paz, bolivia",english,female
+1095,1096,russian25,"orhei, moldova",russian,female
+1096,1097,russian26,"chisinau, moldova",russian,female
+1099,1100,english307,"alexandria, va, usa",english,male
+1100,1101,english308,"cardiff, wales, uk",english,male
+1104,1105,english309,"dunedin, new zealand",english,female
+1107,1108,english310,"oxford, uk",english,female
+1109,1110,english311,"detroit, michigan, usa",english,female
+1110,1111,spanish67,"santa marta, colombia",spanish,female
+1112,1113,english312,"edmonton, alberta, canada",english,female
+1114,1115,arabic28,"al-ayn, united arab emirates",arabic,male
+1115,1116,arabic29,"doha, qatar",arabic,male
+1118,1119,english313,"silver spring, maryland, usa",english,male
+1119,1120,english314,"memphis, tennessee, usa",english,female
+1120,1121,english315,"los angeles, california, usa",english,male
+1121,1122,english316,"sacramento, california, usa",english,male
+1124,1125,mandarin25,"wuxi, jiangsu, china",mandarin,female
+1126,1127,french33,"montreal, quebec, canada",french,male
+1131,1132,english317,"burlington, vermont, usa",english,male
+1132,1133,arabic30,"riyadh, saudi arabia",arabic,female
+1136,1137,english318,"sarnia, ontario, canada",english,male
+1137,1138,english319,"grimsby, lincolnshire, uk",english,male
+1140,1141,mandarin26,"emei, sichuan, china",mandarin,female
+1153,1154,mandarin27,"chengdu, sichuan, china",mandarin,male
+1159,1160,french34,"abidjan, ivory coast",french,male
+1161,1162,english320,"maryland county, liberia",english,female
+1162,1163,english321,"brooklyn, new york, usa",english,male
+1171,1172,english322,"yorkton, saskatchewan, canada",english,male
+1172,1173,english323,"regina, saskatchewan, canada",english,female
+1173,1174,english324,"st. marys, ontario, canada",english,male
+1175,1176,english325,"reading, pennsylvania, usa",english,male
+1180,1181,arabic31,"baghdad, iraq",arabic,female
+1187,1188,english326,"fairborn, ohio, usa",english,male
+1188,1189,french35,"toulouse, france",french,male
+1190,1191,russian27,"moscow, russia",russian,male
+1197,1198,russian28,"minsk, belarus",russian,female
+1201,1202,hindi10,"new delhi, india",hindi,female
+1202,1203,arabic32,"baghdad, iraq",arabic,male
+1203,1204,arabic33,"baghdad, iraq",arabic,female
+1204,1205,english327,"dunedin, florida, usa",english,male
+1205,1206,english328,"hollywood, florida, usa",english,female
+1206,1207,english329,"boise, idaho, usa",english,female
+1207,1208,english330,"augusta, georgia, usa",english,female
+1208,1209,english331,"perth, australia",english,female
+1211,1212,english332,"baltimore, maryland, usa",english,female
+1213,1214,english333,"spokane, washington, usa",english,female
+1214,1215,english334,"derby, england, uk",english,female
+1215,1216,english335,"washington, district of columbia, usa",english,male
+1216,1217,english336,"baltimore, maryland, usa",english,female
+1217,1218,english337,"jersey city, new jersey, usa",english,female
+1218,1219,english338,"sydney, australia",english,female
+1219,1220,english339,"chicago, illinois, usa",english,male
+1221,1222,english340,"charleston, west virginia, usa",english,male
+1223,1224,english341,"new york, new york, usa",english,female
+1224,1225,english342,"kansas city, missouri, usa",english,male
+1225,1226,english343,"portland, maine, usa",english,male
+1226,1227,spanish68,"san fernando, chile",spanish,male
+1228,1229,spanish69,"caracas, venezuela",spanish,female
+1229,1230,spanish70,"bogota, colombia",spanish,female
+1230,1231,spanish71,"rosario, argentina",spanish,male
+1231,1232,english344,"lumberton, north carolina, usa",english,female
+1232,1233,english345,"kansas city, missouri, usa",english,male
+1234,1235,english346,"east hartford, connecticut, usa",english,male
+1235,1236,english347,"burnsville, minnesota, usa",english,female
+1236,1237,english348,"las pinas, philippines",english,female
+1237,1238,spanish72,"miami, florida, usa",spanish,female
+1238,1239,english349,"warrenton, virginia, usa",english,female
+1239,1240,spanish73,"merida, venezuela",spanish,male
+1240,1241,english350,"polesworth, staffordshire, uk",english,female
+1241,1242,english351,"carthage, missouri, usa",english,male
+1242,1243,english352,"singapore, singapore",english,male
+1245,1246,english353,"saskatoon, saskatchewan, canada",english,male
+1248,1249,spanish74,"zaragoza, spain",spanish,male
+1249,1250,english354,"christchurch, new zealand",english,female
+1252,1253,arabic34,"kuwait city, kuwait",arabic,female
+1253,1254,russian29,"chisinau, moldova",russian,male
+1254,1255,german23,"herdecke, germany",german,male
+1255,1256,english355,"los angeles, california, usa",english,male
+1256,1257,english356,"morden, manitoba, canada",english,female
+1257,1258,english357,"alto, georgia, usa",english,male
+1258,1259,english358,"fredericton, new brunswick, canada",english,male
+1272,1273,spanish75,"lima, peru",spanish,female
+1275,1276,english359,"sackville, new brunswick, canada",english,male
+1276,1277,english360,"erie, pennsylvania, usa",english,female
+1278,1279,russian30,"stavropol, russia",russian,male
+1279,1280,english361,"burnsville, minnesota, usa",english,female
+1280,1281,english362,"cork, ireland",english,male
+1286,1287,english363,"castle donington, uk",english,male
+1287,1288,english364,"sydney, australia",english,female
+1289,1290,spanish76,"la paz, bolivia",spanish,male
+1291,1292,english365,"oxford, uk",english,male
+1292,1293,english366,"bournesmouth, uk",english,female
+1293,1294,english367,"birkenhead, uk",english,female
+1294,1295,english368,"strattford-on-avon, uk",english,male
+1296,1297,english369,"mcminnville, oregon, usa",english,male
+1300,1301,spanish77,"jalisco, mexico",spanish,male
+1301,1302,english370,"pondicherry, india",english,male
+1302,1303,english371,"colorado springs, colorado, usa",english,female
+1303,1304,french36,"reims, france",french,female
+1305,1306,french37,"strasbourg, france",french,male
+1306,1307,english372,"christiansburg, virginia, usa",english,male
+1307,1308,english373,"russellville, kentucky, usa",english,male
+1309,1310,english374,"milford haven, wales, uk",english,male
+1310,1311,russian31,"tallinn, estonia",russian,male
+1311,1312,english375,"manchester, connecticut, usa",english,male
+1313,1314,russian32,"kiev, ukraine",russian,female
+1314,1315,english376,"pasadena, california, usa",english,male
+1316,1317,russian33,"karaganda, kazakhstan",russian,female
+1318,1319,english377,"trenton, michigan, usa",english,female
+1319,1320,english378,"silver spring, maryland, usa",english,female
+1320,1321,english379,"summit, new jersey, usa",english,male
+1322,1323,english380,"roanoke, virginia, usa",english,female
+1323,1324,english381,"pike county, kentucky, usa",english,male
+1324,1325,english382,"arlington, virginia, usa",english,male
+1325,1326,english383,"washington, district of columbia, usa",english,female
+1326,1327,english384,"williamson, west virginia, usa",english,male
+1327,1328,english385,"mcveigh, kentucky, usa",english,female
+1329,1330,english386,"los angeles, california, usa",english,female
+1330,1331,english387,"lancaster, california, usa",english,female
+1331,1332,english388,"bluefield, west virginia, usa",english,female
+1332,1333,english389,"aldie, virginia, usa",english,female
+1333,1334,english390,"milwaukee, wisconsin, usa",english,male
+1334,1335,english391,"milton, florida, usa",english,female
+1335,1336,english392,"warrenton, virginia, usa",english,male
+1336,1337,english393,"washington, district of columbia, usa",english,female
+1337,1338,spanish78,"lima, peru",spanish,female
+1338,1339,english394,"aiken, south carolina, usa",english,female
+1339,1340,english395,"alexandria, virginia, usa",english,male
+1340,1341,english396,"orange, virginia, usa",english,female
+1341,1342,english397,"wadesboro, north carolina, usa",english,female
+1342,1343,english398,"salisbury, north carolina, usa",english,female
+1343,1344,spanish79,"lamas, peru",spanish,female
+1344,1345,english399,"la grange, georgia, usa",english,female
+1345,1346,spanish80,"bogota, colombia",spanish,female
+1346,1347,spanish81,"san juan, puerto rico",spanish,female
+1347,1348,english400,"shanklin, isle of wight, uk",english,female
+1348,1349,english401,"lucerne, switzerland",english,male
+1349,1350,english402,"canberra, australia",english,female
+1350,1351,english403,"sydney, australia",english,female
+1351,1352,english404,"windsor, australia",english,male
+1352,1353,english405,"geelong, australia",english,female
+1357,1358,english406,"pensacola, florida, usa",english,female
+1359,1360,english407,"windsor, ontario, canada",english,male
+1360,1361,english408,"lynwood, california, usa",english,male
+1361,1362,english409,"maitland, australia",english,female
+1362,1363,english410,"hamilton, new zealand",english,male
+1370,1371,english411,"washington, district of columbia, usa",english,female
+1371,1372,english412,"washington, district of columbia, usa",english,female
+1372,1373,english413,"manchester, england, uk",english,female
+1373,1374,english414,"woonsocket, rhode island, usa",english,female
+1374,1375,english415,"woonsocket, rhode island, usa",english,male
+1376,1377,english416,"sydney, australia",english,male
+1379,1380,english417,"cardiff, wales, uk",english,female
+1382,1383,german24,"niedersachsen, germany",german,male
+1383,1384,english418,"arlington, virginia",english,male
+1384,1385,english419,"youngstown, ohio, usa",english,male
+1386,1387,english420,"auckland, new zealand",english,male
+1387,1388,english421,"landstuhl, germany",english,male
+1389,1390,english422,"rochester, new york, usa",english,male
+1390,1391,arabic35,"jiddah, saudi arabia",arabic,male
+1391,1392,arabic36,"jiddah, saudi arabia",arabic,male
+1392,1393,arabic37,"jiddah, saudi arabia",arabic,male
+1393,1394,arabic38,"shady grove, maryland, usa",arabic,female
+1394,1395,english423,"baltimore, maryland, usa",english,female
+1395,1396,spanish82,"la paz, bolivia",spanish,male
+1396,1397,spanish83,"la paz, bolivia",spanish,male
+1397,1398,spanish84,"buenos aires, argentina",spanish,female
+1398,1399,spanish85,"buenos aires, argentina",spanish,female
+1399,1400,spanish86,"buenos aires, argentina",spanish,male
+1400,1401,spanish87,"la paz, bolivia",spanish,male
+1401,1402,spanish88,"la paz, bolivia",spanish,male
+1404,1405,arabic39,"jiddah, saudi arabia",arabic,male
+1406,1407,russian34,"vladivostok, russia",russian,male
+1408,1409,english424,"danville, virginia, usa",english,male
+1409,1410,english425,"danville, virginia, usa",english,male
+1410,1411,english426,"florence, south carolina, usa",english,female
+1411,1412,english427,"hanover, pennsylvania, usa",english,female
+1412,1413,english428,"kingstree, south carolina, usa",english,female
+1415,1416,english429,"philadelphia, pennsylvania, usa",english,female
+1418,1419,english430,"melbourne, australia",english,female
+1419,1420,arabic40,"jiddah, saudi arabia",arabic,male
+1420,1421,arabic41,"riyadh, saudi arabia",arabic,male
+1421,1422,arabic42,"jiddah, saudi arabia",arabic,male
+1422,1423,english431,"green bay, wisconsin, usa",english,female
+1423,1424,french38,"montreal, quebec, canada",french,male
+1424,1425,spanish89,"monterrey, mexico",spanish,male
+1425,1426,arabic43,"beirut, lebanon",arabic,female
+1426,1427,french39,"pezenas, france",french,male
+1427,1428,english432,"dublin, ireland",english,female
+1428,1429,french40,"rouen, france",french,female
+1429,1430,english433,"gladwin, michigan, usa",english,female
+1430,1431,spanish90,"caracas, venezuela",spanish,female
+1432,1433,spanish91,"caracas, venezuela",spanish,female
+1434,1435,spanish92,"cardenas, cuba",spanish,male
+1435,1436,spanish93,"santa rosa, honduras",spanish,female
+1436,1437,hindi11,"chandigarh, india",hindi,male
+1438,1439,spanish94,"bogota, colombia",spanish,male
+1439,1440,hindi12,"allahabad, india",hindi,female
+1442,1443,german25,"geislingen, germany",german,female
+1443,1444,spanish95,"juarez, mexico",spanish,female
+1446,1447,mandarin28,"shanghai, china",mandarin,male
+1448,1449,spanish96,"arequipa, peru",spanish,female
+1449,1450,spanish97,"bogota, colombia",spanish,female
+1450,1451,spanish98,"veracruz, mexico",spanish,male
+1451,1452,german26,"stuttgart, germany",german,female
+1454,1455,arabic44,"jiddah, saudi arabia",arabic,female
+1455,1456,arabic45,"fort collins, colorado, usa",arabic,female
+1456,1457,arabic46,"jiddah, saudi arabia",arabic,male
+1457,1458,arabic47,"jiddah, saudi arabia",arabic,male
+1458,1459,arabic48,"mecca, saudi arabia",arabic,male
+1459,1460,arabic49,"medina, saudi arabia",arabic,male
+1460,1461,arabic50,"jiddah, saudi arabia",arabic,male
+1466,1467,russian35,"dresden, germany",russian,male
+1468,1469,english434,"kansas city, kansas, usa",english,male
+1470,1471,english435,"palm springs, california, usa",english,female
+1473,1474,french41,"la massana, andorra",french,male
+1474,1475,english436,"freeport, the bahamas",english,female
+1476,1477,english437,"cleveland, ohio, usa",english,male
+1485,1486,arabic51,"jiddah, saudi arabia",arabic,male
+1486,1487,arabic52,"jiddah, saudi arabia",arabic,female
+1489,1490,mandarin29,"lanzhou, gansu, china",mandarin,male
+1490,1491,mandarin30,"taipei, taiwan",mandarin,male
+1491,1492,english438,"houston, texas, usa",english,female
+1492,1493,english439,"richmond, british columbia, canada",english,female
+1493,1494,german27,"bielefeld, germany",german,male
+1501,1502,english440,"glasgow, scotland, uk",english,female
+1505,1506,spanish99,"lima, peru",spanish,female
+1507,1508,spanish100,"iquitos, peru",spanish,female
+1508,1509,french42,"kinshasa, democratic republic of congo",french,female
+1517,1518,russian36,"moscow, russia",russian,male
+1518,1519,mandarin31,"wenzhou, zhejiang, china",mandarin,female
+1522,1523,russian37,"st. petersburg, russia",russian,male
+1523,1524,english441,"oquawka, illinois, usa",english,female
+1524,1525,german28,"vienna, austria",german,female
+1525,1526,arabic53,"rabat, morocco",arabic,male
+1526,1527,mandarin32,"taipei, taiwan",mandarin,female
+1527,1528,english442,"salisbury mills, new york, usa",english,male
+1529,1530,english443,"fort collins, colorado, usa",english,male
+1530,1531,english444,"anniston, alabama, usa",english,male
+1531,1532,english445,"san francisco, california, usa",english,male
+1532,1533,english446,"moorhead, minnesota, usa",english,female
+1533,1534,english447,"hartford, connecticut, usa",english,male
+1534,1535,french43,"paris, france",french,male
+1535,1536,english448,"isle of arran, scotland, uk",english,male
+1537,1538,english449,"barton, vermont, usa",english,male
+1540,1541,mandarin33,"beijing, china",mandarin,male
+1543,1544,english450,"windsor, uk",english,male
+1544,1545,french44,"la chaux-de-fonds, switzerland",french,female
+1545,1546,english451,"hazlehurst, georgia, usa",english,male
+1546,1547,english452,"newcastle, australia",english,male
+1547,1548,english453,"chicago, illinois, usa",english,female
+1549,1550,english454,"raleigh, north carolina, usa",english,female
+1551,1552,english455,"washington, dc, usa",english,female
+1553,1554,english456,"lancashire, leyland, uk",english,female
+1554,1555,english457,"syracuse, new york, usa",english,male
+1558,1559,english458,"reno, nevada, usa",english,female
+1559,1560,english459,"charlotte, north carolina, usa",english,male
+1560,1561,english460,"rutland, england, uk",english,female
+1562,1563,english461,"poughkeepsie, new york, usa",english,female
+1563,1564,english462,"paducah, kentucky, usa",english,male
+1564,1565,arabic54,"baghdad, iraq",arabic,male
+1566,1567,french45,"montreal, quebec, canada",french,male
+1568,1569,arabic55,"beirut, lebanon",arabic,male
+1570,1571,english463,"brooklyn, new york, usa",english,female
+1573,1574,spanish101,"la union, el salvador",spanish,female
+1574,1575,spanish102,"cochabamba, bolivia",spanish,male
+1577,1578,mandarin34,"shi jia zhuang, hebei, china",mandarin,female
+1578,1579,mandarin35,"yantai, shandong, china",mandarin,female
+1579,1580,mandarin36,"beijing, china",mandarin,female
+1580,1581,mandarin37,"huhot, nei meng gu, china",mandarin,female
+1581,1582,mandarin38,"changsha, hunan, china",mandarin,female
+1582,1583,mandarin39,"tie ling, liaoning, china",mandarin,female
+1583,1584,spanish103,"san miguel, el salvador",spanish,male
+1599,1600,spanish104,"san miguel, el salvador",spanish,female
+1612,1613,spanish105,"jerez de la frontera, spain",spanish,female
+1613,1614,mandarin40,"chengdu, sichuan, china",mandarin,male
+1614,1615,mandarin41,"songyuan, jilin, china",mandarin,female
+1615,1616,mandarin42,"yanbian, jilin, china",mandarin,female
+1616,1617,mandarin43,"datong, shanxi, china",mandarin,female
+1617,1618,english464,"ottawa, ontario, canada",english,male
+1618,1619,german29,"coburg, germany",german,female
+1620,1621,spanish106,"lima, peru",spanish,male
+1621,1622,spanish107,"san salvador, el salvador",spanish,male
+1628,1629,spanish108,"medellin, colombia",spanish,male
+1629,1630,mandarin44,"hangzhou, zhejiang, china",mandarin,male
+1630,1631,mandarin45,"beijing, china",mandarin,female
+1632,1633,hindi13,"jaipur, india",hindi,female
+1634,1635,english465,"aylesbury, buckinghamshire, uk",english,male
+1635,1636,mandarin46,"jilin city, jilin, china",mandarin,female
+1636,1637,english466,"portland, maine, usa",english,male
+1638,1639,english467,"pozzuoli, italy",english,male
+1639,1640,english468,"myrtle beach, south carolina, usa",english,male
+1640,1641,english469,"knoxville, tennessee, usa",english,male
+1641,1642,english470,"leighton buzzard, uk",english,male
+1642,1643,french46,"chatenay malabry, france",french,male
+1643,1644,mandarin47,"beijing, china",mandarin,female
+1644,1645,mandarin48,"pingdingshan, henan, china",mandarin,male
+1647,1648,english471,"calgary, alberta, canada",english,female
+1648,1649,english472,"rota, spain",english,male
+1649,1650,english473,"nottingham, uk",english,male
+1655,1656,english474,"rochester, minnesota, usa",english,female
+1656,1657,english475,"ogden, utah, usa",english,female
+1657,1658,english476,"manchester, new hampshire, usa",english,female
+1658,1659,english477,"san diego, california, usa",english,female
+1659,1660,spanish109,"maracay, venezuela",spanish,male
+1660,1661,english478,"sydney, nova scotia, canada",english,male
+1661,1662,french47,"landerneau, brittany, france",french,female
+1663,1664,english479,"new york, new york, usa",english,female
+1664,1665,english480,"winston-salem, north carolina, usa",english,male
+1665,1666,english481,"stringtown, oklahoma, usa",english,female
+1666,1667,english482,"yeadon, pennsylvania, usa",english,female
+1667,1668,english483,"boston, massachusetts, usa",english,male
+1671,1672,english484,"dublin, ireland",english,male
+1673,1674,english485,"cromwell, connecticut, usa",english,male
+1676,1677,arabic56,"ain defla, algeria",arabic,male
+1679,1680,spanish110,"caracas, venezuela",spanish,male
+1680,1681,german30,"radstadt, austria",german,female
+1682,1683,english486,"corentyne, guyana",english,female
+1684,1685,german31,"datteln, germany",german,female
+1687,1688,english487,"london, uk",english,female
+1688,1689,spanish111,"santiago, chile",spanish,male
+1691,1692,english488,"irvine, scotland, uk",english,female
+1692,1693,spanish112,"la paz, bolivia",spanish,male
+1693,1694,english489,"kingston, jamaica",english,female
+1694,1695,spanish113,"cochabamba, bolivia",spanish,male
+1696,1697,hindi14,"new delhi, india",hindi,male
+1698,1699,arabic57,"beirut, lebanon",arabic,female
+1699,1700,arabic58,"baghdad, iraq",arabic,male
+1700,1701,french48,"douala, cameroon",french,female
+1701,1702,arabic59,"irbid, jordan",arabic,male
+1706,1707,german32,"niedersachsen, germany",german,female
+1707,1708,russian38,"gomel, belarus",russian,male
+1708,1709,english490,"auckland, new zealand",english,male
+1710,1711,arabic60,"cairo, egypt",arabic,male
+1712,1713,english491,"westmoreland, jamaica",english,female
+1715,1716,english492,"omaha, nebraska, usa",english,female
+1717,1718,english493,"miami, florida, usa",english,male
+1718,1719,english494,"findlay, ohio, usa",english,male
+1719,1720,english495,"kirkland, washington, usa",english,male
+1723,1724,english496,"london, england, uk",english,male
+1725,1726,english497,"cleveland, ohio, usa",english,male
+1726,1727,english498,"prince george, british columbia, canada",english,male
+1727,1728,english499,"st. paul, minnesota, usa",english,female
+1728,1729,french49,"paris, france",french,male
+1731,1732,spanish114,"seville, spain",spanish,female
+1732,1733,english500,"albury, new south wales, australia",english,male
+1733,1734,english501,"pittsburgh, pennsylvania, usa",english,female
+1734,1735,english502,"farmington hills, michigan, usa",english,female
+1735,1736,mandarin49,"shanghai, china",mandarin,male
+1738,1739,english503,"benin city, nigeria",english,female
+1743,1744,spanish115,"la paz, bolivia",spanish,female
+1746,1747,spanish116,"bogota, colombia",spanish,male
+1749,1750,russian39,"brooklyn, new york, usa",russian,female
+1750,1751,french50,"paris, france",french,female
+1752,1753,arabic61,"manama, bahrain",arabic,male
+1764,1765,french51,"liege, wallonia, belgium",french,male
+1767,1768,arabic62,"ad dammam, saudi arabia",arabic,male
+1768,1769,arabic63,"bani walid, libya",arabic,female
+1773,1774,russian40,"bishkek, kyrgyzstan",russian,female
+1776,1777,arabic64,"riyadh, saudi arabia",arabic,male
+1777,1778,arabic65,"samail, oman",arabic,female
+1783,1784,arabic66,"medina, saudi arabia",arabic,male
+1784,1785,arabic67,"nasriah, iraq",arabic,male
+1785,1786,english504,"west palm beach, florida, usa",english,male
+1787,1788,mandarin50,"hsinchu, taiwan",mandarin,male
+1791,1792,mandarin51,"tianjin, hebei, china",mandarin,male
+1792,1793,mandarin52,"shaoxing, zhejiang, china",mandarin,female
+1793,1794,hindi15,"new delhi, india",hindi,female
+1796,1797,spanish117,"madrid, spain",spanish,male
+1797,1798,english505,"beirut, lebanon",english,female
+1798,1799,english506,"new orleans, louisiana, usa",english,female
+1799,1800,english507,"accra, ghana",english,male
+1800,1801,english508,"winfield, illinois, usa",english,female
+1801,1802,english509,"coudersport, pennsylvania, usa",english,female
+1802,1803,english510,"philadelphia, pennsylvania, usa",english,female
+1804,1805,arabic68,"london, uk",arabic,male
+1805,1806,spanish118,"monterrey, mexico",spanish,female
+1806,1807,spanish119,"madrid, spain",spanish,female
+1809,1810,arabic69,"kerma, sudan",arabic,female
+1812,1813,french52,"lisbon, portugal",french,female
+1816,1817,mandarin53,"ningbo, zhejiang, china",mandarin,female
+1817,1818,english511,"montgomery, alabama, usa",english,female
+1818,1819,english512,"salina, kansas, usa",english,female
+1822,1823,spanish120,"bogota, colombia",spanish,female
+1825,1826,spanish121,"pasaquina, el salvador",spanish,male
+1826,1827,arabic70,"casablanca, morocco",arabic,male
+1827,1828,arabic71,"kuwait city, kuwait",arabic,female
+1829,1830,french53,"creteil, france",french,female
+1830,1831,spanish122,"toluca, mexico",spanish,female
+1831,1832,arabic72,"baghdad, iraq",arabic,female
+1833,1834,spanish123,"ilbague, colombia",spanish,female
+1834,1835,spanish124,"santa cruz, bolivia",spanish,male
+1839,1840,spanish125,"lima, peru",spanish,male
+1840,1841,arabic73,"nazareth, israel",arabic,female
+1843,1844,russian41,"nizhni novgorod, russia",russian,female
+1845,1846,french54,"vichy, france",french,female
+1852,1853,spanish126,"colon, panama",spanish,female
+1855,1856,english513,"bocas del toro, panama",english,female
+1859,1860,spanish127,"san salvador, el salvador",spanish,male
+1868,1869,spanish128,"lima, peru",spanish,female
+1869,1870,arabic74,"alexandria, egypt",arabic,male
+1871,1872,english514,"youngstown, ohio, usa",english,male
+1872,1873,english515,"youngstown, ohio, usa",english,female
+1873,1874,spanish129,"havana, cuba",spanish,female
+1874,1875,english516,"dripping springs, texas, usa",english,female
+1875,1876,english517,"colorado springs, colorado, usa",english,male
+1876,1877,german33,"stuttgart, germany",german,male
+1877,1878,english518,"kells, meath, ireland",english,male
+1878,1879,german34,"bochum, germany",german,male
+1881,1882,english519,"karachi, pakistan",english,female
+1883,1884,english520,"st. paul, minnesota, usa",english,female
+1884,1885,arabic75,"riyadh, saudi arabia",arabic,female
+1885,1886,english521,"bethesda, maryland, usa",english,female
+1886,1887,english522,"bethpage, new york, usa",english,female
+1887,1888,english523,"madison, wisconsin, usa",english,female
+1888,1889,french55,"settat, morocco",french,female
+1889,1890,english524,"downers grove, illinois, usa",english,male
+1890,1891,spanish130,"guayaquil, ecuador",spanish,male
+1891,1892,arabic76,"jiddah, saudi arabia",arabic,male
+1892,1893,english525,"albion, new york, usa",english,female
+1893,1894,arabic77,"ad dammam, saudi arabia",arabic,female
+1894,1895,english526,"woodbridge, virginia, usa",english,male
+1896,1897,arabic78,"washington, district of columbia, usa",arabic,female
+1897,1898,french56,"douala, cameroon",french,female
+1898,1899,arabic79,"medina, saudi arabia",arabic,female
+1899,1900,mandarin54,"chengdu, sichuan, china",mandarin,female
+1900,1901,arabic80,"najran, saudi arabia",arabic,male
+1902,1903,spanish131,"havana, cuba",spanish,male
+1903,1904,spanish132,"rio piedras, puerto rico",spanish,female
+1906,1907,english527,"wynnewood, pennsylvania, usa",english,female
+1907,1908,english528,"green bay, wisconsin, usa",english,female
+1908,1909,mandarin55,"loudi, hunan, china",mandarin,female
+1909,1910,mandarin56,"baoding, hebei, china",mandarin,female
+1913,1914,arabic81,"riyadh, saudi arabia",arabic,male
+1915,1916,spanish133,"cochabamba, bolivia",spanish,male
+1916,1917,arabic82,"damascus, syria",arabic,male
+1919,1920,arabic83,"riyadh, saudi arabia",arabic,male
+1920,1921,spanish134,"la union, el salvador",spanish,female
+1922,1923,spanish135,"santiago de cuba, cuba",spanish,female
+1923,1924,russian42,"moscow, russia",russian,female
+1924,1925,english529,"burlington, vermont, usa",english,female
+1925,1926,english530,"detroit, michigan, usa",english,female
+1926,1927,arabic84,"medina, saudi arabia",arabic,female
+1927,1928,english531,"nokesville, virginia, usa",english,female
+1930,1931,french57,"dakar, senegal",french,male
+1931,1932,russian43,"st. petersburg, russia",russian,female
+1932,1933,english532,"bristol, connecticut, usa",english,female
+1933,1934,english533,"fairfax, virginia, usa",english,female
+1936,1937,french58,"douala, cameroon",french,female
+1937,1938,french59,"paris, france",french,female
+1944,1945,french60,"paris, france",french,female
+1946,1947,russian44,"penza, russia",russian,female
+1948,1949,spanish136,"santiago, chile",spanish,male
+1950,1951,english534,"mineola, new york, usa",english,female
+1954,1955,english535,"plymouth, massachusetts, usa",english,female
+1955,1956,english536,"richmond, virginia, usa",english,female
+1956,1957,english537,"woodbridge, virginia, usa",english,female
+1957,1958,english538,"lyndhurst, virginia, usa",english,female
+1958,1959,english539,"orange county, california, usa",english,female
+1959,1960,english540,"arlington, virginia, usa",english,female
+1960,1961,english541,"fort lauderdale, florida, usa",english,female
+1961,1962,english542,"toronto, ontario, canada",english,male
+1962,1963,arabic85,"ad dammam, saudi arabia",arabic,female
+1963,1964,arabic86,"cairo, egypt",arabic,male
+1965,1966,hindi16,"new delhi, india",hindi,male
+1968,1969,english543,"vancouver, british columbia, canada",english,female
+1969,1970,english544,"hanover, new hampshire, usa",english,male
+1971,1972,german35,"ingolstadt, germany",german,female
+1978,1979,spanish137,"santa ana, el salvador",spanish,female
+1979,1980,spanish138,"san miguel, el salvador",spanish,female
+1980,1981,spanish139,"guatemala city, guatemala",spanish,male
+1984,1985,spanish140,"cochabamba, bolivia",spanish,female
+1987,1988,hindi17,"new delhi, india",hindi,female
+1989,1990,mandarin57,"shanghai, china",mandarin,male
+1993,1994,german36,"hamburg, germany",german,female
+1994,1995,english545,"tangier island, virginia, usa",english,male
+1995,1996,english546,"tangier island, virginia, usa",english,female
+1996,1997,english547,"tangier island, virginia, usa",english,male
+1997,1998,french61,"rawalpindi, pakistan",french,female
+1999,2000,mandarin58,"superior, colorado, usa",mandarin,male
+2002,2003,english548,"dublin, ireland",english,male
+2004,2005,arabic87,"kuwait city, kuwait",arabic,female
+2007,2008,arabic88,"beirut, lebanon",arabic,female
+2008,2009,spanish141,"la union, el salvador",spanish,male
+2011,2012,english549,"exminister, uk",english,female
+2015,2016,spanish142,"san salvador, el salvador",spanish,female
+2018,2019,mandarin59,"kunming, yunnan, china",mandarin,female
+2021,2022,arabic89,"baghdad, iraq",arabic,female
+2025,2026,spanish143,"oviedo, spain",spanish,male
+2026,2027,russian45,"st. petersburg, russia",russian,female
+2027,2028,english550,"fredericksburg, virginia, usa",english,male
+2028,2029,english551,"king george, virginia, usa",english,female
+2029,2030,french62,"paris, france",french,female
+2035,2036,arabic90,"tripoli, libya",arabic,female
+2042,2043,english552,"bethesda, maryland, usa",english,female
+2045,2046,english553,"nashville, tennessee, usa",english,male
+2046,2047,english554,"hoffman estates, illinois, usa",english,female
+2048,2049,english555,"brooklyn, new york, usa",english,male
+2049,2050,english556,"brooklyn, new york, usa",english,female
+2050,2051,spanish144,"florencia, zacatecas, mexico",spanish,female
+2051,2052,spanish145,"florencia, zacatecas, mexico",spanish,female
+2052,2053,english557,"sharjah, united arab emirates",english,female
+2054,2055,english558,"queens, new york, usa",english,male
+2055,2056,english559,"reston, virginia, usa",english,female
+2056,2057,spanish146,"las palmas, oaxaca, mexico",spanish,male
+2058,2059,english560,"hartford, connecticut, usa",english,female
+2059,2060,english561,"yorktown, virginia, usa",english,female
+2060,2061,english562,"florence, south carolina, usa",english,female
+2073,2074,english563,"manassas, virginia, usa",english,male
+2076,2077,english564,"casper, wyoming, usa",english,male
+2077,2078,spanish147,"puerto_cabezas, nicaragua",spanish,male
+2078,2079,spanish148,"la ceiba, honduras",spanish,male
+2079,2080,english565,"portland, oregon, usa",english,female
+2080,2081,english566,"derby, england, uk",english,male
+2085,2086,arabic91,"riyadh, saudi arabia",arabic,female
+2086,2087,arabic92,"baghdad, iraq",arabic,male
+2090,2091,spanish149,"bilwi, puerto cabezas, nicaragua",spanish,male
+2093,2094,spanish150,"bilwi, puerto cabezas, nicaragua",spanish,male
+2095,2096,spanish151,"bilwas karma, rio coco, nicaragua",spanish,female
+2099,2100,spanish152,"barcelona, spain",spanish,male
+2100,2101,english567,"new york, new york, usa",english,male
+2102,2103,english568,"quincy, florida, usa",english,female
+2103,2104,english569,"sydney, australia",english,male
+2104,2105,russian46,"perm, russia",russian,female
+2105,2106,english570,"parma, ohio, usa",english,female
+2106,2107,russian47,"saransk, russia",russian,female
+2108,2109,mandarin60,"guiyang, guizhou, china",mandarin,female
+2110,2111,french63,"ouagadougou, burkina faso",french,male
+2111,2112,arabic93,"baghdad, iraq",arabic,female
+2112,2113,english571,"washington, dc, usa",english,male
+2113,2114,arabic94,"abu dhabi, united arab emirates",arabic,female
+2115,2116,mandarin61,"shangrao, jiangxi, china",mandarin,female
+2116,2117,mandarin62,"shanghai, china",mandarin,male
+2117,2118,spanish153,"bogota, colombia",spanish,male
+2118,2119,mandarin63,"jiaozuo, henan, china",mandarin,male
+2120,2121,english572,"fort worth, texas, usa",english,male
+2123,2124,english573,"painesville, ohio, usa",english,male
+2124,2125,hindi18,"new delhi, india",hindi,female
+2126,2127,spanish154,"montevideo, uruguay",spanish,male
+2128,2129,mandarin64,"fuzhou, fujian, china",mandarin,female
+2129,2130,spanish155,"lima, peru",spanish,male
+2136,2137,russian48,"fergana, uzbekistan",russian,female
+2141,2142,spanish156,"montevideo, uruguay",spanish,female
+2142,2143,arabic95,"kuwait city, kuwait",arabic,female
+2143,2144,spanish157,"mexico city, mexico",spanish,female
+2147,2148,spanish158,"santurce, puerto rico",spanish,female
+2148,2149,spanish159,"san salvador, el salvador",spanish,male
+2149,2150,spanish160,"bogota, colombia",spanish,male
+2152,2153,arabic96,"riyadh, saudi arabia",arabic,male
+2153,2154,arabic97,"sharjah, united arab emirates",arabic,female
+2154,2155,arabic98,"ras al khaimah, united arab emirates",arabic,female
+2155,2156,spanish161,"leon, nicaragua",spanish,female
+2156,2157,arabic99,"ad dammam, saudi arabia",arabic,female
+2158,2159,arabic100,"beirut, lebanon",arabic,female
+2159,2160,arabic101,"doha, qatar",arabic,male
+2160,2161,arabic102,"jiddah, saudi arabia",arabic,male
+2161,2162,english574,"toronto, ontario, canada",english,female
+2164,2165,english575,"great falls, virginia, usa",english,male
+2166,2167,english576,"washington, dc, usa",english,female
+2168,2169,spanish162,"mexico city, mexico",spanish,male
+2169,2170,english577,"san leandro, california, usa",english,female
+2170,2171,english578,"salford, lancashire, uk",english,male
+2171,2172,english579,"adelaide, australia",english,male
+2172,2173,mandarin65,"tianjin, hebei, china",mandarin,female
+2184,2185,english580,"rochester, new york, usa",english,male
+2185,2186,english581,"guelph, ontario, canada",english,female
+2186,2187,english582,"dundee, scotland, uk",english,male
+2194,2195,english583,"london, england, uk",english,male
+2195,2196,arabic103,"baghdad, iraq",arabic,male
+2196,2197,english584,"monterey, california, usa",english,male
+2199,2200,arabic104,"riyadh, saudi arabia",arabic,female
+2200,2201,arabic105,"riyadh, saudi arabia",arabic,female
+2201,2202,arabic106,"riyadh, saudi arabia",arabic,male
+2202,2203,arabic107,"riyadh, saudi arabia",arabic,male
+2203,2204,arabic108,"riyadh, saudi arabia",arabic,female
+2204,2205,arabic109,"riyadh, saudi arabia",arabic,female
+2205,2206,hindi19,"irving, texas, usa",hindi,male
+2206,2207,english585,"dumfries, virginia, usa",english,female
+2208,2209,hindi20,"hazaribagh, jharkhand, india",hindi,male
+2211,2212,spanish163,"asuncion, paraguay",spanish,male
+2215,2216,arabic110,"riyadh, saudi arabia",arabic,male
+2216,2217,arabic111,"riyadh, saudi arabia",arabic,female
+2217,2218,arabic112,"riyadh, saudi arabia",arabic,female
+2218,2219,arabic113,"riyadh, saudi arabia",arabic,female
+2219,2220,arabic114,"amman, jordan",arabic,female
+2220,2221,english586,"chesterfield, virginia, usa",english,female
+2221,2222,arabic115,"damascus, syria",arabic,female
+2223,2224,russian49,"novosibirsk, russia",russian,female
+2224,2225,english587,"philadelphia, pennsylvania, usa",english,female
+2229,2230,spanish164,"zacatecas, mexico",spanish,female
+2230,2231,russian50,"st. petersburg, russia",russian,female
+2234,2235,spanish165,"mayaguez, puerto rico",spanish,male
+2235,2236,hindi21,"faridabad, haryana, india",hindi,male
+2236,2237,kannada2,"bangalore, india",kannada,male
+2237,2238,spanish166,"santo domingo, dominican republic",spanish,female
+2238,2239,spanish167,"lima, peru",spanish,female
+2239,2240,spanish168,"pasto, colombia",spanish,male
+2241,2242,hindi22,"meerut, uttar pradesh, india",hindi,male
+2242,2243,arabic116,"al ras, saudi arabia",arabic,female
+2249,2250,spanish169,"ponce, puerto rico",spanish,female
+2251,2252,mandarin66,"shanghai, china",mandarin,female
+2252,2253,arabic117,"al ras, saudi arabia",arabic,male
+2253,2254,arabic118,"riyadh, saudi arabia",arabic,male
+2255,2256,arabic119,"jiddah, saudi arabia",arabic,male
+2256,2257,arabic120,"riyadh, saudi arabia",arabic,male
+2257,2258,arabic121,"riyadh, saudi arabia",arabic,male
+2258,2259,spanish170,"cochabamba, bolivia",spanish,male
+2259,2260,spanish171,"guayaquil, ecuador",spanish,female
+2267,2268,arabic122,"sabt alalaya, saudi arabia",arabic,male
+2272,2273,russian51,"baku, azerbaijan",russian,female
+2273,2274,mandarin67,"nanjing, china",mandarin,male
+2278,2279,spanish172,"la union, el salvador",spanish,male
+2280,2281,mandarin68,"dongyang, zhejiang, china",mandarin,male
+2281,2282,mandarin69,"taizhou, jiangsu, china",mandarin,male
+2285,2286,kannada3,"hassan, karnataka, india",kannada,male
+2286,2287,kannada4,"detroit, michigan, usa",kannada,female
+2287,2288,spanish173,"ambato, ecuador",spanish,female
+2290,2291,mandarin70,"shanghai, china",mandarin,female
+2293,2294,mandarin71,"chengdu, sichuan, china",mandarin,female
+2297,2298,spanish174,"falcon, venezuela",spanish,female
+2299,2300,spanish175,"rio piedras, puerto rico",spanish,female
+2302,2303,hindi23,"raj nagar, rajasthan, india",hindi,male
+2303,2304,arabic123,"riyadh, saudi arabia",arabic,male
+2305,2306,mandarin72,"taichung, taiwan",mandarin,female
+2309,2310,arabic124,"geulmim, morocco",arabic,male
+2310,2311,arabic125,"beersheba, israel",arabic,male
+2311,2312,arabic126,"beersheba, israel",arabic,male
+2312,2313,arabic127,"tarshiha-maalot, israel",arabic,female
+2316,2317,spanish176,"panama city, panama",spanish,male
+2318,2319,mandarin73,"chengdu, sichuan, china",mandarin,female
+2320,2321,arabic128,"riyadh, saudi arabia",arabic,male
+2322,2323,mandarin74,"shenzhen, china",mandarin,male
+2327,2328,spanish177,"sonsonate, el salvador",spanish,female
+2330,2331,arabic129,"ramallah, palestine",arabic,male
+2331,2332,mandarin75,"taipei, taiwan",mandarin,male
+2334,2335,spanish178,"chalatenango, el salvador",spanish,female
+2335,2336,spanish179,"san miguel, el salvador",spanish,female
+2337,2338,spanish180,"cochabamba, bolivia",spanish,male
+2343,2344,arabic130,"unizah, saudi arabia",arabic,male
+2344,2345,arabic131,"riyadh, saudi arabia",arabic,male
+2347,2348,mandarin76,"zhengzhou, henan, china",mandarin,male
+2349,2350,kannada5,"hubballi, karnataka, india",kannada,male
+2350,2351,kannada6,"karwar, karnataka, india",kannada,male
+2351,2352,hindi24,"jamshedpur, jharkhand, india",hindi,female
+2352,2353,hindi25,"pune, maharashtra, india",hindi,male
+2353,2354,hindi26,"kolkata, west bengal, india",hindi,male
+2354,2355,mandarin77,"jingjiang, jiangsu, china",mandarin,female
+2355,2356,hindi27,"surat, gujarat, india",hindi,male
+2357,2358,kannada7,"bangalore, karnataka, india",kannada,female
+2359,2360,mandarin78,"ganzhou, jiangxi, china",mandarin,female
+2360,2361,english588,"fairfax, virginia, usa",english,female
+2361,2362,english589,"gloucester, uk",english,male
+2362,2363,kannada8,"bangalore, karnataka, india",kannada,male
+2363,2364,spanish181,"lima, peru",spanish,female
+2364,2365,mandarin79,"johor bahru, malaysia",mandarin,female
+2365,2366,hindi28,"patna, india",hindi,male
+2366,2367,spanish182,"trujillo, peru",spanish,male
+2368,2369,russian52,"saky, ukraine",russian,male
+2369,2370,spanish183,"bogota, colombia",spanish,female
+2370,2371,spanish184,"lima, peru",spanish,male
+2371,2372,spanish185,"san salvador, el salvadore",spanish,female
+2372,2373,spanish186,"tegucigalpa, honduras",spanish,male
+2373,2374,english590,"lakeland, florida, usa",english,female
+2374,2375,english591,"colorado springs, colorado, usa",english,female
+2375,2376,english592,"miami, florida, usa",english,female
+2376,2377,english593,"boston, massachusetts, usa",english,female
+2377,2378,english594,"richmond, virginia, usa",english,female
+2378,2379,english595,"leesburg, virginia, usa",english,female
+2379,2380,english596,"baltimore, maryland, usa",english,female
+2380,2381,english597,"fairfax, virginia, usa",english,male
+2381,2382,english598,"mitchell, south dakota, usa",english,male
+2382,2383,english599,"alexandria, virginia, usa",english,female
+2384,2385,english600,"portland, oregon, usa",english,female
+2386,2387,arabic132,"cairo, egypt",arabic,female
+2392,2393,spanish187,"santurce, puerto rico",spanish,female
+2393,2394,french64,"abidjan, ivory coast",french,female
+2395,2396,spanish188,"panama city, panama",spanish,female
+2396,2397,spanish189,"santa clara, san vicente, el salvador",spanish,male
+2398,2399,arabic133,"abha, saudi arabia",arabic,female
+2400,2401,spanish190,"bogota, colombia",spanish,male
+2403,2404,english601,"fairfax, virginia, usa",english,male
+2404,2405,english602,"new york, new york, usa",english,female
+2406,2407,arabic134,"abha, saudi arabia",arabic,female
+2409,2410,arabic135,"riyadh, saudi arabia",arabic,female
+2410,2411,arabic136,"cardiff, wales, uk",arabic,female
+2412,2413,mandarin80,"xi'an, shanxi, china",mandarin,male
+2413,2414,mandarin81,"suzhou, jiangsu, china",mandarin,female
+2417,2418,mandarin82,"wuhai, china",mandarin,female
+2418,2419,mandarin83,"zhengzhou, henan, china",mandarin,female
+2419,2420,mandarin84,"zhengzhou, henan, china",mandarin,female
+2420,2421,mandarin85,"changsha, hunan, china",mandarin,female
+2422,2423,mandarin86,"shenyang, liaoning, china",mandarin,female
+2424,2425,arabic137,"al-ayn, united arab emirates",arabic,male
+2425,2426,arabic138,"riyadh, saudi arabia",arabic,male
+2426,2427,arabic139,"khartoum, sudan",arabic,male
+2427,2428,english603,"los angeles, california, usa",english,male
+2432,2433,arabic140,"taif, saudi arabia",arabic,female
+2433,2434,spanish191,"bogota, colombia",spanish,female
+2434,2435,mandarin87,"lanzhou, gansu, china",mandarin,female
+2436,2437,arabic141,"cairo, egypt",arabic,male
+2437,2438,english604,"brisbane, queensland, australia",english,female
+2438,2439,english605,"cairns, queensland, australia",english,male
+2439,2440,english606,"southport, australia",english,female
+2440,2441,english607,"narrabri, new south wales, australia",english,female
+2441,2442,english608,"brisbane, queensland, australia",english,male
+2442,2443,english609,"narrandera, new south wales, australia",english,female
+2443,2444,english610,"townsville, queensland, australia",english,female
+2444,2445,english611,"brisbane, queensland, australia",english,male
+2446,2447,mandarin88,"anqing, anhui, china",mandarin,male
+2447,2448,mandarin89,"taiyuan, shanxi, china",mandarin,male
+2451,2452,arabic142,"almajmaah, saudi arabia",arabic,male
+2457,2458,kannada9,"bangalore, karnataka, india",kannada,male
+2458,2459,hindi29,"chennai, tamil nadu, india",hindi,male
+2460,2461,mandarin90,"chengdu, sichuan, china",mandarin,male
+2462,2463,mandarin91,"tongcheng, anhui, china",mandarin,male
+2463,2464,french65,"lome, togo",french,female
+2465,2466,spanish192,"cordoba, argentina",spanish,male
+2466,2467,spanish193,"david, panama",spanish,female
+2468,2469,mandarin92,"huai'an, jiangsu, china",mandarin,female
+2469,2470,arabic143,"medina, saudi arabia",arabic,female
+2470,2471,spanish194,"cochabamba, bolivia",spanish,male
+2472,2473,french66,"belfort, france",french,female
+2473,2474,mandarin93,"xi'an, shanxi, china",mandarin,female
+2474,2475,spanish195,"guatemala city, guatemala",spanish,female
+2476,2477,mandarin94,"baotou, inner mongolia, china",mandarin,male
+2477,2478,hindi30,"ludhiana, india",hindi,female
+2478,2479,arabic144,"laayoune, morocco",arabic,male
+2481,2482,spanish196,"san cristobal, dominican republic",spanish,female
+2482,2483,mandarin95,"yangxin, hubei, china",mandarin,female
+2487,2488,arabic145,"riyadh, saudi arabia",arabic,female
+2490,2491,spanish197,"madrid, spain",spanish,female
+2493,2494,mandarin96,"qingdao, shandong, china",mandarin,female
+2495,2496,spanish198,"tejupilco, mexico",spanish,female
+2496,2497,french67,"aix-en-provence, france",french,female
+2506,2507,spanish199,"san juan, puerto rico",spanish,male
+2507,2508,arabic146,"amman, jordan",arabic,male
+2520,2521,spanish200,"bogota, colombia",spanish,female
+2522,2523,mandarin97,"jiujiang, jiangxi, china",mandarin,female
+2523,2524,mandarin98,"nanchang, jiangxi, china",mandarin,female
+2528,2529,mandarin99,"nanchang, jiangxi, china",mandarin,female
+2529,2530,mandarin100,"wuhan, hubei, china",mandarin,female
+2530,2531,mandarin101,"jiujiang, jiangxi, china",mandarin,female
+2531,2532,mandarin102,"huanggang, hubei, china",mandarin,female
+2532,2533,english612,"middlesbrough, england, uk",english,male
+2535,2536,french68,"bordeaux, france",french,female
+2536,2537,french69,"rennes, france",french,female
+2537,2538,mandarin103,"le shan, sichuan, china",mandarin,female
+2538,2539,mandarin104,"beijing, china",mandarin,female
+2539,2540,mandarin105,"tongliao, inner mongolia, china",mandarin,female
+2541,2542,mandarin106,"xi'an, shanxi, china",mandarin,female
+2543,2544,arabic147,"baha, saudi arabia",arabic,female
+2545,2546,russian53,"st. petersburg, russia",russian,female
+2549,2550,arabic148,"taif, saudi arabia",arabic,female
+2553,2554,mandarin107,"taiyuan, shanxi, china",mandarin,female
+2556,2557,mandarin108,"nanning, guangxi, china",mandarin,female
+2558,2559,mandarin109,"xi'an, shanxi, china",mandarin,female
+2559,2560,mandarin110,"panjin, liaoning, china",mandarin,female
+2561,2562,mandarin111,"beijing, china",mandarin,female
+2563,2564,mandarin112,"tianjin, china",mandarin,male
+2565,2566,mandarin113,"hohhot, inner mongolia, china",mandarin,male
+2569,2570,english613,"melbourne, australia",english,male
+2573,2574,german37,"hamburg, germany",german,female
+2583,2584,arabic149,"riyadh, saudi arabia",arabic,female
+2585,2586,spanish201,"mexico city, mexico",spanish,male
+2587,2588,spanish202,"mexico city, mexico",spanish,female
+2589,2590,spanish203,"usulutan, el salvador",spanish,female
+2590,2591,german38,"kaiserslautern, germany",german,female
+2591,2592,arabic150,"riyadh, saudi arabia",arabic,female
+2592,2593,russian54,"novosibirsk, russia",russian,female
+2597,2598,arabic151,"riyadh, saudi arabia",arabic,female
+2598,2599,mandarin114,"beijing, china",mandarin,female
+2601,2602,spanish204,"almeria, spain",spanish,male
+2605,2606,english614,"pensacola, florida, usa",english,female
+2606,2607,arabic152,"riyadh, saudi arabia",arabic,female
+2608,2609,hindi31,"rajkot, gujarat, india",hindi,female
+2612,2613,english615,"dublin, ireland",english,male
+2613,2614,spanish205,"cerete, colombia",spanish,male
+2614,2615,spanish206,"santiago, chile",spanish,female
+2616,2617,russian55,"poltava, ukraine",russian,female
+2618,2619,english616,"fort wayne, indiana, usa",english,male
+2619,2620,russian56,"moscow, russia",russian,female
+2620,2621,russian57,"moscow, russia",russian,male
+2621,2622,russian58,"moscow, russia",russian,male
+2622,2623,russian59,"moscow, russia",russian,female
+2623,2624,russian60,"moscow, russia",russian,male
+2624,2625,russian61,"belgorod, russia",russian,female
+2625,2626,russian62,"moscow, russia",russian,female
+2626,2627,russian63,"moscow, russia",russian,male
+2627,2628,russian64,"moscow, russia",russian,female
+2628,2629,russian65,"kiev, ukraine",russian,male
+2629,2630,english617,"kingston, jamaica",english,female
+2630,2631,russian66,"kandalaksha, murmanskaya, russia",russian,female
+2631,2632,russian67,"kirov, kirovskaya, russia",russian,male
+2632,2633,russian68,"moscow, russia",russian,male
+2633,2634,russian69,"moscow, russia",russian,female
+2634,2635,russian70,"moscow, russia",russian,male
+2635,2636,russian71,"moscow, russia",russian,male
+2638,2639,russian72,"moscow, russia",russian,female
+2640,2641,russian73,"moscow, russia",russian,female
+2641,2642,russian74,"st. petersburg, russia",russian,female
+2643,2644,russian75,"savasleyka, russia",russian,female
+2658,2659,russian76,"krasnoyarsk, russia",russian,female
+2673,2674,english618,"fullerton, california, usa",english,male
+2674,2675,mandarin115,"urumqi, xinjiang, china",mandarin,male
+2675,2676,arabic153,"kuwait city, kuwait",arabic,male
+2676,2677,mandarin116,"baotou, inner mongolia, china",mandarin,male
+2677,2678,mandarin117,"changchun, jilin, china",mandarin,male
+2678,2679,mandarin118,"xi'an, shanxi, china",mandarin,female
+2683,2684,spanish207,"ica, peru",spanish,female
+2691,2692,spanish208,"santo domingo, dominican republic",spanish,male
+2692,2693,arabic154,"baha, saudi arabia",arabic,male
+2698,2699,mandarin119,"changchun, jilin, china",mandarin,female
+2699,2700,mandarin120,"chengde, hebei, china",mandarin,male
+2702,2703,hindi32,"new delhi, india",hindi,female
+2704,2705,spanish209,"lima, peru",spanish,female
+2707,2708,mandarin121,"huangshan, anhui, china",mandarin,female
+2710,2711,mandarin122,"xi'an, shanxi, china",mandarin,male
+2713,2714,mandarin123,"chengdu, sichuan, china",mandarin,male
+2715,2716,mandarin124,"chongqing, china",mandarin,female
+2716,2717,russian77,"novokuznetsk, russia",russian,female
+2718,2719,mandarin125,"changchun, jilin, china",mandarin,female
+2719,2720,arabic155,"buraydah, saudi arabia",arabic,male
+2721,2722,russian78,"rostov na donu, russia",russian,female
+2723,2724,english619,"jackson, tennessee, usa",english,male
+2724,2725,french70,"harare, zimbabwe",french,female
+2725,2726,mandarin126,"yulin, shanxi, china",mandarin,male
+2728,2729,spanish210,"cordoba, argentina",spanish,female
+2729,2730,arabic156,"cairo, egypt",arabic,female
+2733,2734,arabic157,"sanaa, yemen",arabic,female
+2734,2735,english620,"glasgow, scotland, uk",english,male
+2738,2739,russian79,"krasnodar, russia",russian,female
+2739,2740,french71,"kinshasa, democratic republic of congo",french,female
+2740,2741,arabic158,"jakarta, indonesia",arabic,male
+2741,2742,arabic159,"medina, saudi arabia",arabic,male
+2742,2743,arabic160,"amman, jordan",arabic,female
+2747,2748,mandarin127,"shenyang, liaoning, china",mandarin,male
+2748,2749,arabic161,"minya, egypt",arabic,female
+2749,2750,arabic162,"buraydah, saudi arabia",arabic,male
+2751,2752,arabic163,"bouznika, morocco",arabic,female
+2752,2753,german39,"clausthal-zellerfeld, germany",german,male
+2753,2754,french72,"douala, cameroon",french,female
+2757,2758,french73,"beaumont-le-roger, france",french,male
+2759,2760,spanish211,"la paz, bolivia",spanish,female
+2760,2761,spanish212,"la union, el salvador",spanish,female
+2763,2764,hindi33,"hyderabad, india",hindi,female
+2764,2765,arabic164,"sale, morocco",arabic,female
+2768,2769,spanish213,"loja, ecuador",spanish,male
+2769,2770,spanish214,"neiva, colombia",spanish,female
+2770,2771,arabic165,"beirut, lebanon",arabic,female
+2771,2772,mandarin128,"cixi, zhejiang, china",mandarin,female
+2772,2773,mandarin129,"luoyang, henan, china",mandarin,female
+2778,2779,german40,"leipzig, germany",german,female
+2779,2780,arabic166,"buraydah, saudi arabia",arabic,male
+2781,2782,french74,"montreal, quebec, canada",french,female
+2782,2783,french75,"montreal, quebec, canada",french,male
+2783,2784,french76,"shawinigan, quebec, canada",french,male
+2784,2785,french77,"montreal, quebec, canada",french,male
+2785,2786,french78,"trois-rivieres, quebec, canada",french,male
+2786,2787,french79,"coaticook, quebec, canada",french,female
+2787,2788,arabic167,"alkharj, saudi arabia",arabic,male
+2790,2791,spanish215,"cochabamba, bolivia",spanish,female
+2792,2793,english621,"pittsburgh, pennsylvania, usa",english,female
+2793,2794,arabic168,"jiddah, saudi arabia",arabic,female
+2797,2798,mandarin130,"weifang, shandong, china",mandarin,female
+2798,2799,english622,"st. paul, minnesota, usa",english,female
+2800,2801,spanish216,"caracas, venezuela",spanish,female
+2802,2803,english623,"fort wayne, indiana, usa",english,male
+2803,2804,english624,"washington, district of columbia, usa",english,male
+2804,2805,english625,"minneapolis, minnesota, usa",english,male
+2805,2806,english626,"hammond, indiana, usa",english,female
+2808,2809,arabic169,"tripoli, libya",arabic,female
+2810,2811,arabic170,"vienna, virginia, usa",arabic,female
+2813,2814,french80,"abidjan, ivory coast",french,female
+2826,2827,spanish217,"bogota, colombia",spanish,female
+2828,2829,spanish218,"danli, honduras",spanish,female
+2831,2832,arabic171,"medina, saudi arabia",arabic,male
+2832,2833,german41,"wurzburg, germany",german,male
+2834,2835,spanish219,"santa ana, el salvador",spanish,female
+2835,2836,mandarin131,"shenzhen, guangdong, china",mandarin,male
+2836,2837,mandarin132,"dangyang, hubei, china",mandarin,female
+2841,2842,arabic172,"montgomery, alabama, usa",arabic,male
+2843,2844,spanish220,"guadalajara, jalisco, mexico",spanish,male
+2844,2845,german42,"munich, germany",german,female
+2846,2847,english627,"sydney, australia",english,female
+2854,2855,english628,"pittsburgh, pennsylvania, usa",english,male
+2857,2858,arabic173,"tyre, lebanon",arabic,female
+2860,2861,spanish221,"bogota, colombia",spanish,female
+2863,2864,arabic174,"riyadh, saudi arabia",arabic,female
+2864,2865,spanish222,"villalba, puerto rico",spanish,female
+2866,2867,spanish223,"santa rosa, texas, usa",spanish,female
+2867,2868,arabic175,"jiddah, saudi arabia",arabic,male
+2869,2870,russian80,"mykolayiv, ukraine",russian,female
+2872,2873,arabic176,"jiddah, saudi arabia",arabic,male
+2875,2876,mandarin133,"beijing, china",mandarin,female
+2876,2877,mandarin134,"luoyang, henan, china",mandarin,male
+2877,2878,mandarin135,"langfang, hebei, china",mandarin,male
+2878,2879,mandarin136,"shenyang, liaoning, china",mandarin,female
+2879,2880,mandarin137,"xi'an, shanxi, china",mandarin,female
+2880,2881,mandarin138,"chongqing, china",mandarin,female
+2881,2882,mandarin139,"kunming, yunnan, china",mandarin,male
+2882,2883,mandarin140,"xuzhou, jiangsu, china",mandarin,male
+2883,2884,mandarin141,"beijing, china",mandarin,female
+2884,2885,mandarin142,"chengdu, sichuan, china",mandarin,female
+2885,2886,mandarin143,"fuyang, anhui, china",mandarin,female
+2886,2887,mandarin144,"wuhu, anhui, china",mandarin,male
+2887,2888,mandarin145,"qingdao, shandong, china",mandarin,female
+2888,2889,arabic177,"riyadh, saudi arabia",arabic,male
+2889,2890,mandarin146,"xi'an, shanxi, china",mandarin,female
+2890,2891,mandarin147,"nanyang, henan, china",mandarin,female
+2891,2892,mandarin148,"nanyang, henan, china",mandarin,female
+2892,2893,mandarin149,"fuzhou, fujian, china",mandarin,female
+2893,2894,english629,"south riding, virginia, usa",english,female
+2894,2895,english630,"woodbridge, virginia, usa",english,female
+2895,2896,english631,"harrisonburg, virginia, usa",english,female
+2896,2897,english632,"falls church, virginia, usa",english,female
+2897,2898,english633,"washington, district of columbia, usa",english,female
+2898,2899,arabic178,"jiddah, saudi arabia",arabic,male
+2899,2900,arabic179,"riyadh, saudi arabia",arabic,male
+2900,2901,arabic180,"riyadh, saudi arabia",arabic,male
+2901,2902,arabic181,"riyadh, saudi arabia",arabic,male
+2902,2903,arabic182,"riyadh, saudi arabia",arabic,female
+2903,2904,arabic183,"riyadh, saudi arabia",arabic,female
+2904,2905,arabic184,"riyadh, saudi arabia",arabic,male
+2905,2906,arabic185,"riyadh, saudi arabia",arabic,male
+2906,2907,arabic186,"riyadh, saudi arabia",arabic,female
+2907,2908,arabic187,"riyadh, saudi arabia",arabic,female
+2908,2909,arabic188,"riyadh, saudi arabia",arabic,male
+2909,2910,arabic189,"riyadh, saudi arabia",arabic,female
+2910,2911,arabic190,"riyadh, saudi arabia",arabic,female
+2911,2912,arabic191,"riyadh, saudi arabia",arabic,female
+2912,2913,arabic192,"riyadh, saudi arabia",arabic,female
+2913,2914,arabic193,"riyadh, saudi arabia",arabic,male
+2914,2915,arabic194,"riyadh, saudi arabia",arabic,male
+2915,2916,english634,"alexandria, virginia, usa",english,male
+2916,2917,english635,"vienna, virginia, usa",english,female
+2917,2918,english636,"washington, dc, usa",english,female
+2918,2919,english637,"knoxville, tennessee, usa",english,female
+0,2920,english638,"new york, new york, usa",english,male
+1,2921,english639,"hopkinsville, kentucky, usa",english,male
+2,2922,english640,"aurora, colorado, usa",english,female
+3,2923,english641,"fairfax, virginia, usa",english,female
+4,2924,english642,"woodbridge, virginia, usa",english,female
+5,2925,english643,"culpeper, virginia, usa",english,female
+6,2926,english644,"watertown, new york, usa",english,female
+7,2927,spanish224,"la serena, chile",spanish,female
+11,2931,russian81,"kiev, ukraine",russian,male
+12,2932,english645,"hollister, california, usa",english,male
+13,2933,spanish225,"durango, mexico",spanish,male
+14,2934,spanish226,"los mochis, sinaloa, mexico",spanish,male
+15,2935,spanish227,"durango, durango, mexico",spanish,female
+16,2936,mandarin150,"taiyuan, shanxi, china",mandarin,female
+17,2937,hindi34,"pune, india",hindi,male
+18,2938,spanish228,"piura, peru",spanish,female
+19,2939,english646,"hazleton, pennsylvania, usa",english,male
