@@ -1,6 +1,5 @@
 import os
 from pydub import AudioSegment
-import requests
 
 path = "Audio"
 os.chdir(path)
