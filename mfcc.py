@@ -1,33 +1,28 @@
 import numpy as np
+import pandas as pd
 import librosa
+import os
 
-def feature_extract(file):
-    """
-    Define function that takes in a file an returns features in an array
-    """
+DEBUG = True
+SILENCE_THRESHOLD = .01
+RATE = 24000
+N_MFCC = 13
+COL_SIZE = 30
+EPOCHS = 10
 
-    #get wave representation
-    y, sr = librosa.load(file)
+def get_wav(file_name):
+    '''
+    Load wav file from disk and down-samples to RATE
+    '''
 
+    y, sr = librosa.load('../Audio/{}.wav'.format(file_name))
+    return(librosa.core.resample(y=y,orig_sr=sr,target_sr=RATE, scale=True))
 
+def to_mfcc(wav_array):
+    '''
+    Converts wav file to Mel Frequency Ceptral Coefficients
+    '''
+    return(librosa.feature.mfcc(y=wav_array, sr=RATE, n_mfcc=N_MFCC))
 
-    #Mel-frequency cepstral coefficients (MFCCs)
-    mfcc = librosa.feature.mfcc(y=y, sr=sr, n_mfcc=13)
-    #temporal averaging
-    mfcc=np.mean(mfcc,axis=1)
-
-    #get the mel-scaled spectrogram
-    spectrogram = librosa.feature.melspectrogram(y=y, sr=sr, n_mels=128,fmax=8000)
-    #temporally average spectrogram
-    spectrogram = np.mean(spectrogram, axis = 1)
-
-    #compute chroma energy
-    chroma = librosa.feature.chroma_cens(y=y, sr=sr)
-    #temporally average chroma
-    chroma = np.mean(chroma, axis = 1)
-
-    #compute spectral contrast
-    contrast = librosa.feature.spectral_contrast(y=y, sr=sr)
-    contrast = np.mean(contrast, axis= 1)
-
-    return [ mfcc, spectrogram, chroma, contrast]
+wav_array = get_wav('arabic1')
+mfcc = to_mfcc(wav_array)
