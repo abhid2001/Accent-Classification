@@ -2,11 +2,9 @@ import numpy as np
 import pandas as pd
 import librosa
 import os
-
 import multiprocessing
 from sklearn.model_selection import train_test_split
 from keras import utils
-
 
 DEBUG = True
 SILENCE_THRESHOLD = .01
@@ -20,11 +18,7 @@ def get_wav(file_name):
     Load wav file from disk and down-samples to RATE
     '''
 
-
-    y, sr = librosa.load('Audio/{}.wav'.format(file_name))
-
-    y, sr = librosa.load('../Audio/{}.wav'.format(file_name))
-
+    y, sr = librosa.load('WavFormat/{}.wav'.format(file_name))
     return(librosa.core.resample(y=y,orig_sr=sr,target_sr=RATE, scale=True))
 
 def to_mfcc(wav_array):
@@ -32,7 +26,6 @@ def to_mfcc(wav_array):
     Converts wav file to Mel Frequency Ceptral Coefficients
     '''
     return(librosa.feature.mfcc(y=wav_array, sr=RATE, n_mfcc=N_MFCC))
-
 
 
 def split_people(df,test_size=0.2):
@@ -74,9 +67,6 @@ audio_test = pool.map(to_mfcc, audio_test)
 language_train = to_categorical(language_train)
 language_test = to_categorical(language_test)
 audio_train, language_train = make_segments(audio_train, language_train)
-
+audio_test, language_test = make_segments(audio_test, language_test)
+audio_train, _, language_train, _ = train_test_split(audio_train, language_train, test_size=0)
 print (X_train)
-
-wav_array = get_wav('arabic1')
-mfcc = to_mfcc(wav_array)
-
