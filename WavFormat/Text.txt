@@ -1,0 +1,2 @@
+This folder will contain the converted audio file after running the convert_wav.py file.
+Also don't delete this text file as empty folders don't get added to git.

@@ -3,7 +3,6 @@ requests
 pandas
 numpy
 librosa
-os
 pydub
 keras
 tensorflow
