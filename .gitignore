@@ -1,5 +1,6 @@
-# No need to store the mp3 files in GitHub
+# No need to store the mp3/wav files in GitHub
 Audio/*.mp3
+WavFormat/*.wav
 
 # Vscode stuff
 .vscode
