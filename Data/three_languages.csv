@@ -1,0 +1,1069 @@
+,speakerid,filename,birthplace,native_language,sex
+0,11,arabic1,"riyadh, saudi arabia",arabic,female
+1,12,arabic10,"cairo, egypt",arabic,male
+2,13,arabic11,"monastir, tunisia",arabic,female
+3,14,arabic12,"baghdad, iraq",arabic,male
+4,15,arabic13,"zabbougha, lebanon",arabic,male
+5,16,arabic2,"damascus, syria",arabic,male
+6,17,arabic3,"doha, qatar",arabic,male
+7,18,arabic4,"sharjah, united arab emirates",arabic,male
+8,19,arabic5,"casablanca, morocco",arabic,female
+9,20,arabic6,"sanaa, yemen",arabic,male
+10,21,arabic7,"casablanca, morocco",arabic,female
+11,22,arabic8,"casablanca, morocco",arabic,male
+12,23,arabic9,"jerusalem, israel",arabic,female
+13,61,english1,"pittsburgh, pennsylvania, usa",english,male
+14,62,english10,"davenport, iowa, usa",english,female
+15,63,english100,"miami, florida, usa",english,female
+16,64,english101,"toronto, ontario, canada",english,female
+17,65,english102,"torrington, connecticut, usa",english,male
+18,66,english103,"staten island, new york, usa",english,male
+19,67,english104,"youngstown, ohio, usa",english,female
+20,68,english11,"staffordshire, uk",english,female
+21,69,english12,"leicester, uk",english,female
+22,70,english13,"henley on thames, oxfordshire, uk",english,male
+23,71,english14,"belfast, northern ireland, uk",english,male
+24,72,english15,"norton, virginia, usa",english,female
+25,73,english16,"wise, virginia, usa",english,male
+26,74,english17,"darwin va, virginia, usa",english,male
+27,75,english18,"dickenson county, virginia, usa",english,female
+28,76,english19,"louisville, kentucky, usa",english,male
+29,77,english2,"birmingham, uk",english,female
+30,78,english20,"mt. holly, north carolina, usa",english,female
+31,79,english21,"boston, massachusetts, usa",english,female
+32,80,english22,"panama city, panama",english,female
+33,81,english23,"englewood, tennessee, usa",english,male
+34,82,english24,"glasgow, scotland, uk",english,male
+35,83,english25,"atlanta, georgia, usa",english,male
+36,84,english26,"smith island, maryland, usa",english,male
+37,85,english27,"smith island, maryland, usa",english,female
+38,86,english28,"toronto, ontario, canada",english,male
+39,87,english29,"lindsay, ontario, canada",english,female
+40,88,english3,"brisbane, australia",english,female
+41,89,english30,"st. mary's, ontario, canada",english,female
+42,90,english31,"st. augustine, trinidad",english,female
+43,91,english32,"fresno, california, usa",english,female
+44,92,english33,"san diego, california, usa",english,male
+45,93,english34,"ronkonkoma, new york, usa",english,female
+46,94,english35,"milwaukee, wisconsin, usa",english,female
+47,95,english36,"arcadia, wisconsin, usa",english,male
+48,96,english37,"yole, india",english,female
+49,97,english38,"littlehampton, uk",english,male
+50,98,english39,"new orleans, louisiana, usa",english,female
+51,99,english4,"saint anne's bay, jamaica",english,female
+52,100,english40,"dudley, uk",english,male
+53,101,english41,"wellington, new zealand",english,male
+54,102,english42,"nigel, south africa",english,male
+55,103,english43,"vancouver, british columbia, canada",english,male
+56,104,english44,"winston salem, north carolina, usa",english,female
+57,105,english45,"pine bluff, arkansas, usa",english,male
+58,106,english46,"creswell, north carolina, usa",english,male
+59,107,english47,"plantersville, arkansas, usa",english,female
+60,108,english48,"port moresby, national capital district, papua new guinea",english,male
+61,109,english49,"castro valley, california, usa",english,male
+62,110,english5,"fairfax, virginia, usa",english,male
+63,111,english50,"baltic, south dakota, usa",english,female
+64,112,english51,"detroit, michigan, usa",english,male
+65,113,english52,"calgary, alberta, canada",english,male
+66,114,english53,"syracuse, new york, usa",english,male
+67,115,english54,"new albany, indiana, usa",english,female
+68,116,english55,"st. louis, missouri, usa",english,female
+69,117,english56,"londonderry, northern ireland, uk",english,male
+70,118,english57,"birmingham 1, uk",english,male
+71,119,english58,"southhampton, uk",english,female
+72,120,english59,"columbus, ohio, usa",english,male
+73,121,english6,"brooklyn, new york, usa",english,female
+74,122,english60,"chesapeake, virginia, usa",english,male
+75,123,english61,"toronto, ontario, canada",english,male
+76,124,english62,"west jordan, utah, usa",english,male
+77,125,english63,"lewisville, texas, usa",english,male
+78,126,english64,"montreal, quebec, canada",english,female
+79,127,english65,"lewistown, pennsylvania, usa",english,male
+80,128,english66,"baltimore, maryland, usa",english,male
+81,129,english67,"princeton, indiana, usa",english,male
+82,130,english68,"new york, new york, usa",english,male
+83,131,english69,"adelaide, australia",english,male
+84,132,english7,"macon, mississippi, usa",english,male
+85,133,english70,"beaumont, texas, usa",english,male
+86,134,english71,"west covina, california, usa",english,male
+87,135,english72,"kilkenny, ireland",english,male
+88,136,english73,"darwin, australia",english,male
+89,137,english74,"wichita, kansas, usa",english,male
+90,138,english75,"idaho falls, idaho, usa",english,male
+91,139,english76,"boston, massachusetts, usa",english,female
+92,140,english77,"melbourne, australia",english,male
+93,141,english78,"caribou, maine, usa",english,female
+94,142,english79,"boston, massachusetts, usa",english,male
+95,143,english8,"perth, australia",english,female
+96,144,english80,"glasgow, scotland, uk",english,male
+97,145,english81,"st. paul, minnesota, usa",english,male
+98,146,english82,"chicago, illinois, usa",english,female
+99,147,english83,"winnfield, louisiana, usa",english,female
+100,148,english84,"sydney, australia",english,male
+101,149,english85,"strabane, northern ireland, uk",english,male
+102,150,english86,"charleston, south carolina, usa",english,male
+103,151,english87,"tamworth, australia",english,female
+104,152,english88,"grand rapids, michigan, usa",english,male
+105,153,english89,"kingston ma, massachusetts, usa",english,male
+106,154,english9,"carthage, texas, usa",english,female
+107,155,english90,"pittsburgh, pennsylvania, usa",english,male
+108,156,english91,"kingston, jamaica",english,male
+109,157,english92,"wisconsin rapids, wisconsin, usa",english,female
+110,158,english93,"mamou, louisiana, usa",english,female
+111,159,english94,"pensacola, florida, usa",english,female
+112,160,english95,"mishawaka, indiana, usa",english,male
+113,161,english96,"point pleasant, new jersey, usa",english,male
+114,162,english97,"wilmington nc, north carolina, usa",english,male
+115,163,english98,"spokane, washington, usa",english,male
+116,164,english99,"pittsburgh, pennsylvania, usa",english,female
+117,323,spanish1,"caracas, venezuela",spanish,male
+118,324,spanish10,"san luis de la reina, el salvador",spanish,male
+119,325,spanish11,"lima, peru",spanish,female
+120,326,spanish12,"oviedo, spain",spanish,male
+121,327,spanish13,"duitama, colombia",spanish,female
+122,328,spanish14,"pereira, colombia",spanish,female
+123,329,spanish15,"san juan, puerto rico",spanish,male
+124,330,spanish16,"buenos aires, argentina",spanish,male
+125,331,spanish17,"puebla, mexico",spanish,female
+126,332,spanish18,"la paz, bolivia",spanish,male
+127,333,spanish19,"havana, cuba",spanish,female
+128,334,spanish2,"puerto la cruz, venezuela",spanish,male
+129,335,spanish20,"managua, nicaragua",spanish,male
+130,336,spanish21,"santiago, chile",spanish,male
+131,337,spanish22,"madrid, spain",spanish,female
+132,338,spanish23,"santiago, chile",spanish,male
+133,339,spanish24,"mexico city, mexico",spanish,male
+134,340,spanish25,"san jose, costa rica",spanish,male
+135,341,spanish26,"burgos, spain",spanish,male
+136,342,spanish27,"zaragoza, spain",spanish,male
+137,343,spanish28,"san miguel, el salvador",spanish,female
+138,344,spanish3,"bogota, colombia",spanish,female
+139,345,spanish4,"cabanas, el salvador",spanish,female
+140,346,spanish5,"bogota, colombia",spanish,female
+141,347,spanish6,"lima, peru",spanish,male
+142,348,spanish7,"bogota, colombia",spanish,female
+143,349,spanish8,"san salvador, el salvador",spanish,male
+144,350,spanish9,"araure, venezuela",spanish,male
+145,407,english105,"windsor, ontario, canada",english,male
+146,408,english106,"los angeles, california, usa",english,female
+147,410,spanish29,"maracaibo, zulia, venezuela",spanish,male
+148,416,english107,"chicago, illinois, usa",english,male
+149,419,english108,"strabane, northern ireland, uk",english,male
+150,420,english109,"concord, new hampshire, usa",english,female
+151,421,english110,"great yarmouth, norfolk, uk",english,male
+152,426,english111,"bombay, india",english,male
+153,427,english112,"st. thomas, us virgin islands",english,male
+154,428,arabic14,"amman, jordan",arabic,male
+155,437,arabic15,"qayrawan, tunisia",arabic,male
+156,439,english113,"wrexham, wales, uk",english,male
+157,441,spanish30,"buenos aires, argentina",spanish,male
+158,442,english114,"birmingham 2, alabama, usa",english,female
+159,443,english115,"st. albans, hertfordshire, uk",english,male
+160,444,english116,"atlanta, georgia, usa",english,male
+161,445,english117,"elmore, alabama, usa",english,female
+162,446,english118,"akron, ohio, usa",english,male
+163,449,spanish31,"guayaquil, ecuador",spanish,female
+164,450,spanish32,"santa cruz, bolivia",spanish,male
+165,455,english119,"saskatoon, saskatchewan, canada",english,female
+166,456,english120,"saskatoon, saskatchewan, canada",english,male
+167,465,english121,"waconia, minnesota, usa",english,male
+168,467,spanish33,"caracas, venezuela",spanish,male
+169,468,english122,"kuala lumpur, malaysia",english,female
+170,469,english123,"riverside, california, usa",english,female
+171,471,arabic16,"meknes, morocco",arabic,male
+172,476,spanish34,"cartagena, spain",spanish,male
+173,479,spanish35,"mexico city, mexico",spanish,male
+174,480,english124,"brooklyn, new york, usa",english,male
+175,485,english125,"st. george, queensland, australia",english,male
+176,487,english126,"cincinnati, ohio, usa",english,female
+177,489,english127,"new britain, connecticut, usa",english,male
+178,490,english128,"miami, florida, usa",english,female
+179,492,english129,"blackpool, lancashire, uk",english,male
+180,496,english130,"port elizabeth, south africa",english,male
+181,497,english131,"west palm beach, florida, usa",english,male
+182,499,spanish36,"montevideo, uruguay",spanish,male
+183,503,english132,"toronto, ontario, canada",english,female
+184,504,english133,"norwich, new york, usa",english,female
+185,506,english134,"belfast, northern ireland, uk",english,female
+186,507,english135,"orange beach, alabama, usa",english,male
+187,508,english136,"calgary, alberta, canada",english,male
+188,509,english137,"charleston, west virginia, usa",english,male
+189,510,english138,"palmer, alaska, usa",english,female
+190,511,english139,"providence, rhode island, usa",english,male
+191,512,arabic17,"settat, morocco",arabic,male
+192,515,english140,"quezon city, philippines",english,male
+193,516,english141,"york, uk",english,male
+194,517,english142,"avon, new york, usa",english,male
+195,518,english143,"minneapolis, minnesota, usa",english,male
+196,519,english144,"barneys river, nova scotia, canada",english,male
+197,521,english145,"bury st. edmunds, uk",english,male
+198,522,english146,"blytheville, arkansas, usa",english,male
+199,523,english147,"merced, california, usa",english,female
+200,525,english148,"sydney, australia",english,male
+201,526,english149,"lawrenceville, georgia, usa",english,male
+202,527,english150,"brownsville, kentucky, usa",english,male
+203,528,english151,"baltimore, maryland, usa",english,male
+204,529,english152,"adelaide, australia",english,male
+205,533,english153,"brisbane, australia",english,male
+206,534,english154,"glace bay, nova scotia, canada",english,male
+207,535,english155,"oakland, california, usa",english,male
+208,536,english156,"dublin, ireland",english,male
+209,538,english157,"fort worth, texas, usa",english,male
+210,539,arabic18,"kuwait city, kuwait",arabic,male
+211,540,english158,"washington, district of columbia, usa",english,female
+212,541,english159,"ottawa, ontario, canada",english,male
+213,542,english160,"redwood falls, minnesota, usa",english,female
+214,546,english161,"wakefield, ohio, usa",english,female
+215,547,english163,"fairview park, ohio, usa",english,male
+216,548,english162,"delaware, ohio, usa",english,female
+217,549,english164,"leeds, uk",english,male
+218,550,english165,"detroit, michigan, usa",english,female
+219,551,english166,"glenside, pennsylvania, usa",english,male
+220,552,english167,"lakeview, michigan, usa",english,male
+221,554,english168,"oceanside, california, usa",english,male
+222,555,english169,"cleveland, mississippi, usa",english,male
+223,556,english170,"belmont, mississippi, usa",english,female
+224,563,english171,"st. louis, missouri, usa",english,male
+225,564,english172,"kingston, jamaica",english,male
+226,567,english173,"libertyville, illinois, usa",english,male
+227,568,english174,"kuching, sarawak, malaysia",english,female
+228,572,english175,"seattle, washington, usa",english,male
+229,573,english176,"elizabeth city, north carolina, usa",english,female
+230,574,english177,"new orleans, louisiana, usa",english,female
+231,575,spanish37,"tegucigalpa, honduras",spanish,female
+232,576,spanish38,"tegucigalpa, honduras",spanish,male
+233,583,english178,"wilkes-barre, pennsylvania, usa",english,male
+234,584,english179,"huron, south dakota, usa",english,male
+235,585,english180,"newport, rhode island, usa",english,male
+236,586,english181,"new eagle, pennsylvania, usa",english,male
+237,590,english182,"troy, new york, usa",english,male
+238,595,english183,"corriverton, guyana",english,female
+239,597,english184,"hillsboro, oregon, usa",english,female
+240,604,english185,"oxford, uk",english,male
+241,605,english186,"gadsden, alabama, usa",english,female
+242,606,english187,"algona, iowa, usa",english,female
+243,611,english188,"edinburgh, scotland, uk",english,male
+244,614,spanish39,"pamplona, spain",spanish,male
+245,617,english189,"grand forks, north dakota, usa",english,male
+246,618,english190,"oak park, illinois, usa",english,male
+247,625,arabic19,"khouribga, morocco",arabic,male
+248,631,english191,"las cruces, new mexico, usa",english,male
+249,636,english192,"east lansing, michigan, usa",english,female
+250,637,english193,"honolulu, hawaii, usa",english,male
+251,638,english194,"manchester, england, uk",english,male
+252,639,english195,"delavan, wisconsin, usa",english,female
+253,643,arabic20,"chtaura, beqa valley, lebanon",arabic,male
+254,644,spanish40,"cartago, costa rica",spanish,male
+255,654,english196,"suva, fiji",english,female
+256,662,english197,"iowa city, iowa, usa",english,male
+257,663,english198,"washington, district of columbia, usa",english,male
+258,664,english199,"bay shore, new york, usa",english,male
+259,667,english200,"berkeley, california, usa",english,female
+260,668,english201,"warren, michigan, usa",english,female
+261,670,arabic21,"beirut, lebanon",arabic,female
+262,673,english202,"crisfield, maryland, usa",english,male
+263,674,english203,"boston, massachusetts, usa",english,female
+264,678,english204,"chicago, illinois, usa",english,male
+265,679,english205,"blue earth, minnesota, usa",english,female
+266,680,english206,"hucknall, nottinghamshire, england, uk",english,female
+267,684,english207,"wilkes-barre, pennsylvania, usa",english,female
+268,695,english208,"washington, dc, usa",english,male
+269,702,english209,"saint johns, antigua and barbuda",english,female
+270,705,english210,"trenton, nova scotia, canada",english,female
+271,706,spanish41,"bonao, dominican republic",spanish,male
+272,712,spanish42,"bogota, colombia",spanish,female
+273,714,spanish43,"santiago-dr, dominican republic",spanish,male
+274,715,spanish45,"santiago-dr, dominican republic",spanish,female
+275,716,spanish44,"la romana, dominican republic",spanish,female
+276,717,spanish46,"santo domingo, dominican republic",spanish,male
+277,718,spanish47,"santo domingo, dominican republic",spanish,female
+278,720,english211,"worcester, massachusetts, usa",english,male
+279,729,english212,"spartanburg, south carolina, usa",english,male
+280,731,spanish48,"bilbao, spain",spanish,male
+281,732,spanish49,"tandil, argentina",spanish,male
+282,734,english213,"dodge city, kansas, usa",english,male
+283,737,english214,"myrtle beach, south carolina, usa",english,male
+284,738,english215,"lemington spa, warwickshire, uk",english,male
+285,739,english216,"chicago, illinois, usa",english,female
+286,740,english217,"harrow, middlesex, uk",english,male
+287,747,english218,"abingdon, virginia, usa",english,female
+288,748,english219,"oakland, california, usa",english,female
+289,749,english220,"anaheim, california, usa",english,female
+290,752,spanish50,"santo domingo, dominican republic",spanish,male
+291,753,spanish51,"caguas, puerto rico",spanish,male
+292,754,english221,"london, uk",english,male
+293,764,english222,"auburn, indiana, usa",english,female
+294,767,english223,"erie, pennsylvania, usa",english,male
+295,768,english224,"bridgetown, barbados",english,male
+296,771,english225,"dundee, scotland, uk",english,male
+297,772,english226,"walton-on-thames, surrey, uk",english,male
+298,773,english227,"camberley, surrey, uk",english,female
+299,774,english228,"glasgow, scotland, uk",english,female
+300,775,english229,"burlington, vermont, usa",english,male
+301,776,english230,"launceston, tasmania, australia",english,male
+302,777,spanish52,"popayan, cauca, colombia",spanish,female
+303,791,english231,"tampa, florida, usa",english,male
+304,793,english233,"edmonton, alberta, canada",english,female
+305,794,english234,"bloomington, indiana, usa",english,male
+306,795,english235,"richmond, virginia, usa",english,female
+307,797,spanish53,"bogota, colombia",spanish,male
+308,798,english232,"metairie, louisiana, usa",english,female
+309,799,english236,"st. charles, illinois, usa",english,male
+310,800,spanish54,"vina del mar, chile",spanish,male
+311,801,english237,"jeffersonville, ohio, usa",english,female
+312,802,english238,"vancouver, british  columbia, canada",english,female
+313,803,english239,"fort kobbe, panama",english,male
+314,810,spanish55,"tandil, argentina",spanish,male
+315,815,english240,"guelph, ontario, canada",english,male
+316,817,english241,"wanganui, new zealand",english,female
+317,818,english242,"laurel, mississippi, usa",english,female
+318,820,english243,"fredericton, new brunswick, canada",english,male
+319,821,english244,"san francisco, california, usa",english,male
+320,824,english245,"pittsburgh, pennsylvania, usa",english,male
+321,825,english246,"los angeles, california, usa",english,male
+322,835,english247,"prince rupert, british columbia, canada",english,male
+323,838,spanish56,"monterrey, mexico",spanish,male
+324,840,english248,"philadelphia, pennsylvania, usa",english,female
+325,850,english249,"boston, massachusetts, usa",english,female
+326,852,english250,"chester, england, uk",english,male
+327,855,english251,"mt. kisco, new york, usa",english,male
+328,856,english252,"san jose ca, california, usa",english,female
+329,857,english253,"dublin, ireland",english,male
+330,858,english254,"eugene, oregon, usa",english,male
+331,859,english255,"oamaru, new zealand",english,female
+332,861,english256,"laurinburg, north carolina, usa",english,male
+333,863,english257,"san diego, california, usa",english,male
+334,869,english258,"kilkenny, ireland",english,male
+335,870,english259,"singapore, singapore",english,male
+336,871,english260,"phoenix, arizona, usa",english,female
+337,875,english261,"forestville, maryland, usa",english,female
+338,876,english262,"naylor, maryland, usa",english,male
+339,884,english263,"oak forest, illinois, usa",english,male
+340,886,spanish57,"montevideo, uruguay",spanish,male
+341,889,english264,"freemont, california, usa",english,male
+342,890,english265,"vancouver wa, washington, usa",english,male
+343,899,english266,"san diego, california, usa",english,male
+344,900,english267,"leeds, uk",english,male
+345,901,english268,"leeds, uk",english,female
+346,902,english269,"adelaide, australia",english,female
+347,903,english270,"cape town, south africa",english,male
+348,904,english271,"cape town, south africa",english,female
+349,905,english272,"dallas, texas, usa",english,male
+350,906,spanish58,"bogota, colombia",spanish,male
+351,907,english273,"blue bell, pennsylvania, usa",english,male
+352,908,spanish59,"mayaguez, puerto rico",spanish,female
+353,909,english274,"sydney, australia",english,female
+354,912,english275,"clifton, new jersey, usa",english,female
+355,915,spanish60,"santiago-dr, dominican republic",spanish,female
+356,918,english276,"chattanooga, tennessee, usa",english,female
+357,919,english277,"hudson, new york, usa",english,female
+358,920,arabic22,"abu dhabi, united arab emirates",arabic,female
+359,921,english278,"augusta, georgia, usa",english,female
+360,922,english279,"singapore, singapore",english,female
+361,924,spanish61,"azuaga, spain",spanish,male
+362,925,spanish62,"buenos aires, argentina",spanish,female
+363,927,arabic23,"al mahalla, egypt",arabic,male
+364,935,english280,"ramsey, isle of man",english,female
+365,937,english281,"ramsey mn, minnesota, usa",english,male
+366,939,english282,"tampa, florida, usa",english,male
+367,951,english283,"pelham, new york, usa",english,male
+368,952,english284,"gainesville, florida, usa",english,male
+369,959,spanish63,"la coruna, spain",spanish,female
+370,961,english285,"melbourne, australia",english,male
+371,962,spanish64,"medellin, colombia",spanish,male
+372,970,arabic24,"cairo, egypt",arabic,male
+373,977,english286,"beaumont, texas, usa",english,female
+374,981,english287,"singapore, singapore",english,female
+375,982,english288,"st. louis, missouri, usa",english,female
+376,983,english289,"fairfax, virginia, usa",english,female
+377,986,english290,"duluth, georgia, usa",english,male
+378,1011,arabic25,"ramun, israel (occupied territory)",arabic,male
+379,1012,arabic26,"amman, jordan",arabic,female
+380,1013,arabic27,"jerusalem, israel",arabic,male
+381,1026,english291,"belize city, belize",english,male
+382,1051,english292,"kansas city, missouri, usa",english,male
+383,1052,english293,"billings, montana, usa",english,female
+384,1060,english294,"naracoorte, australia",english,female
+385,1067,english295,"airdrie, alberta, canada",english,male
+386,1069,spanish65,"barranquilla, colombia",spanish,male
+387,1070,english296,"edmonton, alberta, canada",english,female
+388,1071,english297,"lindenhurst, new york, usa",english,male
+389,1072,english298,"lismore, new south wales, australia",english,male
+390,1075,english299,"windsor, ontario, canada",english,male
+391,1076,english300,"dublin, ireland",english,male
+392,1077,spanish66,"san salvador, el salvador",spanish,male
+393,1078,english301,"toronto, ontario, canada",english,male
+394,1085,english302,"melbourne, australia",english,male
+395,1086,english303,"anaheim, california, usa",english,female
+396,1088,english304,"clare, ireland",english,female
+397,1093,english306,"london, uk",english,female
+398,1094,english305,"la paz, bolivia",english,female
+399,1100,english307,"alexandria, va, usa",english,male
+400,1101,english308,"cardiff, wales, uk",english,male
+401,1105,english309,"dunedin, new zealand",english,female
+402,1108,english310,"oxford, uk",english,female
+403,1110,english311,"detroit, michigan, usa",english,female
+404,1111,spanish67,"santa marta, colombia",spanish,female
+405,1113,english312,"edmonton, alberta, canada",english,female
+406,1115,arabic28,"al-ayn, united arab emirates",arabic,male
+407,1116,arabic29,"doha, qatar",arabic,male
+408,1119,english313,"silver spring, maryland, usa",english,male
+409,1120,english314,"memphis, tennessee, usa",english,female
+410,1121,english315,"los angeles, california, usa",english,male
+411,1122,english316,"sacramento, california, usa",english,male
+412,1132,english317,"burlington, vermont, usa",english,male
+413,1133,arabic30,"riyadh, saudi arabia",arabic,female
+414,1137,english318,"sarnia, ontario, canada",english,male
+415,1138,english319,"grimsby, lincolnshire, uk",english,male
+416,1162,english320,"maryland county, liberia",english,female
+417,1163,english321,"brooklyn, new york, usa",english,male
+418,1172,english322,"yorkton, saskatchewan, canada",english,male
+419,1173,english323,"regina, saskatchewan, canada",english,female
+420,1174,english324,"st. marys, ontario, canada",english,male
+421,1176,english325,"reading, pennsylvania, usa",english,male
+422,1181,arabic31,"baghdad, iraq",arabic,female
+423,1188,english326,"fairborn, ohio, usa",english,male
+424,1203,arabic32,"baghdad, iraq",arabic,male
+425,1204,arabic33,"baghdad, iraq",arabic,female
+426,1205,english327,"dunedin, florida, usa",english,male
+427,1206,english328,"hollywood, florida, usa",english,female
+428,1207,english329,"boise, idaho, usa",english,female
+429,1208,english330,"augusta, georgia, usa",english,female
+430,1209,english331,"perth, australia",english,female
+431,1212,english332,"baltimore, maryland, usa",english,female
+432,1214,english333,"spokane, washington, usa",english,female
+433,1215,english334,"derby, england, uk",english,female
+434,1216,english335,"washington, district of columbia, usa",english,male
+435,1217,english336,"baltimore, maryland, usa",english,female
+436,1218,english337,"jersey city, new jersey, usa",english,female
+437,1219,english338,"sydney, australia",english,female
+438,1220,english339,"chicago, illinois, usa",english,male
+439,1222,english340,"charleston, west virginia, usa",english,male
+440,1224,english341,"new york, new york, usa",english,female
+441,1225,english342,"kansas city, missouri, usa",english,male
+442,1226,english343,"portland, maine, usa",english,male
+443,1227,spanish68,"san fernando, chile",spanish,male
+444,1229,spanish69,"caracas, venezuela",spanish,female
+445,1230,spanish70,"bogota, colombia",spanish,female
+446,1231,spanish71,"rosario, argentina",spanish,male
+447,1232,english344,"lumberton, north carolina, usa",english,female
+448,1233,english345,"kansas city, missouri, usa",english,male
+449,1235,english346,"east hartford, connecticut, usa",english,male
+450,1236,english347,"burnsville, minnesota, usa",english,female
+451,1237,english348,"las pinas, philippines",english,female
+452,1238,spanish72,"miami, florida, usa",spanish,female
+453,1239,english349,"warrenton, virginia, usa",english,female
+454,1240,spanish73,"merida, venezuela",spanish,male
+455,1241,english350,"polesworth, staffordshire, uk",english,female
+456,1242,english351,"carthage, missouri, usa",english,male
+457,1243,english352,"singapore, singapore",english,male
+458,1246,english353,"saskatoon, saskatchewan, canada",english,male
+459,1249,spanish74,"zaragoza, spain",spanish,male
+460,1250,english354,"christchurch, new zealand",english,female
+461,1253,arabic34,"kuwait city, kuwait",arabic,female
+462,1256,english355,"los angeles, california, usa",english,male
+463,1257,english356,"morden, manitoba, canada",english,female
+464,1258,english357,"alto, georgia, usa",english,male
+465,1259,english358,"fredericton, new brunswick, canada",english,male
+466,1273,spanish75,"lima, peru",spanish,female
+467,1276,english359,"sackville, new brunswick, canada",english,male
+468,1277,english360,"erie, pennsylvania, usa",english,female
+469,1280,english361,"burnsville, minnesota, usa",english,female
+470,1281,english362,"cork, ireland",english,male
+471,1287,english363,"castle donington, uk",english,male
+472,1288,english364,"sydney, australia",english,female
+473,1290,spanish76,"la paz, bolivia",spanish,male
+474,1292,english365,"oxford, uk",english,male
+475,1293,english366,"bournesmouth, uk",english,female
+476,1294,english367,"birkenhead, uk",english,female
+477,1295,english368,"strattford-on-avon, uk",english,male
+478,1297,english369,"mcminnville, oregon, usa",english,male
+479,1301,spanish77,"jalisco, mexico",spanish,male
+480,1302,english370,"pondicherry, india",english,male
+481,1303,english371,"colorado springs, colorado, usa",english,female
+482,1307,english372,"christiansburg, virginia, usa",english,male
+483,1308,english373,"russellville, kentucky, usa",english,male
+484,1310,english374,"milford haven, wales, uk",english,male
+485,1312,english375,"manchester, connecticut, usa",english,male
+486,1315,english376,"pasadena, california, usa",english,male
+487,1319,english377,"trenton, michigan, usa",english,female
+488,1320,english378,"silver spring, maryland, usa",english,female
+489,1321,english379,"summit, new jersey, usa",english,male
+490,1323,english380,"roanoke, virginia, usa",english,female
+491,1324,english381,"pike county, kentucky, usa",english,male
+492,1325,english382,"arlington, virginia, usa",english,male
+493,1326,english383,"washington, district of columbia, usa",english,female
+494,1327,english384,"williamson, west virginia, usa",english,male
+495,1328,english385,"mcveigh, kentucky, usa",english,female
+496,1330,english386,"los angeles, california, usa",english,female
+497,1331,english387,"lancaster, california, usa",english,female
+498,1332,english388,"bluefield, west virginia, usa",english,female
+499,1333,english389,"aldie, virginia, usa",english,female
+500,1334,english390,"milwaukee, wisconsin, usa",english,male
+501,1335,english391,"milton, florida, usa",english,female
+502,1336,english392,"warrenton, virginia, usa",english,male
+503,1337,english393,"washington, district of columbia, usa",english,female
+504,1338,spanish78,"lima, peru",spanish,female
+505,1339,english394,"aiken, south carolina, usa",english,female
+506,1340,english395,"alexandria, virginia, usa",english,male
+507,1341,english396,"orange, virginia, usa",english,female
+508,1342,english397,"wadesboro, north carolina, usa",english,female
+509,1343,english398,"salisbury, north carolina, usa",english,female
+510,1344,spanish79,"lamas, peru",spanish,female
+511,1345,english399,"la grange, georgia, usa",english,female
+512,1346,spanish80,"bogota, colombia",spanish,female
+513,1347,spanish81,"san juan, puerto rico",spanish,female
+514,1348,english400,"shanklin, isle of wight, uk",english,female
+515,1349,english401,"lucerne, switzerland",english,male
+516,1350,english402,"canberra, australia",english,female
+517,1351,english403,"sydney, australia",english,female
+518,1352,english404,"windsor, australia",english,male
+519,1353,english405,"geelong, australia",english,female
+520,1358,english406,"pensacola, florida, usa",english,female
+521,1360,english407,"windsor, ontario, canada",english,male
+522,1361,english408,"lynwood, california, usa",english,male
+523,1362,english409,"maitland, australia",english,female
+524,1363,english410,"hamilton, new zealand",english,male
+525,1371,english411,"washington, district of columbia, usa",english,female
+526,1372,english412,"washington, district of columbia, usa",english,female
+527,1373,english413,"manchester, england, uk",english,female
+528,1374,english414,"woonsocket, rhode island, usa",english,female
+529,1375,english415,"woonsocket, rhode island, usa",english,male
+530,1377,english416,"sydney, australia",english,male
+531,1380,english417,"cardiff, wales, uk",english,female
+532,1384,english418,"arlington, virginia",english,male
+533,1385,english419,"youngstown, ohio, usa",english,male
+534,1387,english420,"auckland, new zealand",english,male
+535,1388,english421,"landstuhl, germany",english,male
+536,1390,english422,"rochester, new york, usa",english,male
+537,1391,arabic35,"jiddah, saudi arabia",arabic,male
+538,1392,arabic36,"jiddah, saudi arabia",arabic,male
+539,1393,arabic37,"jiddah, saudi arabia",arabic,male
+540,1394,arabic38,"shady grove, maryland, usa",arabic,female
+541,1395,english423,"baltimore, maryland, usa",english,female
+542,1396,spanish82,"la paz, bolivia",spanish,male
+543,1397,spanish83,"la paz, bolivia",spanish,male
+544,1398,spanish84,"buenos aires, argentina",spanish,female
+545,1399,spanish85,"buenos aires, argentina",spanish,female
+546,1400,spanish86,"buenos aires, argentina",spanish,male
+547,1401,spanish87,"la paz, bolivia",spanish,male
+548,1402,spanish88,"la paz, bolivia",spanish,male
+549,1405,arabic39,"jiddah, saudi arabia",arabic,male
+550,1409,english424,"danville, virginia, usa",english,male
+551,1410,english425,"danville, virginia, usa",english,male
+552,1411,english426,"florence, south carolina, usa",english,female
+553,1412,english427,"hanover, pennsylvania, usa",english,female
+554,1413,english428,"kingstree, south carolina, usa",english,female
+555,1416,english429,"philadelphia, pennsylvania, usa",english,female
+556,1419,english430,"melbourne, australia",english,female
+557,1420,arabic40,"jiddah, saudi arabia",arabic,male
+558,1421,arabic41,"riyadh, saudi arabia",arabic,male
+559,1422,arabic42,"jiddah, saudi arabia",arabic,male
+560,1423,english431,"green bay, wisconsin, usa",english,female
+561,1425,spanish89,"monterrey, mexico",spanish,male
+562,1426,arabic43,"beirut, lebanon",arabic,female
+563,1428,english432,"dublin, ireland",english,female
+564,1430,english433,"gladwin, michigan, usa",english,female
+565,1431,spanish90,"caracas, venezuela",spanish,female
+566,1433,spanish91,"caracas, venezuela",spanish,female
+567,1435,spanish92,"cardenas, cuba",spanish,male
+568,1436,spanish93,"santa rosa, honduras",spanish,female
+569,1439,spanish94,"bogota, colombia",spanish,male
+570,1444,spanish95,"juarez, mexico",spanish,female
+571,1449,spanish96,"arequipa, peru",spanish,female
+572,1450,spanish97,"bogota, colombia",spanish,female
+573,1451,spanish98,"veracruz, mexico",spanish,male
+574,1455,arabic44,"jiddah, saudi arabia",arabic,female
+575,1456,arabic45,"fort collins, colorado, usa",arabic,female
+576,1457,arabic46,"jiddah, saudi arabia",arabic,male
+577,1458,arabic47,"jiddah, saudi arabia",arabic,male
+578,1459,arabic48,"mecca, saudi arabia",arabic,male
+579,1460,arabic49,"medina, saudi arabia",arabic,male
+580,1461,arabic50,"jiddah, saudi arabia",arabic,male
+581,1469,english434,"kansas city, kansas, usa",english,male
+582,1471,english435,"palm springs, california, usa",english,female
+583,1475,english436,"freeport, the bahamas",english,female
+584,1477,english437,"cleveland, ohio, usa",english,male
+585,1486,arabic51,"jiddah, saudi arabia",arabic,male
+586,1487,arabic52,"jiddah, saudi arabia",arabic,female
+587,1492,english438,"houston, texas, usa",english,female
+588,1493,english439,"richmond, british columbia, canada",english,female
+589,1502,english440,"glasgow, scotland, uk",english,female
+590,1506,spanish99,"lima, peru",spanish,female
+591,1508,spanish100,"iquitos, peru",spanish,female
+592,1524,english441,"oquawka, illinois, usa",english,female
+593,1526,arabic53,"rabat, morocco",arabic,male
+594,1528,english442,"salisbury mills, new york, usa",english,male
+595,1530,english443,"fort collins, colorado, usa",english,male
+596,1531,english444,"anniston, alabama, usa",english,male
+597,1532,english445,"san francisco, california, usa",english,male
+598,1533,english446,"moorhead, minnesota, usa",english,female
+599,1534,english447,"hartford, connecticut, usa",english,male
+600,1536,english448,"isle of arran, scotland, uk",english,male
+601,1538,english449,"barton, vermont, usa",english,male
+602,1544,english450,"windsor, uk",english,male
+603,1546,english451,"hazlehurst, georgia, usa",english,male
+604,1547,english452,"newcastle, australia",english,male
+605,1548,english453,"chicago, illinois, usa",english,female
+606,1550,english454,"raleigh, north carolina, usa",english,female
+607,1552,english455,"washington, dc, usa",english,female
+608,1554,english456,"lancashire, leyland, uk",english,female
+609,1555,english457,"syracuse, new york, usa",english,male
+610,1559,english458,"reno, nevada, usa",english,female
+611,1560,english459,"charlotte, north carolina, usa",english,male
+612,1561,english460,"rutland, england, uk",english,female
+613,1563,english461,"poughkeepsie, new york, usa",english,female
+614,1564,english462,"paducah, kentucky, usa",english,male
+615,1565,arabic54,"baghdad, iraq",arabic,male
+616,1569,arabic55,"beirut, lebanon",arabic,male
+617,1571,english463,"brooklyn, new york, usa",english,female
+618,1574,spanish101,"la union, el salvador",spanish,female
+619,1575,spanish102,"cochabamba, bolivia",spanish,male
+620,1584,spanish103,"san miguel, el salvador",spanish,male
+621,1600,spanish104,"san miguel, el salvador",spanish,female
+622,1613,spanish105,"jerez de la frontera, spain",spanish,female
+623,1618,english464,"ottawa, ontario, canada",english,male
+624,1621,spanish106,"lima, peru",spanish,male
+625,1622,spanish107,"san salvador, el salvador",spanish,male
+626,1629,spanish108,"medellin, colombia",spanish,male
+627,1635,english465,"aylesbury, buckinghamshire, uk",english,male
+628,1637,english466,"portland, maine, usa",english,male
+629,1639,english467,"pozzuoli, italy",english,male
+630,1640,english468,"myrtle beach, south carolina, usa",english,male
+631,1641,english469,"knoxville, tennessee, usa",english,male
+632,1642,english470,"leighton buzzard, uk",english,male
+633,1648,english471,"calgary, alberta, canada",english,female
+634,1649,english472,"rota, spain",english,male
+635,1650,english473,"nottingham, uk",english,male
+636,1656,english474,"rochester, minnesota, usa",english,female
+637,1657,english475,"ogden, utah, usa",english,female
+638,1658,english476,"manchester, new hampshire, usa",english,female
+639,1659,english477,"san diego, california, usa",english,female
+640,1660,spanish109,"maracay, venezuela",spanish,male
+641,1661,english478,"sydney, nova scotia, canada",english,male
+642,1664,english479,"new york, new york, usa",english,female
+643,1665,english480,"winston-salem, north carolina, usa",english,male
+644,1666,english481,"stringtown, oklahoma, usa",english,female
+645,1667,english482,"yeadon, pennsylvania, usa",english,female
+646,1668,english483,"boston, massachusetts, usa",english,male
+647,1672,english484,"dublin, ireland",english,male
+648,1674,english485,"cromwell, connecticut, usa",english,male
+649,1677,arabic56,"ain defla, algeria",arabic,male
+650,1680,spanish110,"caracas, venezuela",spanish,male
+651,1683,english486,"corentyne, guyana",english,female
+652,1688,english487,"london, uk",english,female
+653,1689,spanish111,"santiago, chile",spanish,male
+654,1692,english488,"irvine, scotland, uk",english,female
+655,1693,spanish112,"la paz, bolivia",spanish,male
+656,1694,english489,"kingston, jamaica",english,female
+657,1695,spanish113,"cochabamba, bolivia",spanish,male
+658,1699,arabic57,"beirut, lebanon",arabic,female
+659,1700,arabic58,"baghdad, iraq",arabic,male
+660,1702,arabic59,"irbid, jordan",arabic,male
+661,1709,english490,"auckland, new zealand",english,male
+662,1711,arabic60,"cairo, egypt",arabic,male
+663,1713,english491,"westmoreland, jamaica",english,female
+664,1716,english492,"omaha, nebraska, usa",english,female
+665,1718,english493,"miami, florida, usa",english,male
+666,1719,english494,"findlay, ohio, usa",english,male
+667,1720,english495,"kirkland, washington, usa",english,male
+668,1724,english496,"london, england, uk",english,male
+669,1726,english497,"cleveland, ohio, usa",english,male
+670,1727,english498,"prince george, british columbia, canada",english,male
+671,1728,english499,"st. paul, minnesota, usa",english,female
+672,1732,spanish114,"seville, spain",spanish,female
+673,1733,english500,"albury, new south wales, australia",english,male
+674,1734,english501,"pittsburgh, pennsylvania, usa",english,female
+675,1735,english502,"farmington hills, michigan, usa",english,female
+676,1739,english503,"benin city, nigeria",english,female
+677,1744,spanish115,"la paz, bolivia",spanish,female
+678,1747,spanish116,"bogota, colombia",spanish,male
+679,1753,arabic61,"manama, bahrain",arabic,male
+680,1768,arabic62,"ad dammam, saudi arabia",arabic,male
+681,1769,arabic63,"bani walid, libya",arabic,female
+682,1777,arabic64,"riyadh, saudi arabia",arabic,male
+683,1778,arabic65,"samail, oman",arabic,female
+684,1784,arabic66,"medina, saudi arabia",arabic,male
+685,1785,arabic67,"nasriah, iraq",arabic,male
+686,1786,english504,"west palm beach, florida, usa",english,male
+687,1797,spanish117,"madrid, spain",spanish,male
+688,1798,english505,"beirut, lebanon",english,female
+689,1799,english506,"new orleans, louisiana, usa",english,female
+690,1800,english507,"accra, ghana",english,male
+691,1801,english508,"winfield, illinois, usa",english,female
+692,1802,english509,"coudersport, pennsylvania, usa",english,female
+693,1803,english510,"philadelphia, pennsylvania, usa",english,female
+694,1805,arabic68,"london, uk",arabic,male
+695,1806,spanish118,"monterrey, mexico",spanish,female
+696,1807,spanish119,"madrid, spain",spanish,female
+697,1810,arabic69,"kerma, sudan",arabic,female
+698,1818,english511,"montgomery, alabama, usa",english,female
+699,1819,english512,"salina, kansas, usa",english,female
+700,1823,spanish120,"bogota, colombia",spanish,female
+701,1826,spanish121,"pasaquina, el salvador",spanish,male
+702,1827,arabic70,"casablanca, morocco",arabic,male
+703,1828,arabic71,"kuwait city, kuwait",arabic,female
+704,1831,spanish122,"toluca, mexico",spanish,female
+705,1832,arabic72,"baghdad, iraq",arabic,female
+706,1834,spanish123,"ilbague, colombia",spanish,female
+707,1835,spanish124,"santa cruz, bolivia",spanish,male
+708,1840,spanish125,"lima, peru",spanish,male
+709,1841,arabic73,"nazareth, israel",arabic,female
+710,1853,spanish126,"colon, panama",spanish,female
+711,1856,english513,"bocas del toro, panama",english,female
+712,1860,spanish127,"san salvador, el salvador",spanish,male
+713,1869,spanish128,"lima, peru",spanish,female
+714,1870,arabic74,"alexandria, egypt",arabic,male
+715,1872,english514,"youngstown, ohio, usa",english,male
+716,1873,english515,"youngstown, ohio, usa",english,female
+717,1874,spanish129,"havana, cuba",spanish,female
+718,1875,english516,"dripping springs, texas, usa",english,female
+719,1876,english517,"colorado springs, colorado, usa",english,male
+720,1878,english518,"kells, meath, ireland",english,male
+721,1882,english519,"karachi, pakistan",english,female
+722,1884,english520,"st. paul, minnesota, usa",english,female
+723,1885,arabic75,"riyadh, saudi arabia",arabic,female
+724,1886,english521,"bethesda, maryland, usa",english,female
+725,1887,english522,"bethpage, new york, usa",english,female
+726,1888,english523,"madison, wisconsin, usa",english,female
+727,1890,english524,"downers grove, illinois, usa",english,male
+728,1891,spanish130,"guayaquil, ecuador",spanish,male
+729,1892,arabic76,"jiddah, saudi arabia",arabic,male
+730,1893,english525,"albion, new york, usa",english,female
+731,1894,arabic77,"ad dammam, saudi arabia",arabic,female
+732,1895,english526,"woodbridge, virginia, usa",english,male
+733,1897,arabic78,"washington, district of columbia, usa",arabic,female
+734,1899,arabic79,"medina, saudi arabia",arabic,female
+735,1901,arabic80,"najran, saudi arabia",arabic,male
+736,1903,spanish131,"havana, cuba",spanish,male
+737,1904,spanish132,"rio piedras, puerto rico",spanish,female
+738,1907,english527,"wynnewood, pennsylvania, usa",english,female
+739,1908,english528,"green bay, wisconsin, usa",english,female
+740,1914,arabic81,"riyadh, saudi arabia",arabic,male
+741,1916,spanish133,"cochabamba, bolivia",spanish,male
+742,1917,arabic82,"damascus, syria",arabic,male
+743,1920,arabic83,"riyadh, saudi arabia",arabic,male
+744,1921,spanish134,"la union, el salvador",spanish,female
+745,1923,spanish135,"santiago de cuba, cuba",spanish,female
+746,1925,english529,"burlington, vermont, usa",english,female
+747,1926,english530,"detroit, michigan, usa",english,female
+748,1927,arabic84,"medina, saudi arabia",arabic,female
+749,1928,english531,"nokesville, virginia, usa",english,female
+750,1933,english532,"bristol, connecticut, usa",english,female
+751,1934,english533,"fairfax, virginia, usa",english,female
+752,1949,spanish136,"santiago, chile",spanish,male
+753,1951,english534,"mineola, new york, usa",english,female
+754,1955,english535,"plymouth, massachusetts, usa",english,female
+755,1956,english536,"richmond, virginia, usa",english,female
+756,1957,english537,"woodbridge, virginia, usa",english,female
+757,1958,english538,"lyndhurst, virginia, usa",english,female
+758,1959,english539,"orange county, california, usa",english,female
+759,1960,english540,"arlington, virginia, usa",english,female
+760,1961,english541,"fort lauderdale, florida, usa",english,female
+761,1962,english542,"toronto, ontario, canada",english,male
+762,1963,arabic85,"ad dammam, saudi arabia",arabic,female
+763,1964,arabic86,"cairo, egypt",arabic,male
+764,1969,english543,"vancouver, british columbia, canada",english,female
+765,1970,english544,"hanover, new hampshire, usa",english,male
+766,1979,spanish137,"santa ana, el salvador",spanish,female
+767,1980,spanish138,"san miguel, el salvador",spanish,female
+768,1981,spanish139,"guatemala city, guatemala",spanish,male
+769,1985,spanish140,"cochabamba, bolivia",spanish,female
+770,1995,english545,"tangier island, virginia, usa",english,male
+771,1996,english546,"tangier island, virginia, usa",english,female
+772,1997,english547,"tangier island, virginia, usa",english,male
+773,2003,english548,"dublin, ireland",english,male
+774,2005,arabic87,"kuwait city, kuwait",arabic,female
+775,2008,arabic88,"beirut, lebanon",arabic,female
+776,2009,spanish141,"la union, el salvador",spanish,male
+777,2012,english549,"exminister, uk",english,female
+778,2016,spanish142,"san salvador, el salvador",spanish,female
+779,2022,arabic89,"baghdad, iraq",arabic,female
+780,2026,spanish143,"oviedo, spain",spanish,male
+781,2028,english550,"fredericksburg, virginia, usa",english,male
+782,2029,english551,"king george, virginia, usa",english,female
+783,2036,arabic90,"tripoli, libya",arabic,female
+784,2043,english552,"bethesda, maryland, usa",english,female
+785,2046,english553,"nashville, tennessee, usa",english,male
+786,2047,english554,"hoffman estates, illinois, usa",english,female
+787,2049,english555,"brooklyn, new york, usa",english,male
+788,2050,english556,"brooklyn, new york, usa",english,female
+789,2051,spanish144,"florencia, zacatecas, mexico",spanish,female
+790,2052,spanish145,"florencia, zacatecas, mexico",spanish,female
+791,2053,english557,"sharjah, united arab emirates",english,female
+792,2055,english558,"queens, new york, usa",english,male
+793,2056,english559,"reston, virginia, usa",english,female
+794,2057,spanish146,"las palmas, oaxaca, mexico",spanish,male
+795,2059,english560,"hartford, connecticut, usa",english,female
+796,2060,english561,"yorktown, virginia, usa",english,female
+797,2061,english562,"florence, south carolina, usa",english,female
+798,2074,english563,"manassas, virginia, usa",english,male
+799,2077,english564,"casper, wyoming, usa",english,male
+800,2078,spanish147,"puerto_cabezas, nicaragua",spanish,male
+801,2079,spanish148,"la ceiba, honduras",spanish,male
+802,2080,english565,"portland, oregon, usa",english,female
+803,2081,english566,"derby, england, uk",english,male
+804,2086,arabic91,"riyadh, saudi arabia",arabic,female
+805,2087,arabic92,"baghdad, iraq",arabic,male
+806,2091,spanish149,"bilwi, puerto cabezas, nicaragua",spanish,male
+807,2094,spanish150,"bilwi, puerto cabezas, nicaragua",spanish,male
+808,2096,spanish151,"bilwas karma, rio coco, nicaragua",spanish,female
+809,2100,spanish152,"barcelona, spain",spanish,male
+810,2101,english567,"new york, new york, usa",english,male
+811,2103,english568,"quincy, florida, usa",english,female
+812,2104,english569,"sydney, australia",english,male
+813,2106,english570,"parma, ohio, usa",english,female
+814,2112,arabic93,"baghdad, iraq",arabic,female
+815,2113,english571,"washington, dc, usa",english,male
+816,2114,arabic94,"abu dhabi, united arab emirates",arabic,female
+817,2118,spanish153,"bogota, colombia",spanish,male
+818,2121,english572,"fort worth, texas, usa",english,male
+819,2124,english573,"painesville, ohio, usa",english,male
+820,2127,spanish154,"montevideo, uruguay",spanish,male
+821,2130,spanish155,"lima, peru",spanish,male
+822,2142,spanish156,"montevideo, uruguay",spanish,female
+823,2143,arabic95,"kuwait city, kuwait",arabic,female
+824,2144,spanish157,"mexico city, mexico",spanish,female
+825,2148,spanish158,"santurce, puerto rico",spanish,female
+826,2149,spanish159,"san salvador, el salvador",spanish,male
+827,2150,spanish160,"bogota, colombia",spanish,male
+828,2153,arabic96,"riyadh, saudi arabia",arabic,male
+829,2154,arabic97,"sharjah, united arab emirates",arabic,female
+830,2155,arabic98,"ras al khaimah, united arab emirates",arabic,female
+831,2156,spanish161,"leon, nicaragua",spanish,female
+832,2157,arabic99,"ad dammam, saudi arabia",arabic,female
+833,2159,arabic100,"beirut, lebanon",arabic,female
+834,2160,arabic101,"doha, qatar",arabic,male
+835,2161,arabic102,"jiddah, saudi arabia",arabic,male
+836,2162,english574,"toronto, ontario, canada",english,female
+837,2165,english575,"great falls, virginia, usa",english,male
+838,2167,english576,"washington, dc, usa",english,female
+839,2169,spanish162,"mexico city, mexico",spanish,male
+840,2170,english577,"san leandro, california, usa",english,female
+841,2171,english578,"salford, lancashire, uk",english,male
+842,2172,english579,"adelaide, australia",english,male
+843,2185,english580,"rochester, new york, usa",english,male
+844,2186,english581,"guelph, ontario, canada",english,female
+845,2187,english582,"dundee, scotland, uk",english,male
+846,2195,english583,"london, england, uk",english,male
+847,2196,arabic103,"baghdad, iraq",arabic,male
+848,2197,english584,"monterey, california, usa",english,male
+849,2200,arabic104,"riyadh, saudi arabia",arabic,female
+850,2201,arabic105,"riyadh, saudi arabia",arabic,female
+851,2202,arabic106,"riyadh, saudi arabia",arabic,male
+852,2203,arabic107,"riyadh, saudi arabia",arabic,male
+853,2204,arabic108,"riyadh, saudi arabia",arabic,female
+854,2205,arabic109,"riyadh, saudi arabia",arabic,female
+855,2207,english585,"dumfries, virginia, usa",english,female
+856,2212,spanish163,"asuncion, paraguay",spanish,male
+857,2216,arabic110,"riyadh, saudi arabia",arabic,male
+858,2217,arabic111,"riyadh, saudi arabia",arabic,female
+859,2218,arabic112,"riyadh, saudi arabia",arabic,female
+860,2219,arabic113,"riyadh, saudi arabia",arabic,female
+861,2220,arabic114,"amman, jordan",arabic,female
+862,2221,english586,"chesterfield, virginia, usa",english,female
+863,2222,arabic115,"damascus, syria",arabic,female
+864,2225,english587,"philadelphia, pennsylvania, usa",english,female
+865,2230,spanish164,"zacatecas, mexico",spanish,female
+866,2235,spanish165,"mayaguez, puerto rico",spanish,male
+867,2238,spanish166,"santo domingo, dominican republic",spanish,female
+868,2239,spanish167,"lima, peru",spanish,female
+869,2240,spanish168,"pasto, colombia",spanish,male
+870,2243,arabic116,"al ras, saudi arabia",arabic,female
+871,2250,spanish169,"ponce, puerto rico",spanish,female
+872,2253,arabic117,"al ras, saudi arabia",arabic,male
+873,2254,arabic118,"riyadh, saudi arabia",arabic,male
+874,2256,arabic119,"jiddah, saudi arabia",arabic,male
+875,2257,arabic120,"riyadh, saudi arabia",arabic,male
+876,2258,arabic121,"riyadh, saudi arabia",arabic,male
+877,2259,spanish170,"cochabamba, bolivia",spanish,male
+878,2260,spanish171,"guayaquil, ecuador",spanish,female
+879,2268,arabic122,"sabt alalaya, saudi arabia",arabic,male
+880,2279,spanish172,"la union, el salvador",spanish,male
+881,2288,spanish173,"ambato, ecuador",spanish,female
+882,2298,spanish174,"falcon, venezuela",spanish,female
+883,2300,spanish175,"rio piedras, puerto rico",spanish,female
+884,2304,arabic123,"riyadh, saudi arabia",arabic,male
+885,2310,arabic124,"geulmim, morocco",arabic,male
+886,2311,arabic125,"beersheba, israel",arabic,male
+887,2312,arabic126,"beersheba, israel",arabic,male
+888,2313,arabic127,"tarshiha-maalot, israel",arabic,female
+889,2317,spanish176,"panama city, panama",spanish,male
+890,2321,arabic128,"riyadh, saudi arabia",arabic,male
+891,2328,spanish177,"sonsonate, el salvador",spanish,female
+892,2331,arabic129,"ramallah, palestine",arabic,male
+893,2335,spanish178,"chalatenango, el salvador",spanish,female
+894,2336,spanish179,"san miguel, el salvador",spanish,female
+895,2338,spanish180,"cochabamba, bolivia",spanish,male
+896,2344,arabic130,"unizah, saudi arabia",arabic,male
+897,2345,arabic131,"riyadh, saudi arabia",arabic,male
+898,2361,english588,"fairfax, virginia, usa",english,female
+899,2362,english589,"gloucester, uk",english,male
+900,2364,spanish181,"lima, peru",spanish,female
+901,2367,spanish182,"trujillo, peru",spanish,male
+902,2370,spanish183,"bogota, colombia",spanish,female
+903,2371,spanish184,"lima, peru",spanish,male
+904,2372,spanish185,"san salvador, el salvadore",spanish,female
+905,2373,spanish186,"tegucigalpa, honduras",spanish,male
+906,2374,english590,"lakeland, florida, usa",english,female
+907,2375,english591,"colorado springs, colorado, usa",english,female
+908,2376,english592,"miami, florida, usa",english,female
+909,2377,english593,"boston, massachusetts, usa",english,female
+910,2378,english594,"richmond, virginia, usa",english,female
+911,2379,english595,"leesburg, virginia, usa",english,female
+912,2380,english596,"baltimore, maryland, usa",english,female
+913,2381,english597,"fairfax, virginia, usa",english,male
+914,2382,english598,"mitchell, south dakota, usa",english,male
+915,2383,english599,"alexandria, virginia, usa",english,female
+916,2385,english600,"portland, oregon, usa",english,female
+917,2387,arabic132,"cairo, egypt",arabic,female
+918,2393,spanish187,"santurce, puerto rico",spanish,female
+919,2396,spanish188,"panama city, panama",spanish,female
+920,2397,spanish189,"santa clara, san vicente, el salvador",spanish,male
+921,2399,arabic133,"abha, saudi arabia",arabic,female
+922,2401,spanish190,"bogota, colombia",spanish,male
+923,2404,english601,"fairfax, virginia, usa",english,male
+924,2405,english602,"new york, new york, usa",english,female
+925,2407,arabic134,"abha, saudi arabia",arabic,female
+926,2410,arabic135,"riyadh, saudi arabia",arabic,female
+927,2411,arabic136,"cardiff, wales, uk",arabic,female
+928,2425,arabic137,"al-ayn, united arab emirates",arabic,male
+929,2426,arabic138,"riyadh, saudi arabia",arabic,male
+930,2427,arabic139,"khartoum, sudan",arabic,male
+931,2428,english603,"los angeles, california, usa",english,male
+932,2433,arabic140,"taif, saudi arabia",arabic,female
+933,2434,spanish191,"bogota, colombia",spanish,female
+934,2437,arabic141,"cairo, egypt",arabic,male
+935,2438,english604,"brisbane, queensland, australia",english,female
+936,2439,english605,"cairns, queensland, australia",english,male
+937,2440,english606,"southport, australia",english,female
+938,2441,english607,"narrabri, new south wales, australia",english,female
+939,2442,english608,"brisbane, queensland, australia",english,male
+940,2443,english609,"narrandera, new south wales, australia",english,female
+941,2444,english610,"townsville, queensland, australia",english,female
+942,2445,english611,"brisbane, queensland, australia",english,male
+943,2452,arabic142,"almajmaah, saudi arabia",arabic,male
+944,2466,spanish192,"cordoba, argentina",spanish,male
+945,2467,spanish193,"david, panama",spanish,female
+946,2470,arabic143,"medina, saudi arabia",arabic,female
+947,2471,spanish194,"cochabamba, bolivia",spanish,male
+948,2475,spanish195,"guatemala city, guatemala",spanish,female
+949,2479,arabic144,"laayoune, morocco",arabic,male
+950,2482,spanish196,"san cristobal, dominican republic",spanish,female
+951,2488,arabic145,"riyadh, saudi arabia",arabic,female
+952,2491,spanish197,"madrid, spain",spanish,female
+953,2496,spanish198,"tejupilco, mexico",spanish,female
+954,2507,spanish199,"san juan, puerto rico",spanish,male
+955,2508,arabic146,"amman, jordan",arabic,male
+956,2521,spanish200,"bogota, colombia",spanish,female
+957,2533,english612,"middlesbrough, england, uk",english,male
+958,2544,arabic147,"baha, saudi arabia",arabic,female
+959,2550,arabic148,"taif, saudi arabia",arabic,female
+960,2570,english613,"melbourne, australia",english,male
+961,2584,arabic149,"riyadh, saudi arabia",arabic,female
+962,2586,spanish201,"mexico city, mexico",spanish,male
+963,2588,spanish202,"mexico city, mexico",spanish,female
+964,2590,spanish203,"usulutan, el salvador",spanish,female
+965,2592,arabic150,"riyadh, saudi arabia",arabic,female
+966,2598,arabic151,"riyadh, saudi arabia",arabic,female
+967,2602,spanish204,"almeria, spain",spanish,male
+968,2606,english614,"pensacola, florida, usa",english,female
+969,2607,arabic152,"riyadh, saudi arabia",arabic,female
+970,2613,english615,"dublin, ireland",english,male
+971,2614,spanish205,"cerete, colombia",spanish,male
+972,2615,spanish206,"santiago, chile",spanish,female
+973,2619,english616,"fort wayne, indiana, usa",english,male
+974,2630,english617,"kingston, jamaica",english,female
+975,2674,english618,"fullerton, california, usa",english,male
+976,2676,arabic153,"kuwait city, kuwait",arabic,male
+977,2684,spanish207,"ica, peru",spanish,female
+978,2692,spanish208,"santo domingo, dominican republic",spanish,male
+979,2693,arabic154,"baha, saudi arabia",arabic,male
+980,2705,spanish209,"lima, peru",spanish,female
+981,2720,arabic155,"buraydah, saudi arabia",arabic,male
+982,2724,english619,"jackson, tennessee, usa",english,male
+983,2729,spanish210,"cordoba, argentina",spanish,female
+984,2730,arabic156,"cairo, egypt",arabic,female
+985,2734,arabic157,"sanaa, yemen",arabic,female
+986,2735,english620,"glasgow, scotland, uk",english,male
+987,2741,arabic158,"jakarta, indonesia",arabic,male
+988,2742,arabic159,"medina, saudi arabia",arabic,male
+989,2743,arabic160,"amman, jordan",arabic,female
+990,2749,arabic161,"minya, egypt",arabic,female
+991,2750,arabic162,"buraydah, saudi arabia",arabic,male
+992,2752,arabic163,"bouznika, morocco",arabic,female
+993,2760,spanish211,"la paz, bolivia",spanish,female
+994,2761,spanish212,"la union, el salvador",spanish,female
+995,2765,arabic164,"sale, morocco",arabic,female
+996,2769,spanish213,"loja, ecuador",spanish,male
+997,2770,spanish214,"neiva, colombia",spanish,female
+998,2771,arabic165,"beirut, lebanon",arabic,female
+999,2780,arabic166,"buraydah, saudi arabia",arabic,male
+1000,2788,arabic167,"alkharj, saudi arabia",arabic,male
+1001,2791,spanish215,"cochabamba, bolivia",spanish,female
+1002,2793,english621,"pittsburgh, pennsylvania, usa",english,female
+1003,2794,arabic168,"jiddah, saudi arabia",arabic,female
+1004,2799,english622,"st. paul, minnesota, usa",english,female
+1005,2801,spanish216,"caracas, venezuela",spanish,female
+1006,2803,english623,"fort wayne, indiana, usa",english,male
+1007,2804,english624,"washington, district of columbia, usa",english,male
+1008,2805,english625,"minneapolis, minnesota, usa",english,male
+1009,2806,english626,"hammond, indiana, usa",english,female
+1010,2809,arabic169,"tripoli, libya",arabic,female
+1011,2811,arabic170,"vienna, virginia, usa",arabic,female
+1012,2827,spanish217,"bogota, colombia",spanish,female
+1013,2829,spanish218,"danli, honduras",spanish,female
+1014,2832,arabic171,"medina, saudi arabia",arabic,male
+1015,2835,spanish219,"santa ana, el salvador",spanish,female
+1016,2842,arabic172,"montgomery, alabama, usa",arabic,male
+1017,2844,spanish220,"guadalajara, jalisco, mexico",spanish,male
+1018,2847,english627,"sydney, australia",english,female
+1019,2855,english628,"pittsburgh, pennsylvania, usa",english,male
+1020,2858,arabic173,"tyre, lebanon",arabic,female
+1021,2861,spanish221,"bogota, colombia",spanish,female
+1022,2864,arabic174,"riyadh, saudi arabia",arabic,female
+1023,2865,spanish222,"villalba, puerto rico",spanish,female
+1024,2867,spanish223,"santa rosa, texas, usa",spanish,female
+1025,2868,arabic175,"jiddah, saudi arabia",arabic,male
+1026,2873,arabic176,"jiddah, saudi arabia",arabic,male
+1027,2889,arabic177,"riyadh, saudi arabia",arabic,male
+1028,2894,english629,"south riding, virginia, usa",english,female
+1029,2895,english630,"woodbridge, virginia, usa",english,female
+1030,2896,english631,"harrisonburg, virginia, usa",english,female
+1031,2897,english632,"falls church, virginia, usa",english,female
+1032,2898,english633,"washington, district of columbia, usa",english,female
+1033,2899,arabic178,"jiddah, saudi arabia",arabic,male
+1034,2900,arabic179,"riyadh, saudi arabia",arabic,male
+1035,2901,arabic180,"riyadh, saudi arabia",arabic,male
+1036,2902,arabic181,"riyadh, saudi arabia",arabic,male
+1037,2903,arabic182,"riyadh, saudi arabia",arabic,female
+1038,2904,arabic183,"riyadh, saudi arabia",arabic,female
+1039,2905,arabic184,"riyadh, saudi arabia",arabic,male
+1040,2906,arabic185,"riyadh, saudi arabia",arabic,male
+1041,2907,arabic186,"riyadh, saudi arabia",arabic,female
+1042,2908,arabic187,"riyadh, saudi arabia",arabic,female
+1043,2909,arabic188,"riyadh, saudi arabia",arabic,male
+1044,2910,arabic189,"riyadh, saudi arabia",arabic,female
+1045,2911,arabic190,"riyadh, saudi arabia",arabic,female
+1046,2912,arabic191,"riyadh, saudi arabia",arabic,female
+1047,2913,arabic192,"riyadh, saudi arabia",arabic,female
+1048,2914,arabic193,"riyadh, saudi arabia",arabic,male
+1049,2915,arabic194,"riyadh, saudi arabia",arabic,male
+1050,2916,english634,"alexandria, virginia, usa",english,male
+1051,2917,english635,"vienna, virginia, usa",english,female
+1052,2918,english636,"washington, dc, usa",english,female
+1053,2919,english637,"knoxville, tennessee, usa",english,female
+1054,2920,english638,"new york, new york, usa",english,male
+1055,2921,english639,"hopkinsville, kentucky, usa",english,male
+1056,2922,english640,"aurora, colorado, usa",english,female
+1057,2923,english641,"fairfax, virginia, usa",english,female
+1058,2924,english642,"woodbridge, virginia, usa",english,female
+1059,2925,english643,"culpeper, virginia, usa",english,female
+1060,2926,english644,"watertown, new york, usa",english,female
+1061,2927,spanish224,"la serena, chile",spanish,female
+1062,2932,english645,"hollister, california, usa",english,male
+1063,2933,spanish225,"durango, mexico",spanish,male
+1064,2934,spanish226,"los mochis, sinaloa, mexico",spanish,male
+1065,2935,spanish227,"durango, durango, mexico",spanish,female
+1066,2938,spanish228,"piura, peru",spanish,female
+1067,2939,english646,"hazleton, pennsylvania, usa",english,male

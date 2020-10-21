@@ -103,9 +103,9 @@ if __name__ == "__main__":
              'kannada', 'mandarin', 'russian', 'spanish']
     lang_tuple = get_formatted_languages(langs)
     print(lang_tuple)
-    #('arabic', 194), ('english', 646), ('french', 80), ('german', 42), ('hindi', 34), ('kannada', 9), ('mandarin', 150), ('russian', 81), ('spanish', 228)]
+    #('arabic', 194), ('english', 646), ('french', 80), ('german', 42), ('hindi', 34), ('kannada', 9), ('mandarin', 151), ('russian', 81), ('spanish', 228)]
     print('Downloading now...')
     #mp3getter(lang_tuple)
-    #get_speaker_info(1, 2941)
+    #get_speaker_info(1, 2942)
     extract_from_data(langs)  # Extracted Data stored in final_data.csv
     print("DONE!!")

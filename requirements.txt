@@ -2,3 +2,9 @@ beautifulsoup4
 requests
 pandas
 numpy
+librosa
+pydub
+keras
+tensorflow
+matplotlib
+sklearn
