@@ -6,3 +6,5 @@ librosa
 pydub
 keras
 tensorflow
+matplotlib
+sklearn
