@@ -7,6 +7,7 @@ from sklearn.model_selection import train_test_split
 from keras import utils
 import keras
 from keras.layers import BatchNormalization
+from keras.layers.recurrent import LSTM
 from keras.layers.core import Dense, Dropout, Flatten
 from keras.layers.convolutional import MaxPooling2D, Conv2D
 from keras.preprocessing.image import ImageDataGenerator
@@ -14,6 +15,16 @@ from keras.callbacks import EarlyStopping, TensorBoard
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.utils import shuffle
+from sklearn.ensemble import RandomForestClassifier
+import sklearn
+import math
+
+from keras.preprocessing import sequence
+from keras.utils import np_utils
+from keras.models import Sequential
+from keras.layers.core import Dense, Dropout, Activation
+from keras.layers.recurrent import LSTM
+from sklearn.metrics import classification_report
 
 DEBUG = True
 SILENCE_THRESHOLD = .01
@@ -120,16 +131,47 @@ def cnn_model(X_train, y_train, X_validation, y_validation, batch_size=64):
     datagen = ImageDataGenerator(width_shift_range=0.05)
     # Fit model using ImageDataGenerator
     history = model.fit_generator(datagen.flow(X_train, y_train, batch_size=batch_size),
-                                  steps_per_epoch=len(X_train) / 32, epochs=(EPOCHS+5),
+                                  steps_per_epoch=len(X_train) / 64, epochs=(EPOCHS+5),
                                   callbacks=[es, tb], validation_data=(X_validation, y_validation), verbose=2)
 
     #history = model.fit(X_train,y_train, batch_size = batch_size,epochs = EPOCHS,callbacks = [es,tb], validation_data=(X_validation,y_validation),verbose = 2)
-    pd.DataFrame(history.history).plot(figsize=(10, 5))
-    plt.grid(True)
-    plt.gca().set_ylim(0, 1)
-    plt.show()
+    # pd.DataFrame(history.history).plot(figsize=(10, 5))
+    # plt.grid(True)
+    # plt.gca().set_ylim(0, 1)
+    # plt.show()
 
     return (model)
+
+
+def rf(X_train, y_train, X_validation, y_validation):
+    df = pd.DataFrame(data=np.array(y_train), columns=[
+                      "column1", "column2", "column3"])
+    df['categorical'] = df[df.columns[1:]].apply(
+        lambda x: ','.join(x.dropna().astype(int).astype(str)), axis=1)
+    df.drop(['column1', 'column2', 'column3'], axis=1, inplace=True)
+    df.loc[df['categorical'] == '0,0', :] = 0
+    df.loc[df['categorical'] == '1,0', :] = 1
+    df.loc[df['categorical'] == '0,1', :] = 2
+    X_train1 = np.array(X_train)
+    df1 = pd.DataFrame(X_train1.reshape(
+        X_train1.shape[0], X_train1.shape[1] * X_train1.shape[2]))
+    X_test1 = np.array(X_validation)
+    df3 = pd.DataFrame(X_test1.reshape(
+        X_test1.shape[0], X_test1.shape[1] * X_test1.shape[2]))
+    df5 = pd.DataFrame(data=np.array(y_validation), columns=[
+                       "column1", "column2", "column3"])
+    df5['categorical'] = df5[df5.columns[1:]].apply(
+        lambda x: ','.join(x.dropna().astype(int).astype(str)), axis=1)
+    df5.drop(['column1', 'column2', 'column3'], axis=1, inplace=True)
+    df5.loc[df5['categorical'] == '0,0', :] = 0
+    df5.loc[df5['categorical'] == '1,0', :] = 1
+    df5.loc[df5['categorical'] == '0,1', :] = 2
+    rfc = RandomForestClassifier(n_estimators=150)
+    rfc.fit(df1, df)
+    y_pred = rfc.predict(df3)
+    mse = sklearn.metrics.mean_squared_error(df5['categorical'], y_pred)
+    rmse = math.sqrt(mse)
+    print('Accuracy for Random Forest', 100*rmse)
 
 
 def predict_class_audio(MFCCs, model):
@@ -218,7 +260,7 @@ def create_segmented_mfccs(X_train):
 
 
 if __name__ == '__main__':
-    df = pd.read_csv('Data/three_languages.csv')
+    df = pd.read_csv('Data/3_lang.csv')
     X_train, X_test, y_train, y_test = split_people(df)
 
     # Count of the training and testing samples
@@ -228,7 +270,7 @@ if __name__ == '__main__':
     # Gives 0.47440273037542663
     acc_to_beat = test_count.most_common(
         1)[0][1] / float(np.sum(list(test_count.values())))
-    # print(acc_to_beat)
+    print(acc_to_beat)
 
     # Converting to numerical categories
     y_train = to_categorical(y_train)
@@ -250,10 +292,10 @@ if __name__ == '__main__':
     # Randomizing training segments to create non-uniform data
     #X_train, _, y_train, _ = train_test_split(X_train, y_train, test_size=0)
 
-    model = cnn_model(np.array(X_train), np.array(y_train),
-                      np.array(X_validation), np.array(y_validation))
+    # model = cnn_model(np.array(X_train), np.array(y_train),np.array(X_validation), np.array(y_validation))
 
-    y_predicted = predict_class_all(create_segmented_mfccs(X_test), model)
+    # y_predicted = predict_class_all(create_segmented_mfccs(X_test), model)
+    rf(X_train, y_train,X_validation,y_validation)
 
     # Print statistics
     print('Training samples:', train_count)

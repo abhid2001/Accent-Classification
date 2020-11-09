@@ -49,7 +49,6 @@ def get_speaker_info(start, stop):
     Inputs: two integers, corresponding to min and max speaker id number per language
     Outputs: Pandas Dataframe containing speaker filename, birthplace, native_language, age, sex, age_onset of English
     '''
-
     user_data = []
     for num in range(start, stop):
         info = {'speakerid': num, 'filename': 0, 'birthplace': 1,
@@ -91,21 +90,15 @@ def extract_from_data(langs):
     df1 = df1[df1['native_language'].isin(langs)]
     final = pd.concat([df, df1], axis=0)
     final.drop(['Unnamed: 0','age','age_onset'], axis = 1, inplace = True)
-    final.to_csv('Data/final_data.csv')
-    #data = pd.read_csv('Data/final_data.csv')
-    #data.drop(['Unnamed: 0','age','age_onset'], axis = 1, inplace = True)
-    #	data.to_csv('Data/final_data.csv')
+    final.to_csv('Data/final_data_2.csv')
 
 
 if __name__ == "__main__":
-    # Add the function call here
-    langs = ['arabic', 'english', 'french', 'german', 'hindi',
-             'kannada', 'mandarin', 'russian', 'spanish']
+    langs = ['arabic', 'hindi', 'spanish']
     lang_tuple = get_formatted_languages(langs)
     print(lang_tuple)
-    #('arabic', 194), ('english', 646), ('french', 80), ('german', 42), ('hindi', 34), ('kannada', 9), ('mandarin', 151), ('russian', 81), ('spanish', 228)]
     print('Downloading now...')
     #mp3getter(lang_tuple)
     #get_speaker_info(1, 2942)
-    extract_from_data(langs)  # Extracted Data stored in final_data.csv
+    extract_from_data(langs)
     print("DONE!!")
